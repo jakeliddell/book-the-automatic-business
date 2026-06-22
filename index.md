@@ -6,7 +6,7 @@ At eighteen, I was about to read Physics at Bristol. I had no real idea what I w
 
 But I was tired. Tired of years of education, of exams, of being told what to learn and when. So before university I took a year out, and I went to work for a company called ICL (or International Computers Limited, a very British company).
 
-If you are too young to remember ICL, it was one of the most innovative technology companies Britain ever produced, a giant of the mainframe era. While I was there, Fujitsu bought it. I landed in the R&D division: fifty or so computer science boffins building some of the most advanced hardware and software anywhere in the world at the time. My job, right at the bottom of the pile, was systems administration. In plain English, that meant keeping the kit running while fifty brilliant people did their level best to hammer it into the ground and break it.
+If you are too young to remember ICL, it was one of the most innovative technology companies Britain ever produced, a giant of the mainframe era. While I was there, Fujitsu bought it. I landed in the R&D division: fifty or so computer science boffins building some of the most advanced hardware and software anywhere in the world at the time. TheyMy job, right at the bottom of the pile, was systems administration. In plain English, that meant keeping the kit running while fifty brilliant people did their level best to hammer it into the ground and break it.
 
 One day, someone handed me a box of hardware worth seven thousand pounds. It was a forerunner of the modern PC, with a fax card bolted inside. The instruction was simple, and at the time slightly mad. "Make it so we can send a fax by emailing a fax address."
 
