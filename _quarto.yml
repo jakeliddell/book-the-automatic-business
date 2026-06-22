@@ -10,7 +10,10 @@ book:
     - index.qmd
     - manuscript/foreword.qmd
     - manuscript/introduction.qmd
-    - manuscript/01-the-automation-mindset.qmd
+    - part: "Part One: Why You're the Bottleneck"
+      chapters:
+        - manuscript/01-you-are-the-bottleneck.qmd
+        - manuscript/02-technician-to-architect.qmd
 
 format:
   pdf:
