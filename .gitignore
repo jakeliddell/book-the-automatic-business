@@ -1,0 +1,7 @@
+# Quarto build outputs
+/_build/
+/.quarto/
+
+# Local render artifacts
+*.aux
+*.log
