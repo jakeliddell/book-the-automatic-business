@@ -12,7 +12,7 @@ One day, someone handed me a box of hardware worth seven thousand pounds. It was
 
 So I did. I learned an enormous amount along the way. About email servers, about the Unix kernel, about how to solder an RS-232 cable when the one you needed did not exist. And at the end of it, you could write an email, send it to an address, and a fax would roll out of a machine on the other side of the country, or the world.
 
-Nobody called it automation back then. But that is exactly what it was. A repetitive human job, handed to a system that did it on its own.
+Nobody called it automation back then. But that is exactly what it was. A repetitive human job, handed to a system that did it on its own.  A job that was usually d
 
 I went back to Bristol and changed my degree from Physics to Computer Science. That was the beginning of everything that came next.
 
