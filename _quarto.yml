@@ -8,6 +8,8 @@ book:
   author: "Jake Liddell"
   chapters:
     - index.qmd
+    - manuscript/foreword.qmd
+    - manuscript/introduction.qmd
     - manuscript/01-the-automation-mindset.qmd
 
 format:
