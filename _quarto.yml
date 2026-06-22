@@ -1,0 +1,25 @@
+project:
+  type: book
+  output-dir: _build
+
+book:
+  title: "The Automatic Business"
+  subtitle: "Do What Only You Can Do"
+  author: "Jake Liddell"
+  chapters:
+    - index.qmd
+    - manuscript/01-the-automation-mindset.qmd
+
+format:
+  pdf:
+    documentclass: scrbook
+    fontsize: 11pt
+    geometry:
+      - paperwidth=6in
+      - paperheight=9in
+      - inner=0.875in
+      - outer=0.5in
+      - top=0.75in
+      - bottom=0.6in
+  epub:
+    toc: true

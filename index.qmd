@@ -1,0 +1,10 @@
+# Welcome {.unnumbered}
+
+This is the working manuscript of *The Automatic Business*.
+
+Placeholder front matter. The real "Important: Read This First" and Preface
+will be written here as we work through the front matter.
+
+The chapter that follows is a pipeline-test conversion of the original
+Chapter 1, used to prove the markdown to PDF and EPUB build. See
+`reference/RESTRUCTURE_BLUEPRINT.md` for the full plan.
