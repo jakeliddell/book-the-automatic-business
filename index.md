@@ -40,7 +40,7 @@ There are five steps. If any of them feel painfully familiar, it is because you 
 
 **2. The Tool Hunt.** You open your laptop and type the words that promise salvation: "best automation tools for small business." Google serves up a glittering buffet. CRMs, schedulers, invoicing apps, chatbots, AI assistants. You sign up for trials. You watch webinars. Days disappear into tabs and tutorials, until you feel you need a degree just to set the thing up.
 
-**3. The Frankenstack Fix.** You cobble something together. A bit of one tool here, a bit of another there, held together with good intentions. It works, until it does not. An integration breaks. A notification goes missing. A task falls through a gap. You patch it, add another subscription, another workaround. You are now spending real hours just keeping the tech alive.
+**3. The Frankenstack Fix.** You cobble something together. A bit of one tool here, a bit of another there, held together with good intentions. It works, until it doesn't. An integration breaks. A notification goes missing. A task falls through a gap. You patch it, add another subscription, another workaround. You are now spending real hours just keeping the tech alive.
 
 **4. The Blame Game.** The cracks show. A client complains. Your team asks which system they are supposed to use this week. You feel the weight of it pressing down, and in your quietest moments you wonder if the problem is you. So you retreat into firefighting and just try to survive the day.
 
