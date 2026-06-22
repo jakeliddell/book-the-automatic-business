@@ -4,7 +4,7 @@ I almost became a physicist.
 
 At eighteen, I was about to read Physics at Bristol. I had no real idea what I wanted to do with my life, but I found physics genuinely fascinating. Quantum mechanics had me hooked. Schrödinger's cat, the idea that something could be two things at once until somebody looked. I thought it was the most interesting idea in the world.
 
-But I was tired. Tired of years of education, of exams, of being told what to learn and when. So before university I took a year out, and I went to work for a company called ICL (.
+But I was tired. Tired of years of education, of exams, of being told what to learn and when. So before university I took a year out, and I went to work for a company called ICL (or International Computers Limi.
 
 If you are too young to remember ICL, it was one of the most innovative technology companies Britain ever produced, a giant of the mainframe era. While I was there, Fujitsu bought it. I landed in the R&D division: fifty or so computer science boffins building some of the most advanced hardware and software anywhere in the world at the time. My job, right at the bottom of the pile, was systems administration. In plain English, that meant keeping the kit running while fifty brilliant people did their level best to hammer it into the ground and break it.
 
