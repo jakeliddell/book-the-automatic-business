@@ -7,13 +7,13 @@ book:
   subtitle: "Do What Only You Can Do"
   author: "Jake Liddell"
   chapters:
-    - index.qmd
-    - manuscript/foreword.qmd
-    - manuscript/introduction.qmd
+    - index.md
+    - manuscript/foreword.md
+    - manuscript/introduction.md
     - part: "Part One: Why You're the Bottleneck"
       chapters:
-        - manuscript/01-you-are-the-bottleneck.qmd
-        - manuscript/02-technician-to-architect.qmd
+        - manuscript/01-you-are-the-bottleneck.md
+        - manuscript/02-technician-to-architect.md
 
 format:
   pdf:
