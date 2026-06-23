@@ -28,6 +28,7 @@ book:
         - manuscript/10-client-operating-system.md
         - manuscript/11-killing-errors.md
         - manuscript/12-communications.md
+        - manuscript/13-digital-teammates.md
 
 format:
   pdf:
