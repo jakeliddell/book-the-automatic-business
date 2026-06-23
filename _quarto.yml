@@ -25,6 +25,7 @@ book:
         - manuscript/07-second-brain-concept.md
         - manuscript/08-second-brain-build.md
         - manuscript/09-connecting-everything.md
+        - manuscript/10-client-operating-system.md
 
 format:
   pdf:
