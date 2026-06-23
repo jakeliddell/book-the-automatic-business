@@ -13,3 +13,4 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-second-brain | Ch 7 | placeholder | [prompt](images/ch07/fig-second-brain.prompt.md) | A before-and-after diagram; knowledge scattered and funnelling through the owner, versus one shared Keystone the team and AI draw on. |
 | fig-keystone-layers | Ch 8 | placeholder | [prompt](images/ch08/fig-keystone-layers.prompt.md) | A three-layer stack: raw sources feed up into the AI-maintained Keystone, which is drawn on by the team, the AI, and the automations. |
 | fig-connector | Ch 9 | placeholder | [prompt](images/ch09/fig-connector.prompt.md) | One trigger flowing through a no-code connector that fans out into four automatic actions. |
+| fig-pipeline | Ch 10 | placeholder | [prompt](images/ch10/fig-pipeline.prompt.md) | A pipeline board with four stage columns and lead cards moving from New Lead through to Signed. |
