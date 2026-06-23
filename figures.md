@@ -11,3 +11,4 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-brief-check | Ch 5 | placeholder | [prompt](images/ch05/fig-brief-check.prompt.md) | A loop showing how to work with AI: brief it, it drafts, you check, then use or refine. |
 | fig-value-effort | Ch 6 | placeholder | [prompt](images/ch06/fig-value-effort.prompt.md) | A value-versus-effort matrix; the high-value, low-effort corner is marked START HERE. |
 | fig-second-brain | Ch 7 | placeholder | [prompt](images/ch07/fig-second-brain.prompt.md) | A before-and-after diagram; knowledge scattered and funnelling through the owner, versus one shared Keystone the team and AI draw on. |
+| fig-keystone-layers | Ch 8 | placeholder | [prompt](images/ch08/fig-keystone-layers.prompt.md) | A three-layer stack: raw sources feed up into the AI-maintained Keystone, which is drawn on by the team, the AI, and the automations. |
