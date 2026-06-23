@@ -18,6 +18,7 @@ book:
       chapters:
         - manuscript/03-the-triage.md
         - manuscript/04-ai-is-not-automation.md
+        - manuscript/05-your-brilliant-new-hire.md
 
 format:
   pdf:

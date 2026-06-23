@@ -1,0 +1,30 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 840 300' font-family='sans-serif'>
+  <rect width='840' height='300' fill='#F7F5F1'/>
+  <path d='M525 150 C525 92, 325 92, 325 150' fill='none' stroke='#B5632F' stroke-width='2'/>
+  <polygon points='325,152 319,134 331,134' fill='#B5632F'/>
+  <text x='425' y='86' text-anchor='middle' font-size='13' fill='#B5632F'>refine: tell it what to change</text>
+  <g fill='#F0E4D8' stroke='#2A2A28' stroke-width='2'>
+    <rect x='40' y='150' width='150' height='64' rx='8'/>
+    <rect x='250' y='150' width='150' height='64' rx='8'/>
+    <rect x='450' y='150' width='150' height='64' rx='8'/>
+    <rect x='650' y='150' width='150' height='64' rx='8'/>
+  </g>
+  <g text-anchor='middle' fill='#2A2A28'>
+    <text x='115' y='178' font-size='16' font-weight='bold'>BRIEF IT</text>
+    <text x='115' y='199' font-size='12'>context, example, format</text>
+    <text x='325' y='187' font-size='16' font-weight='bold'>AI DRAFTS</text>
+    <text x='525' y='187' font-size='16' font-weight='bold'>YOU CHECK</text>
+    <text x='725' y='187' font-size='16' font-weight='bold'>USE IT</text>
+  </g>
+  <g stroke='#2A2A28' stroke-width='2' fill='none'>
+    <line x1='190' y1='182' x2='250' y2='182'/>
+    <line x1='400' y1='182' x2='450' y2='182'/>
+    <line x1='600' y1='182' x2='650' y2='182'/>
+  </g>
+  <g fill='#2A2A28'>
+    <polygon points='250,182 238,176 238,188'/>
+    <polygon points='450,182 438,176 438,188'/>
+    <polygon points='650,182 638,176 638,188'/>
+  </g>
+  <text x='420' y='262' text-anchor='middle' font-size='16' fill='#2A2A28'>Brief it like a new hire. Check it like a manager.</text>
+</svg>
