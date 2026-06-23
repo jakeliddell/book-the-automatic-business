@@ -54,4 +54,4 @@ That is not fear talking. It is simply what I have watched happen for thirty-fiv
 
 This book is the way out. It is not theory, and it is not for the tech elite. It is a practical manual for owners who have a team. Enough people for real chaos, few enough that the chaos still lands on your desk. I will name the trap you are in, plainly and without jargon, and then I will walk you out of it, one step at a time.
 
-So make a strong cup of tea, turn off the notifications, and turn the page. The answers you have been chasing, often in the wrong places, are about to be laid out in front of you.
+So make a strong cup of coffee, turn off the notifications, and turn the page. The answers you have been chasing, often in the wrong places, are about to be laid out in front of you.
