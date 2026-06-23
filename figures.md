@@ -10,3 +10,4 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-automation-vs-ai | Ch 4 | placeholder | [prompt](images/ch04/fig-automation-vs-ai.prompt.md) | A two-panel diagram contrasting deterministic automation with probabilistic AI. |
 | fig-brief-check | Ch 5 | placeholder | [prompt](images/ch05/fig-brief-check.prompt.md) | A loop showing how to work with AI: brief it, it drafts, you check, then use or refine. |
 | fig-value-effort | Ch 6 | placeholder | [prompt](images/ch06/fig-value-effort.prompt.md) | A value-versus-effort matrix; the high-value, low-effort corner is marked START HERE. |
+| fig-second-brain | Ch 7 | placeholder | [prompt](images/ch07/fig-second-brain.prompt.md) | A before-and-after diagram; knowledge scattered and funnelling through the owner, versus one shared second brain the team and AI draw on. |

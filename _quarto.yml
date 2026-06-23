@@ -20,6 +20,9 @@ book:
         - manuscript/04-ai-is-not-automation.md
         - manuscript/05-your-brilliant-new-hire.md
         - manuscript/06-where-to-start.md
+    - part: "Part Three: Building the Automatic Business"
+      chapters:
+        - manuscript/07-second-brain-concept.md
 
 format:
   pdf:
