@@ -14,3 +14,4 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-keystone-layers | Ch 8 | placeholder | [prompt](images/ch08/fig-keystone-layers.prompt.md) | A three-layer stack: raw sources feed up into the AI-maintained Keystone, which is drawn on by the team, the AI, and the automations. |
 | fig-connector | Ch 9 | placeholder | [prompt](images/ch09/fig-connector.prompt.md) | One trigger flowing through a no-code connector that fans out into four automatic actions. |
 | fig-pipeline | Ch 10 | placeholder | [prompt](images/ch10/fig-pipeline.prompt.md) | A pipeline board with four stage columns and lead cards moving from New Lead through to Signed. |
+| fig-missing-step | Ch 11 | placeholder | [prompt](images/ch11/fig-missing-step.prompt.md) | A five-step process with step four missing and automatically flagged by an alert. |
