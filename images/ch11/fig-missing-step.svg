@@ -1,0 +1,30 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 300' font-family='sans-serif'>
+  <rect width='780' height='300' fill='#F7F5F1'/>
+  <g stroke='#2A2A28' stroke-width='2' fill='none'>
+    <line x1='112' y1='170' x2='178' y2='170'/>
+    <line x1='262' y1='170' x2='328' y2='170'/>
+    <line x1='412' y1='170' x2='478' y2='170'/>
+    <line x1='562' y1='170' x2='628' y2='170'/>
+  </g>
+  <g fill='#F0E4D8' stroke='#B5632F' stroke-width='3'>
+    <circle cx='80' cy='170' r='32'/>
+    <circle cx='230' cy='170' r='32'/>
+    <circle cx='380' cy='170' r='32'/>
+    <circle cx='680' cy='170' r='32'/>
+  </g>
+  <g stroke='#B5632F' stroke-width='3' fill='none' stroke-linecap='round'>
+    <polyline points='68,170 78,181 94,158'/>
+    <polyline points='218,170 228,181 244,158'/>
+    <polyline points='368,170 378,181 394,158'/>
+    <polyline points='668,170 678,181 694,158'/>
+  </g>
+  <circle cx='530' cy='170' r='32' fill='#F7F5F1' stroke='#2A2A28' stroke-width='2.5' stroke-dasharray='6 5'/>
+  <text x='530' y='179' text-anchor='middle' font-size='26' font-weight='bold' fill='#2A2A28'>?</text>
+  <rect x='430' y='44' width='200' height='40' rx='8' fill='#EFEAE1' stroke='#B5632F' stroke-width='2'/>
+  <text x='530' y='69' text-anchor='middle' font-size='13' fill='#B5632F'>flagged: step 4 incomplete</text>
+  <line x1='530' y1='84' x2='530' y2='136' stroke='#B5632F' stroke-width='2' stroke-dasharray='4 4'/>
+  <g fill='#7A756B' font-size='12' text-anchor='middle'>
+    <text x='80' y='224'>1</text><text x='230' y='224'>2</text><text x='380' y='224'>3</text><text x='530' y='224'>4</text><text x='680' y='224'>5</text>
+  </g>
+  <text x='390' y='270' text-anchor='middle' font-size='14' fill='#2A2A28'>the system catches the gap before the client does</text>
+</svg>
