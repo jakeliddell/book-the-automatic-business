@@ -10,7 +10,7 @@ If you are too young to remember ICL, it was one of the most innovative technolo
 
 One day, my boss handed me a box of hardware worth seven thousand pounds. It was essentially a tower PC, with a fax card bolted inside, sold at a premium as a "fax interface". The instruction was simple, and at the time slightly mad. "Make it so we can send a fax by emailing a fax address."
 
-So I did. I learned an enormous amount along the way. About email servers, about the Unix kernel, about how to solder an RS-232 cable when the one you needed did not exist, and how to interpret the signals . And at the end of it, you could write an email, send it to an address, and a fax would roll out of a machine on the other side of the country, or the world.
+So I did. I learned an enormous amount along the way. About email servers, about the Unix kernel, about how to solder an RS-232 cable when the one you needed did not exist, and how to interpret the signals it produced. At the end of it, you could write an email, send it to an address, and a fax would roll out of a machine on the other side of the country, or the world.
 
 Nobody called it automation back then. But that is exactly what it was. A repetitive human job, handed to a system that did it on its own.  A job that was usually done, at the time, by a person called a "secretary".
 
