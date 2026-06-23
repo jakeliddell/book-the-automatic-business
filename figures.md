@@ -17,3 +17,4 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-missing-step | Ch 11 | placeholder | [prompt](images/ch11/fig-missing-step.prompt.md) | A five-step process with step four missing and automatically flagged by an alert. |
 | fig-comms-timing | Ch 12 | placeholder | [prompt](images/ch12/fig-comms-timing.prompt.md) | A timeline of three well-timed client messages that stops the instant the client replies. |
 | fig-digital-team | Ch 13 | placeholder | [prompt](images/ch13/fig-digital-team.prompt.md) | An org chart with the owner at the top and a row of reports mixing human staff with digital teammates. |
+| fig-dashboard | Ch 14 | placeholder | [prompt](images/ch14/fig-dashboard.prompt.md) | A simple dashboard with four metric cards and traffic-light status dots showing the health of the business. |
