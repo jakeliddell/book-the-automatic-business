@@ -58,7 +58,7 @@ There is a tidy way to remember the whole method: brief it like a new hire, and 
 
 You will have noticed a thread running through this chapter. The single biggest limitation of your brilliant new hire is that first quirk: it does not know your business. Every time you use it, you find yourself pasting in the same background, the same context, the same "here is how we do things." It works, but it is tedious, and it means the quality depends on you remembering to feed it.
 
-There is a better way. Instead of briefing it from scratch every time, you can give it a permanent, shared memory of how your business works, that it draws on automatically. That memory is the most valuable thing you will build in this entire book, and it has a name: your company's second brain. We build it in Part Three.
+There is a better way. Instead of briefing it from scratch every time, you can give it a permanent, shared memory of how your business works, that it draws on automatically. That memory is the most valuable thing you will build in this entire book, and it has a name: your company's second brain, your Keystone. We build it in Part Three.
 
 One practical note. There are several of these AI tools, and they come and go and leapfrog each other constantly. The specific ones, and how they compare, live in the tools directory at the back of the book, kept separate precisely because they change so fast. Everything in this chapter is deliberately about the principles, which do not.
 

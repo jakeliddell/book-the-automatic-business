@@ -2,7 +2,7 @@
   <rect width='820' height='470' fill='#F7F5F1'/>
   <line x1='410' y1='60' x2='410' y2='410' stroke='#D8D2C7' stroke-width='2'/>
   <text x='205' y='42' text-anchor='middle' font-size='18' font-weight='bold' fill='#B5632F'>TODAY</text>
-  <text x='615' y='42' text-anchor='middle' font-size='18' font-weight='bold' fill='#B5632F'>WITH A SECOND BRAIN</text>
+  <text x='615' y='42' text-anchor='middle' font-size='18' font-weight='bold' fill='#B5632F'>WITH A KEYSTONE</text>
   <g stroke='#2A2A28' stroke-width='1.5' fill='none'>
     <line x1='95' y1='162' x2='180' y2='236'/>
     <line x1='205' y1='134' x2='205' y2='220'/>
@@ -46,7 +46,6 @@
     <text x='710' y='341'>automations</text>
   </g>
   <circle cx='616' cy='242' r='42' fill='#F0E4D8' stroke='#B5632F' stroke-width='3'/>
-  <text x='616' y='239' text-anchor='middle' font-size='13' font-weight='bold' fill='#B5632F'>SECOND</text>
-  <text x='616' y='255' text-anchor='middle' font-size='13' font-weight='bold' fill='#B5632F'>BRAIN</text>
+  <text x='616' y='247' text-anchor='middle' font-size='15' font-weight='bold' fill='#B5632F'>KEYSTONE</text>
   <text x='616' y='392' text-anchor='middle' font-size='13' fill='#2A2A28'>one shared memory, anyone can ask</text>
 </svg>
