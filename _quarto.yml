@@ -27,6 +27,7 @@ book:
         - manuscript/09-connecting-everything.md
         - manuscript/10-client-operating-system.md
         - manuscript/11-killing-errors.md
+        - manuscript/12-communications.md
 
 format:
   pdf:
