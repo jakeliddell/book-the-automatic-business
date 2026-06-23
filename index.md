@@ -44,7 +44,7 @@ There are five steps. If any of them feel painfully familiar, it is because you 
 
 **4. The Blame Game.** The cracks show. A client complains. Your team asks which system they are supposed to use this week. You feel the weight of it pressing down, and in your quietest moments you wonder if the problem is you. So you retreat into firefighting and just try to survive the day.
 
-**5. The False Dawn.** Then a shiny new platform appears, promising all of it at once. The demo looks great. You believe again. You invest again. You retrain the team again. For a week or two it feels like it is working. Then a setting gets missed, a process fails, the and the illusion shatters. You are right back where you started. Back at the bottleneck.
+**5. The False Dawn.** Then a shiny new platform appears, promising all of it at once. The demo looks great. You believe again. You invest again. You retrain the team again. For a week or two it feels like it is working. Then a setting gets missed, a process fails, the team do their own thing, and the illusion shatters. You are right back where you started. Back at the bottleneck.
 
 Doing the same thing over and over and expecting a different result is not a strategy. It is a slow bleed. If you want to finally get more done, for less money, with fewer mistakes, you have to stop circling the drain and take a different road entirely.
 
