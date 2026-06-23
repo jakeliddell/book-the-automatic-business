@@ -17,6 +17,7 @@ book:
     - part: "Part Two: Human, Automation, or AI"
       chapters:
         - manuscript/03-the-triage.md
+        - manuscript/04-ai-is-not-automation.md
 
 format:
   pdf:
