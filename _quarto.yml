@@ -26,6 +26,7 @@ book:
         - manuscript/08-second-brain-build.md
         - manuscript/09-connecting-everything.md
         - manuscript/10-client-operating-system.md
+        - manuscript/11-killing-errors.md
 
 format:
   pdf:
