@@ -23,6 +23,7 @@ book:
     - part: "Part Three: Building the Automatic Business"
       chapters:
         - manuscript/07-second-brain-concept.md
+        - manuscript/08-second-brain-build.md
 
 format:
   pdf:
