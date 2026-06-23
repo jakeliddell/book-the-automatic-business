@@ -9,3 +9,4 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-triage | Ch 3 | placeholder | [prompt](images/ch03/fig-triage.prompt.md) | A decision diagram sorting any task into one of three owners: Human, Automation, or AI. |
 | fig-automation-vs-ai | Ch 4 | placeholder | [prompt](images/ch04/fig-automation-vs-ai.prompt.md) | A two-panel diagram contrasting deterministic automation with probabilistic AI. |
 | fig-brief-check | Ch 5 | placeholder | [prompt](images/ch05/fig-brief-check.prompt.md) | A loop showing how to work with AI: brief it, it drafts, you check, then use or refine. |
+| fig-value-effort | Ch 6 | placeholder | [prompt](images/ch06/fig-value-effort.prompt.md) | A value-versus-effort matrix; the high-value, low-effort corner is marked START HERE. |
