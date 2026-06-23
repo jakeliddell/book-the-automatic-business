@@ -15,3 +15,4 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-connector | Ch 9 | placeholder | [prompt](images/ch09/fig-connector.prompt.md) | One trigger flowing through a no-code connector that fans out into four automatic actions. |
 | fig-pipeline | Ch 10 | placeholder | [prompt](images/ch10/fig-pipeline.prompt.md) | A pipeline board with four stage columns and lead cards moving from New Lead through to Signed. |
 | fig-missing-step | Ch 11 | placeholder | [prompt](images/ch11/fig-missing-step.prompt.md) | A five-step process with step four missing and automatically flagged by an alert. |
+| fig-comms-timing | Ch 12 | placeholder | [prompt](images/ch12/fig-comms-timing.prompt.md) | A timeline of three well-timed client messages that stops the instant the client replies. |
