@@ -33,6 +33,7 @@ book:
     - part: "Part Four: The Business That Runs Without You"
       chapters:
         - manuscript/15-systemising-delivery.md
+        - manuscript/16-marketing-growth.md
 
 format:
   pdf:
