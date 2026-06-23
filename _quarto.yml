@@ -14,6 +14,9 @@ book:
       chapters:
         - manuscript/01-you-are-the-bottleneck.md
         - manuscript/02-technician-to-architect.md
+    - part: "Part Two: Human, Automation, or AI"
+      chapters:
+        - manuscript/03-the-triage.md
 
 format:
   pdf:

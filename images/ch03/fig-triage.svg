@@ -1,0 +1,25 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 820 500' font-family='sans-serif'>
+  <rect width='820' height='500' fill='#F7F5F1'/>
+  <rect x='350' y='34' width='120' height='52' rx='8' fill='#EFEAE1' stroke='#2A2A28' stroke-width='2'/>
+  <text x='410' y='66' text-anchor='middle' font-size='20' font-weight='bold' fill='#2A2A28'>A TASK</text>
+  <g stroke='#2A2A28' stroke-width='2' fill='none'>
+    <line x1='410' y1='86' x2='410' y2='118'/>
+    <line x1='140' y1='118' x2='680' y2='118'/>
+    <line x1='140' y1='118' x2='140' y2='158'/>
+    <line x1='410' y1='118' x2='410' y2='158'/>
+    <line x1='680' y1='118' x2='680' y2='158'/>
+  </g>
+  <rect x='40' y='158' width='200' height='54' rx='8' fill='#F0E4D8' stroke='#B5632F' stroke-width='3'/>
+  <text x='140' y='192' text-anchor='middle' font-size='22' font-weight='bold' fill='#B5632F'>HUMAN</text>
+  <rect x='310' y='158' width='200' height='54' rx='8' fill='#F0E4D8' stroke='#B5632F' stroke-width='3'/>
+  <text x='410' y='192' text-anchor='middle' font-size='22' font-weight='bold' fill='#B5632F'>AUTOMATION</text>
+  <rect x='580' y='158' width='200' height='54' rx='8' fill='#F0E4D8' stroke='#B5632F' stroke-width='3'/>
+  <text x='680' y='192' text-anchor='middle' font-size='22' font-weight='bold' fill='#B5632F'>AI</text>
+  <g font-size='15' text-anchor='middle' fill='#2A2A28'>
+    <text x='140' y='258'><tspan x='140' dy='0'>Does it truly need</tspan><tspan x='140' dy='22'>a person's judgement</tspan><tspan x='140' dy='22'>or relationship?</tspan></text>
+    <text x='410' y='258'><tspan x='410' dy='0'>Can you write it as</tspan><tspan x='410' dy='22'>a fixed, repeatable</tspan><tspan x='410' dy='22'>rule?</tspan></text>
+    <text x='680' y='258'><tspan x='680' dy='0'>Does it need</tspan><tspan x='680' dy='22'>understanding, but</tspan><tspan x='680' dy='22'>follow no fixed rule?</tspan></text>
+  </g>
+  <text x='410' y='420' text-anchor='middle' font-size='16' fill='#2A2A28'>Ask in order. Keep the human work human, automate every rule,</text>
+  <text x='410' y='446' text-anchor='middle' font-size='16' fill='#2A2A28'>and use AI for the fuzzy bit in between.</text>
+</svg>
