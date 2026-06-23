@@ -1,0 +1,32 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 820 340' font-family='sans-serif'>
+  <rect width='820' height='340' fill='#F7F5F1'/>
+  <rect x='350' y='30' width='120' height='52' rx='8' fill='#F0E4D8' stroke='#B5632F' stroke-width='3'/>
+  <text x='410' y='62' text-anchor='middle' font-size='18' font-weight='bold' fill='#B5632F'>YOU</text>
+  <g stroke='#2A2A28' stroke-width='1.5' fill='none'>
+    <line x1='410' y1='82' x2='94' y2='176'/>
+    <line x1='410' y1='82' x2='254' y2='176'/>
+    <line x1='410' y1='82' x2='410' y2='176'/>
+    <line x1='410' y1='82' x2='574' y2='176'/>
+    <line x1='410' y1='82' x2='734' y2='176'/>
+  </g>
+  <rect x='24' y='176' width='140' height='74' rx='8' fill='#E7E3DB' stroke='#2A2A28' stroke-width='2'/>
+  <text x='94' y='208' text-anchor='middle' font-size='14' font-weight='bold' fill='#2A2A28'>your people</text>
+  <text x='94' y='228' text-anchor='middle' font-size='11' fill='#7A756B'>human judgement</text>
+  <g fill='#F0E4D8' stroke='#B5632F' stroke-width='2'>
+    <rect x='184' y='176' width='140' height='74' rx='8'/>
+    <rect x='344' y='176' width='140' height='74' rx='8'/>
+    <rect x='504' y='176' width='140' height='74' rx='8'/>
+    <rect x='664' y='176' width='140' height='74' rx='8'/>
+  </g>
+  <g text-anchor='middle' fill='#2A2A28'>
+    <text x='254' y='208' font-size='14' font-weight='bold'>enquiry sorter</text>
+    <text x='254' y='228' font-size='11' fill='#7A756B'>digital</text>
+    <text x='414' y='208' font-size='14' font-weight='bold'>reminder sender</text>
+    <text x='414' y='228' font-size='11' fill='#7A756B'>digital</text>
+    <text x='574' y='208' font-size='14' font-weight='bold'>invoice chaser</text>
+    <text x='574' y='228' font-size='11' fill='#7A756B'>digital</text>
+    <text x='734' y='208' font-size='14' font-weight='bold'>data reconciler</text>
+    <text x='734' y='228' font-size='11' fill='#7A756B'>digital</text>
+  </g>
+  <text x='410' y='300' text-anchor='middle' font-size='14' fill='#2A2A28'>a blended team: your people, plus tireless digital teammates</text>
+</svg>
