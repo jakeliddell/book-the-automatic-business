@@ -29,6 +29,7 @@ book:
         - manuscript/11-killing-errors.md
         - manuscript/12-communications.md
         - manuscript/13-digital-teammates.md
+        - manuscript/14-dashboards.md
 
 format:
   pdf:
