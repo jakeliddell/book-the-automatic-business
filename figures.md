@@ -18,3 +18,4 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-comms-timing | Ch 12 | placeholder | [prompt](images/ch12/fig-comms-timing.prompt.md) | A timeline of three well-timed client messages that stops the instant the client replies. |
 | fig-digital-team | Ch 13 | placeholder | [prompt](images/ch13/fig-digital-team.prompt.md) | An org chart with the owner at the top and a row of reports mixing human staff with digital teammates. |
 | fig-dashboard | Ch 14 | placeholder | [prompt](images/ch14/fig-dashboard.prompt.md) | A simple dashboard with four metric cards and traffic-light status dots showing the health of the business. |
+| fig-scaling | Ch 15 | placeholder | [prompt](images/ch15/fig-scaling.prompt.md) | A line chart showing that without systems your workload climbs with more clients, while with systems it stays almost flat. |
