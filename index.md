@@ -50,7 +50,7 @@ Doing the same thing over and over and expecting a different result is not a str
 
 Here is the part most owners miss. The cost of doing nothing is far higher than the cost of getting this right. And there is a clock running. Not because of AI hype, but because the shift is real and already happening. Across every industry, owners are quietly working out which jobs belong to a person, which belong to automation, and which belong to AI. The ones who make those decisions pull ahead. The ones who never make them get overtaken by the ones who do. Not in some far-off future. Year by year, contract by contract.
 
-That is not fear talking. It is simply what I have watched happen for thirty-five years.  A
+That is not fear talking. It is simply what I have watched happen for thirty-five years.  And the change is getting fa
 
 This book is the way out. It is not theory, and it is not for the tech elite. It is a practical manual for owners who have a team. Enough people for real chaos, few enough that the chaos still lands on your desk. I will name the trap you are in, plainly and without jargon, and then I will walk you out of it, one step at a time.
 
