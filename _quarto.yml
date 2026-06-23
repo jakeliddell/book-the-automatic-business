@@ -30,6 +30,9 @@ book:
         - manuscript/12-communications.md
         - manuscript/13-digital-teammates.md
         - manuscript/14-dashboards.md
+    - part: "Part Four: The Business That Runs Without You"
+      chapters:
+        - manuscript/15-systemising-delivery.md
 
 format:
   pdf:
