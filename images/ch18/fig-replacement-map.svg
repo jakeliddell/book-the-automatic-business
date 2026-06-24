@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 360' font-family='sans-serif'>
+  <rect width='780' height='360' fill='#F7F5F1'/>
+  <text x='200' y='72' text-anchor='middle' font-size='15' font-weight='bold' fill='#2A2A28'>STILL ONLY YOU</text>
+  <text x='572' y='72' text-anchor='middle' font-size='15' font-weight='bold' fill='#B5632F'>WHERE IT GOES</text>
+  <g fill='#E7E3DB' stroke='#2A2A28' stroke-width='1.5'>
+    <rect x='60' y='96' width='280' height='38' rx='6'/>
+    <rect x='60' y='146' width='280' height='38' rx='6'/>
+    <rect x='60' y='196' width='280' height='38' rx='6'/>
+    <rect x='60' y='246' width='280' height='38' rx='6'/>
+  </g>
+  <g fill='#2A2A28' font-size='13'>
+    <text x='76' y='120'>approve every quote</text>
+    <text x='76' y='170'>answer the same questions</text>
+    <text x='76' y='220'>remember who to chase</text>
+    <text x='76' y='270'>onboard each new client</text>
+  </g>
+  <g stroke='#B5632F' stroke-width='2' fill='#B5632F'>
+    <line x1='340' y1='115' x2='452' y2='115'/><polygon points='460,115 448,109 448,121'/>
+    <line x1='340' y1='165' x2='452' y2='165'/><polygon points='460,165 448,159 448,171'/>
+    <line x1='340' y1='215' x2='452' y2='215'/><polygon points='460,215 448,209 448,221'/>
+    <line x1='340' y1='265' x2='452' y2='265'/><polygon points='460,265 448,259 448,271'/>
+  </g>
+  <g fill='#F0E4D8' stroke='#B5632F' stroke-width='1.5'>
+    <rect x='462' y='96' width='256' height='38' rx='6'/>
+    <rect x='462' y='146' width='256' height='38' rx='6'/>
+    <rect x='462' y='196' width='256' height='38' rx='6'/>
+    <rect x='462' y='246' width='256' height='38' rx='6'/>
+  </g>
+  <g fill='#2A2A28' font-size='13'>
+    <text x='478' y='120'>a system (a rule)</text>
+    <text x='478' y='170'>the Keystone (the AI)</text>
+    <text x='478' y='220'>a digital teammate</text>
+    <text x='478' y='270'>a systemised flow</text>
+  </g>
+  <text x='390' y='326' text-anchor='middle' font-size='15' fill='#2A2A28'>design yourself out, one row at a time</text>
+</svg>
