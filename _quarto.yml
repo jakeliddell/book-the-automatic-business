@@ -8,6 +8,7 @@ book:
   author: "Jake Liddell"
   chapters:
     - index.md
+    - manuscript/copyright.md
     - manuscript/foreword.md
     - manuscript/introduction.md
     - part: "Part One: Why You're the Bottleneck"
@@ -20,6 +21,7 @@ book:
         - manuscript/04-ai-is-not-automation.md
         - manuscript/05-your-brilliant-new-hire.md
         - manuscript/06-where-to-start.md
+        - manuscript/intermission.md
     - part: "Part Three: Building the Automatic Business"
       chapters:
         - manuscript/07-second-brain-concept.md
@@ -36,6 +38,8 @@ book:
         - manuscript/16-marketing-growth.md
         - manuscript/17-buying-back-time.md
         - manuscript/18-maintaining.md
+    - manuscript/tools-pullout.md
+    - manuscript/back-cover.md
 
 format:
   pdf:
