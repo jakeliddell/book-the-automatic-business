@@ -1,3 +1,11 @@
+> **STATUS — June 2026: this is the original plan, now superseded as a to-do list.**
+>
+> The full manuscript is drafted. All 18 chapters, plus the front and back matter, live in `manuscript/` and `index.md` of this repository. Read this document as history and rationale, not as a list of work still to be done.
+>
+> **Naming:** the concept described below as the "company second brain" is named **Keystone** in the finished book. It is introduced in `manuscript/07-second-brain-concept.md` ("Keystone: Your Company's Second Brain") and used throughout. The text below predates that decision, so where it says "second brain," read "Keystone."
+
+---
+
 # THE AUTOMATIC BUSINESS
 
 ## Restructure Blueprint (Draft 2 architecture)
