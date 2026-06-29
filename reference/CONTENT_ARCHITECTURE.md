@@ -1,3 +1,9 @@
+> **STATUS — June 2026: the manuscript is complete; this remains the live build and architecture reference.**
+>
+> All chapters are drafted and committed (`manuscript/` and `index.md`). Two details below have moved on since this was written: the manuscript files are `.md`, not `.qmd` as the examples show (switched for Shockwave compatibility; Quarto renders `.md` perfectly well for prose), and the "company second brain" is named **Keystone** in the finished book. The pipeline itself, single-source markdown built with Quarto to a KDP PDF and EPUB, version-controlled in GitHub, with the figure-and-prompt workflow, is otherwise current.
+
+---
+
 # THE AUTOMATIC BUSINESS
 
 ## Content Architecture
