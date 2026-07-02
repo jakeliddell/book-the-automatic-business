@@ -48,6 +48,6 @@ Here is the quiet truth at the heart of it. They are the same thing, seen from t
 
 ## Where We Go Next
 
-There is one job left, and it is a different kind of job from any you have done so far. The machine is built and running. Your task now is to keep it running well, and to keep yourself out of the weeds you fought so hard to climb out of. To maintain, without sliding back into micromanaging. That is the final chapter, and it is about staying free.
+There is a question hiding inside all of this, and almost nobody answers it well. Once the plate is finally clear and the hours are your own again, how do you decide, on any given morning, what actually deserves them? Reclaimed time slips away more easily than you would think, and the tools most of us reach for to manage it quietly make the problem worse. The next chapter is about how you decide what to do now, and how to stop drowning in a hundred things that all insist they come first. Then, right at the end, one last job remains: keeping the machine running without climbing back into it.
 
 > **Try this.** List the five tasks you have most wanted off your plate. Beside each, write the hours it eats every week and what an hour of your time is worth, and add it up. That annual number is what you are buying back. Then write one more line: the single thing you will do with the first ten hours you reclaim. Make it something only you can do, or something that has nothing whatsoever to do with work.
