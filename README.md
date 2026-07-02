@@ -2,7 +2,7 @@
 
 Book manuscript for *The Automatic Business* by Jake Liddell.
 
-**Status (June 2026): full first draft complete.** All 18 chapters plus the front and back matter are written and live in `manuscript/` and `index.md`. The "company second brain" concept is named **Keystone** in the book (see `manuscript/07-second-brain-concept.md`). Remaining work: replace placeholder figures with designed images, a full editorial pass, and a first end-to-end Quarto build. **This repository is the single source of truth for the book; do not work from any older copy in Google Drive.**
+**Status (July 2026): full first draft complete.** All 19 chapters plus the front and back matter are written and live in `manuscript/` and `index.md`. The "company second brain" concept is named **Keystone** in the book (see `manuscript/07-second-brain-concept.md`). Chapter 18, "Everything Is Not a Priority," introduces the prioritisation principle behind **One List** (Jake's own product), pointing readers to theautomaticbusiness.co.uk/onelist. Remaining work: replace placeholder figures with designed images, a full editorial pass, and a first end-to-end Quarto build. **This repository is the single source of truth for the book; do not work from any older copy in Google Drive.**
 
 Single source of truth: plain markdown, one file per chapter, built to a KDP
 paperback PDF and a Kindle EPUB with [Quarto](https://quarto.org). The same
@@ -10,7 +10,7 @@ markdown is also the cornerstone of the company second brain (the Keystone).
 
 ## Layout
 
-- `manuscript/` — the chapters and front/back matter, one `.md` per piece (chapters `01`–`18`, plus `foreword`, `introduction`, `intermission`, `copyright`, `tools-pullout`, `back-cover`).
+- `manuscript/` — the chapters and front/back matter, one `.md` per piece (chapters `01`–`19`, plus `foreword`, `introduction`, `intermission`, `copyright`, `tools-pullout`, `back-cover`).
 - `index.md` — Read This First (the book's opening page).
 - `images/chNN/` — figures, each paired with a versioned `.prompt.md`.
 - `figures.md` — the figure register.
