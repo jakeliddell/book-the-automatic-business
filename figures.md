@@ -21,4 +21,5 @@ Every figure in the book is tracked here. The prompt file next to each image is 
 | fig-scaling | Ch 15 | placeholder | [prompt](images/ch15/fig-scaling.prompt.md) | A line chart showing that without systems your workload climbs with more clients, while with systems it stays almost flat. |
 | fig-flywheel | Ch 16 | placeholder | [prompt](images/ch16/fig-flywheel.prompt.md) | A circular growth flywheel with four clockwise stages: create content, capture leads, nurture and convert, delight then refer. |
 | fig-your-week | Ch 17 | placeholder | [prompt](images/ch17/fig-your-week.prompt.md) | Two bars showing a week before and after, with admin shrinking and high-value work and time off expanding. |
-| fig-replacement-map | Ch 18 | placeholder | [prompt](images/ch18/fig-replacement-map.prompt.md) | A two-column map taking tasks that only the owner does and routing each to a system, the Keystone, or a teammate. |
+| fig-one-list | Ch 18 | placeholder | [prompt](images/ch18/fig-one-list.prompt.md) | A single ranked to-do list on the left feeding three lens views (Now, At the office, At the gym) that each show a filtered slice of the same list. |
+| fig-replacement-map | Ch 19 | placeholder | [prompt](images/ch19/fig-replacement-map.prompt.md) | A two-column map taking tasks that only the owner does and routing each to a system, the Keystone, or a teammate. |
