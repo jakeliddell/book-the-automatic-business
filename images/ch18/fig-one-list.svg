@@ -1,0 +1,54 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 780 380' font-family='sans-serif'>
+  <rect width='780' height='380' fill='#F7F5F1'/>
+  <text x='170' y='52' text-anchor='middle' font-size='15' font-weight='bold' fill='#2A2A28'>ONE LIST</text>
+  <g stroke-width='1.5'>
+    <rect x='60' y='72' width='220' height='36' rx='6' fill='#F0E4D8' stroke='#B5632F'/>
+    <rect x='60' y='116' width='220' height='36' rx='6' fill='#E7E3DB' stroke='#2A2A28'/>
+    <rect x='60' y='160' width='220' height='36' rx='6' fill='#E7E3DB' stroke='#2A2A28'/>
+    <rect x='60' y='204' width='220' height='36' rx='6' fill='#E7E3DB' stroke='#2A2A28'/>
+    <rect x='60' y='248' width='220' height='36' rx='6' fill='#E7E3DB' stroke='#2A2A28'/>
+    <rect x='60' y='292' width='220' height='36' rx='6' fill='#E7E3DB' stroke='#2A2A28'/>
+  </g>
+  <g font-size='13' font-weight='bold' fill='#2A2A28'>
+    <text x='74' y='95'>1</text>
+    <text x='74' y='139'>2</text>
+    <text x='74' y='183'>3</text>
+    <text x='74' y='227'>4</text>
+    <text x='74' y='271'>5</text>
+    <text x='74' y='315'>6</text>
+  </g>
+  <g fill='#CFC8BB'>
+    <rect x='96' y='84' width='168' height='12' rx='3'/>
+    <rect x='96' y='128' width='150' height='12' rx='3'/>
+    <rect x='96' y='172' width='162' height='12' rx='3'/>
+    <rect x='96' y='216' width='140' height='12' rx='3'/>
+    <rect x='96' y='260' width='158' height='12' rx='3'/>
+    <rect x='96' y='304' width='132' height='12' rx='3'/>
+  </g>
+  <rect x='96' y='84' width='168' height='12' rx='3' fill='#B5632F'/>
+  <text x='610' y='52' text-anchor='middle' font-size='15' font-weight='bold' fill='#B5632F'>LENSES</text>
+  <g fill='#FFFFFF' stroke='#2A2A28' stroke-width='1.2'>
+    <rect x='500' y='72' width='220' height='68' rx='8'/>
+    <rect x='500' y='156' width='220' height='68' rx='8'/>
+    <rect x='500' y='240' width='220' height='68' rx='8'/>
+  </g>
+  <g font-size='13' font-weight='bold' fill='#2A2A28'>
+    <text x='516' y='96'>Now</text>
+    <text x='516' y='180'>At the office</text>
+    <text x='516' y='264'>At the gym</text>
+  </g>
+  <g fill='#CFC8BB'>
+    <rect x='516' y='108' width='150' height='9' rx='3'/>
+    <rect x='516' y='123' width='120' height='9' rx='3'/>
+    <rect x='516' y='192' width='140' height='9' rx='3'/>
+    <rect x='516' y='207' width='110' height='9' rx='3'/>
+    <rect x='516' y='276' width='130' height='9' rx='3'/>
+    <rect x='516' y='291' width='100' height='9' rx='3'/>
+  </g>
+  <g stroke='#B5632F' stroke-width='2' fill='#B5632F'>
+    <line x1='288' y1='106' x2='492' y2='106'/><polygon points='500,106 488,100 488,112'/>
+    <line x1='288' y1='190' x2='492' y2='190'/><polygon points='500,190 488,184 488,196'/>
+    <line x1='288' y1='274' x2='492' y2='274'/><polygon points='500,274 488,268 488,280'/>
+  </g>
+  <text x='390' y='356' text-anchor='middle' font-size='14' fill='#2A2A28'>one list, ordered by importance; the lenses just choose what you see now</text>
+</svg>
