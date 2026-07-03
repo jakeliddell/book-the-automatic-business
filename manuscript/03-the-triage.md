@@ -24,7 +24,7 @@ First: does this truly need a human? Be honest, and be strict. Not "do I usually
 
 If it does not need a human, ask the second question: can I write it down as a clear rule? If this happens, do that. If you can describe the work as a fixed set of steps that runs the same way every time, it is automation. Reach for the machine, not for AI. Determinism is a feature here, not a limitation. A rule does exactly what you told it, forever, and you can trust it completely.
 
-And if it is neither, if it needs some understanding or judgement but follows no fixed rule, that is the AI band. Hand it to AI, with a human glance over its shoulder sized to the stakes.
+And if it is neither, if it needs some understanding or judgement but follows no fixed rule, that is the AI band. Hand it to AI, with a human glance over its shoulder sized to the stakes.  (Remember, AI 
 
 That order matters, and most people get it exactly backwards. They get excited about AI and try to use it for everything, including jobs a plain rule would do more cheaply and more reliably. Or they cling to doing everything themselves and never stop to ask whether a person was needed at all. The triage forces the right order: keep the human work human, automate everything that is really just a rule, and use AI only for the genuinely fuzzy bit in between. The simplest sufficient owner, every time.
 
