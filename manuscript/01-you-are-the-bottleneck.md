@@ -4,7 +4,7 @@ By the end of this chapter you will see, plainly and without flinching, the one 
 
 Start with a morning you have probably lived.
 
-The alarm goes, and before your feet hit the floor your hand is already on your phone. Thirteen emails overnight. One is a client who is "just checking in," which never means just checking in. One is a supplier problem that will cost money if it is not handled today. Three are questions from your own team, questions they could almost answer themselves, but not quite, not without you. By the time you are downstairs the day has already grabbed the wheel. You meant to spend the morning on the big proposal, the one that could change the year. Instead you spend it triaging, unblocking, reassuring and fixing. By nine o'clock you have done two hours of work, and none of it was the work.
+The alarm goes, and before your feet hit the floor your hand is already on your phone. Thirteen emails overnight. One is a client who is "just checking in," which never means just checking in. One is a supplier problem that will cost money if it is not handled today. Three are questions from your own team, questions they could almost answer themselves, but not quite, not without you. By the time you are downstairs the day has already grabbed the wheel. You meant to spend the morning on the big proposal, the one that could change the year. Instead you spend it triaging, unblocking, reassuring and fixing. By nine o'clock you have done two hours of work, and none of it was *the* work.
 
 You tell yourself it is a busy patch. It is not a busy patch. It is the design.
 
