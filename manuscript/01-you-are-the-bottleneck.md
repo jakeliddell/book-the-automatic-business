@@ -40,7 +40,7 @@ Faced with all this, the instinct of every capable owner is the same. Work harde
 
 But hard work is not the lever any more, and deep down you may already know it. There are only so many hours, and you are already spending most of them. More effort poured into the same structure does not relieve the bottleneck. It feeds it. Every time you step in and personally rescue the situation, you teach the business one more time that it can rely on you to step in. The harder you work, the more dependent on you it becomes.
 
-There is a comforting lie in busyness, too. Crossing things off a list feels like progress. It produces a little hit of satisfaction. (But busy and effective are not the same thing, and you can be flat out from dawn to dusk while building something fragile, dependent and impossible to scale. Motion is not the same as movement.
+There is a comforting lie in busyness, too. Crossing things off a list feels like progress. It produces a little hit of satisfaction. (It actually releases But busy and effective are not the same thing, and you can be flat out from dawn to dusk while building something fragile, dependent and impossible to scale. Motion is not the same as movement.
 
 So the way out is not a better to-do list or an earlier alarm. It is not doing more of what already is not working. The way out is to change the design, so that the business stops needing you in the middle of it. That is not a productivity tip. It is a different way of seeing your own job, and it is where we go next.
 
