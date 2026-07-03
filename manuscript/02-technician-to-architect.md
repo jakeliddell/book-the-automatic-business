@@ -22,7 +22,7 @@ The shift sounds simple, and it changes everything. You stop asking, "How do I d
 
 ## Delegate to the Machine Before You Delegate to a Person
 
-When most owners finally accept they cannot do it all, their first instinct is to hire. Get another pair of hands. And sometimes that is right. But hiring, on its own, is rarely the leverage people hope it is. People are expensive, they need managing, they have off days, and eventually some of them leave. Throw a person at a broken process and you now have a broken process with a salary attached, and one more person asking you questions.  
+When most owners finally accept they cannot do it all, their first instinct is to hire. Get another pair of hands. And sometimes that is right. But hiring, on its own, is rarely the leverage people hope it is. People are expensive, they need managing, they have off days, and eventually some of them leave. Throw a person at a broken process and you now have a broken process with a salary attached, and one more person asking you questions. 
 
 So here is a rule worth holding onto. Before you delegate a repeating task to a person, ask whether it should be delegated to a machine. A well-built system does not sleep, does not forget, does not call in sick, and does not need a one-to-one. It does the same thing, correctly, the thousandth time and the first. For the repetitive, rule-based, soul-sapping work that currently clogs your week, that is exactly what you want.
 
