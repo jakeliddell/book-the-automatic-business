@@ -6,7 +6,7 @@ Let me start with the most useful thing I can tell you about AI, and it is not w
 
 Most of the time, when someone tells me they need AI, they do not. They need automation, and they could have had it 10 years ago.
 
-They come to me certain the answer is some clever piece of artificial intelligence, and then we look at the actual problem, and it is this. A person fills in a form and someone retypes it into the CRM by hand. An invoice goes out late because nobody remembered to send it. The same five questions get answered by email twenty times a week. You buy a coffee, keep the receipt, scan it, None of that needs intelligence, artificial or otherwise. It needs a rule. It needs the boring, reliable plumbing that has existed since long before anyone outside a research lab had heard of ChatGPT. The AI is a distraction from the actual fix.
+They come to me certain the answer is some clever piece of artificial intelligence, and then we look at the actual problem, and it is this. A person fills in a form and someone retypes it into the CRM by hand. An invoice goes out late because nobody remembered to send it. The same five questions get answered by email twenty times a week. You buy a coffee, keep the receipt, scan it, and enter the details into an expenses form.  None of that needs intelligence, artificial or otherwise. It needs a rule. It needs the boring, reliable plumbing that has existed since long before anyone outside a research lab had heard of ChatGPT. The AI is a distraction from the actual fix.
 
 To see why that matters, you have to understand that automation and AI are two genuinely different tools, and they behave in opposite ways.
 
