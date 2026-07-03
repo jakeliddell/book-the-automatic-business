@@ -32,7 +32,7 @@ Remember the fax machine. Sending a fax from an email was automation, decades ag
 
 ## When AI Genuinely Earns Its Place
 
-None of this is me being sniffy about AI. Used in the right place it is transformational, and it can now do things that were simply impossible a few years ago.
+None of this is me being sniffy about AI. Used in the right place it is utterly transformational, and it can now do things that were simply impossible a few years ago.
 
 AI earns its place wherever the input is messy and varied and no fixed rule could ever cover it. Working out what a customer actually meant in a long, rambling message. Drafting a first version of a proposal, a reply, or a piece of content from rough notes. Turning a call, a thread, or a document into a useful summary. Reading two hundred enquiries and sorting them by what the person actually wants. Pulling the key figures out of a supplier's PDF that never looks the same twice. This is genuine judgement-on-messy-input work, the kind that used to land on a person's desk only because nothing else could handle it.
 
