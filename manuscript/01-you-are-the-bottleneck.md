@@ -16,7 +16,7 @@ This is not a criticism of you. It is almost a compliment turned inside out. The
 
 In the daylight, you cope. You are the capable one, the owner who has it handled. But there are thoughts that arrive at two in the morning that you would never say in a meeting, and possibly have never said to anyone.
 
-The first is the big one. If I stepped away, this would fall over. You know it. Half of how this business runs lives in your head and nowhere else. Not in a document, not in a system. In your head. That is not job security. It is a quiet kind of fear, and you carry it every day.  People assume your business is worth something.  But you know.  Deep d
+The first is the big one. If I stepped away, this would fall over. You know it. Half of how this business runs lives in your head and nowhere else. Not in a document, not in a system. In your head. That is not job security. It is a quiet kind of fear, and you carry it every day.  People assume your business is worth something.  But you know.  Deep down, you *know*
 
 There are others. You advise clients to delegate and to put proper systems in, while your own business is held together with spreadsheets, a good memory and goodwill. You would be embarrassed if a respected peer saw exactly how the engine runs under the bonnet, because the inside does not match the calm, capable picture the outside presents. You have tried to fix this before and it did not take, and some part of you has started to wonder whether it ever will. And underneath all of it, sometimes, a stranger thought. If the business did not need me every minute, who would I even be? Being indispensable has become part of who you are. Letting go of it feels less like relief and more like loss.
 
