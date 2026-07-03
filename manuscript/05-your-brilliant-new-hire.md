@@ -26,6 +26,8 @@ Point this new hire at anything shaped like language and it will amaze you. Turn
 
 Notice what these have in common. They are first drafts and transformations of language, the kind of work that used to eat hours and only ever needed a competent pair of hands, not your specific genius. That is the sweet spot.
 
+It's also re
+
 ## What to Keep an Eye On
 
 The same tool has clear weak spots, and they are simply the flip side of how it works.
