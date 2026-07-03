@@ -40,7 +40,7 @@ None of these are reasons to avoid it. They are simply the things a good manager
 
 Here is the method, and every part of it is something you would do instinctively with a new member of staff.
 
-Brief it properly. A vague request gets a vague result. Do not say "write me a proposal." Give it the context a new hire would need: who the client is, what they asked for, what you want to say, what a good one looks like, examples of good prior work. The more you give it, the better it does, every single time.
+Brief it properly. A vague request gets a vague result. Do not say "write me a proposal." Give it the context a new hire would need: who the client is, what they asked for, what you want to say, what a good one looks like. The more you give it, the better it does, every single time.
 
 Show it an example. The fastest way to get what you want is to hand over one you are happy with and say, "another like this." Exactly as you would show a new starter a model of good work rather than describing it in the abstract.
 
