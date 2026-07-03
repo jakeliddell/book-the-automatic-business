@@ -46,7 +46,7 @@ Show it an example. The fastest way to get what you want is to hand over one you
 
 Be specific about the result. Who it is for. How long. What tone. What format. The clearer the picture in your head, the closer the first attempt will land.
 
-Treat the answer as a draft, not a verdict. This is the big one. You would never let a new hire's first effort go straight to a client unread. The same applies here. Delegate the work, then check it, exactly as a manager does.  (This is often referred to as 
+Treat the answer as a draft, not a verdict. This is the big one. You would never let a new hire's first effort go straight to a client unread. The same applies here. Delegate the work, then check it, exactly as a manager does.  (This is often referred to as "human in the loop".)
 
 Have a conversation. The first reply is the start, not the end. Tell it what to change. Sharper, shorter, warmer, drop that bit, add this. It will happily go again, and again, without ever taking offence.
 
