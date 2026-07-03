@@ -1,6 +1,6 @@
 # You Are the Bottleneck
 
-By the end of this chapter you will see, plainly and without flinching, the one thing that is capping your business. It is not the market. It is not your team. It is not the number of hours in the day. It is the way the business has been built, and it has been built around you.
+By the end of this chapter you will see, plainly and without flinching, the one thing that is capping your business. It is not the market. It is not your team. It is not the number of hours in the day. It is the way the business has been built, because it has been built around you.
 
 Start with a morning you have probably lived.
 
