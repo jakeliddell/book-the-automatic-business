@@ -26,7 +26,7 @@ Point this new hire at anything shaped like language and it will amaze you. Turn
 
 Notice what these have in common. They are first drafts and transformations of language, the kind of work that used to eat hours and only ever needed a competent pair of hands, not your specific genius. That is the sweet spot.
 
-It's also re
+It's also remarkably good at design.  It 
 
 ## What to Keep an Eye On
 
