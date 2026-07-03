@@ -50,7 +50,7 @@ Treat the answer as a draft, not a verdict. This is the big one. You would never
 
 Have a conversation. The first reply is the start, not the end. Tell it what to change. Sharper, shorter, warmer, drop that bit, add this. It will happily go again, and again, without ever taking offence.
 
-And two rules that matter. Verify anything that carries risk before it leaves the building. And never paste in anything confidential that you would not hand to a stranger, because you cannot always be sure where it ends up.
+And two rules that matter. Verify anything that carries risk before it leaves the building. And understand honever paste in anything confidential that you would not hand to a stranger, because you cannot always be sure where it ends up.
 
 There is a tidy way to remember the whole method: brief it like a new hire, and check it like a manager. Do that, and you will get more out of these tools than ninety percent of the people using them.
 
