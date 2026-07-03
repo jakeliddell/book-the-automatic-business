@@ -34,7 +34,7 @@ Here is the part that makes the effort worth it. A system you build once keeps p
 
 Spend an afternoon designing the way new clients are onboarded, properly, so it happens the same way every time without you, and you do not save that time once. You save it on every client who comes after, for as long as the business runs. Do the same for the next process, and the next, and the savings do not just add up, they compound, the way interest does. Every hour you design out of your week is an hour returned to you tomorrow, and the day after, and the year after. Every mistake you engineer away is a mistake that simply stops happening.
 
-
+This is _leveraged_
 
 And there is a prize at the end that most owners never reach. A business built on systems rather than on you is worth something. It can grow past your personal capacity, because growth no longer means more of your hours. It can survive you being ill, or away, or simply uninterested for a fortnight. And one day, if you choose, it can be sold, because what you are selling is a machine that works, not a job that happens to have your name on it.
 
