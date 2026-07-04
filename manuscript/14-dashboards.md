@@ -28,7 +28,7 @@ Work backwards from the decisions you actually make. To grow, you need to see yo
 
 ## Don't Rely on System Dashboards
 
-[Need something in 
+[Need something in here about how it's easy to skim over this chapter 
 
 ## Turn the Numbers Into Decisions
 
