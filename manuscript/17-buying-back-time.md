@@ -22,7 +22,7 @@ You might want to have a dashboard to track this. It's fun seeing the amounts go
 
 The hours and the pounds are the easy part to count. The bigger wins resist a spreadsheet.
 
-There is the cost of the mistakes that simply stop happening, the lost clients and the refunds you will now never know you avoided, the referrals you receive because . There is the mental load lifted, the hundred small obligations no longer rattling around your head. There are the evenings that are actually evenings, and the holiday where the phone stays in the drawer. And there is the quiet compounding of it all: every hour you saved this week, you save again next week, and the week after, forever. These are the things you started a business for in the first place, and they had been slipping away from you. Now they are coming back.
+There is the cost of the mistakes that simply stop happening, the lost clients and the refunds you will now never know you avoided, the referrals you receive because someone thinks you're excellent instead . There is the mental load lifted, the hundred small obligations no longer rattling around your head. There are the evenings that are actually evenings, and the holiday where the phone stays in the drawer. And there is the quiet compounding of it all: every hour you saved this week, you save again next week, and the week after, forever. These are the things you started a business for in the first place, and they had been slipping away from you. Now they are coming back.
 
 ## The Strange Feeling of Space
 
