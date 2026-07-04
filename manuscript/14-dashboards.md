@@ -26,7 +26,7 @@ The test of a number worth watching is brutally simple. Does it make you act? If
 
 Work backwards from the decisions you actually make. To grow, you need to see your pipeline: leads in, conversion, where deals stall. To stay solvent, you need to see cash: what is owed, what is overdue. To keep clients, you need to see delivery: what is on time, who is overloaded, what is slipping. A handful of numbers, three to seven, not forty, that together tell you whether the business is healthy today. Clarity, not complexity.
 
-## Don't rely on 
+## Don't rely on System
 
 ## Turn the Numbers Into Decisions
 
