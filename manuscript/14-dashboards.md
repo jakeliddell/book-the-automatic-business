@@ -38,7 +38,7 @@ So build a small ritual around it. A five-minute look each morning. A slightly l
 
 You can go a step further.  Imagine you're on that beach on holiday.  You don't need to look at your numbers unless something big happens.  What does big mean?  For each number, what are the circumstances when you'd want to know?  Define these rules, bake them into your digital dashboard agent, and get them to let you know if it happens.
 
-This is management by exc
+This is management by exception, and it's key to a 
 
 ## It Has to Build Itself
 
