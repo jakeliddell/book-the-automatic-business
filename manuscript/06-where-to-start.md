@@ -74,7 +74,7 @@ The specific tools you might use for any of this are listed and compared in the 
 
 ## Be Selfish
 
-When choosing your first candidates to automate, it's tempting to dive into things that impact teams of people.  But remember the fundamental issue here.  You are the bottleneck.  Your time is also the most valuable of anyone in your business.
+When choosing your first candidates to automate, it's tempting to dive into things that impact teams of people.  But remember the fundamental issue here.  You are the bottleneck.  Your time is also the most valuable of anyone in your business.  So anything that personally saves you time
 
 ## From Thinking to Building
 
