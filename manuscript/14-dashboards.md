@@ -36,7 +36,7 @@ A dashboard you glance at but never act on is just expensive wallpaper. The valu
 
 So build a small ritual around it. A five-minute look each morning. A slightly longer review on a Friday, where you pick the one thing the numbers are telling you and do something about it. Keep the signals simple: green, amber and red beats a twenty-page report every time, because your eye knows what matters before your brain has finished reading. When your average onboarding time quietly jumps from three days to seven, you see it that morning and ask "what changed?", rather than discovering it at the month-end review, three weeks too late. Your business becomes a feedback loop: something slips, you see it, you fix it fast. That speed, the seeing and the fixing, is most of what separates a calm business from a chaotic one.
 
-You can go a step further.  Imagine you're on that beach on holiday.  
+You can go a step further.  Imagine you're on that beach on holiday.  You don't need to look at your numbers _u
 
 ## It Has to Build Itself
 
