@@ -28,7 +28,7 @@ Work backwards from the decisions you actually make. To grow, you need to see yo
 
 ## Don't Rely on System Dashboards
 
-[Need something in here about how it's easy to skim over this chapter because your major systems (your finance system, your CRM, your del
+[Need something in here about how it's easy to skim over this chapter because your major systems (your finance system, your CRM, your delivery systems) all come with reporting
 
 ## Turn the Numbers Into Decisions
 
