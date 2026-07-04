@@ -58,7 +58,7 @@ And build a failsafe. The simplest and most important one is this: if the automa
 
 One last connection, and it is the one that ties this chapter to the last. The best automations do not only shuttle data between your apps. They also feed your Keystone.
 
-When a connector files a new client, it can drop a note onto that client's page in the Keystone. When a deal closes or a decision is made, it can record it. So the same automations that save you time are quietly keeping your single source of truth up to date, without anyone writing anything down. Your connectors and your Keystone strengthen each other: the Keystone gives your automations a reliable place to read from and write to, and the automations help keep the Keystone alive.
+When a connector files a new client, it can drop a note onto that client's page in the Keystone. When a deal closes or a decision is made, it can record it. So the same automations that save you time are quietly keeping your single source of truth up to date, without anyone writing anything down. Your connectors and your Keystone strengthen each other: the Keystone gives your automations a reliable place to read from and write to, and the automations help keep the Keystone current.
 
 ## Where We Go Next
 
