@@ -73,3 +73,5 @@ That is why we lay this foundation first. Everything in the chapters that follow
 So that is what a Keystone is, and why it is the most valuable thing you will build. The obvious question is the practical one. How do you actually build it, fill it, and keep it alive without it becoming yet another job you do not have time for? That, including the excavation work of Process Archaeology, is the next chapter.
 
 > **Try this.** Write down three things that, if you vanished tomorrow, only you would know. The real reason a major client stays. The workaround that keeps a fiddly process running. The supplier you would never use again, and why. Those three lines are the first entries in your Keystone, and proof of how much of this business currently exists in exactly one place: you.
+
+As 
