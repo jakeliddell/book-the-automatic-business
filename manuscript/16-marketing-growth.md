@@ -44,6 +44,8 @@ One last channel, and it is the strongest you have. In your world, the most powe
 
 You cannot automate the trust, nor would you want to. But you can systemise the unglamorous parts that owners almost always forget. Asking a delighted client for a review at the precise moment they are happiest. Making it effortless for them to refer a friend. Banking every kind word as proof you can show the next prospect. Done with a light, genuine touch, this turns your good work into a quiet, compounding engine of reputation, without you ever having to awkwardly ask, "so, do you know anyone who needs me?"
 
+Words
+
 ## Where We Go Next
 
 Look at what you have now. A business that finds its own clients, delivers to them smoothly, and runs the whole way through without you standing in the middle of it. Which brings us back, at last, to the only question that ever really mattered, the one you asked on the very first page. What was all of this for? Your time. The next chapter is about measuring exactly how much of it you have won back, and making sure you actually spend it on the things that made you start a business in the first place.
