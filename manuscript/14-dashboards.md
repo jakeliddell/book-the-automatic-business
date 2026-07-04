@@ -28,6 +28,8 @@ Work backwards from the decisions you actually make. To grow, you need to see yo
 
 ## Don't Rely on System Dashboards
 
+
+
 ## Turn the Numbers Into Decisions
 
 A dashboard you glance at but never act on is just expensive wallpaper. The value is not in the looking. It is in the deciding.
