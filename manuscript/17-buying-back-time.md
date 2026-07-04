@@ -48,6 +48,8 @@ When you started reading, you wanted one of two things, and probably both. You w
 
 Here is the quiet truth at the heart of it. They are the same thing, seen from two sides. The systemised business that no longer depends on you is exactly the business that gives you your time back, and it is exactly the business that is finally worth selling. You do not have to choose between the freedom and the asset. Building one builds the other.
 
+And now it matters less w
+
 ## Where We Go Next
 
 There is a question hiding inside all of this, and almost nobody answers it well. Once the plate is finally clear and the hours are your own again, how do you decide, on any given morning, what actually deserves them? Reclaimed time slips away more easily than you would think, and the tools most of us reach for to manage it quietly make the problem worse. The next chapter is about how you decide what to do now, and how to stop drowning in a hundred things that all insist they come first. Then, right at the end, one last job remains: keeping the machine running without climbing back into it.
