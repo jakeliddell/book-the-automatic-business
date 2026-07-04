@@ -50,7 +50,7 @@ Here is the quiet truth at the heart of it. They are the same thing, seen from t
 
 And now it matters less whether you do sell the business or don't.  Because while the impact on you life is different (a regular and increasing stream of profit from your asset, as opposed to a sudden windfall payday), they both give you what you need.  Freedom.  Freedom of time.  Freedom of money.  Freedom of purpose.  Freedom of location.
 
-And when you do finally decide to sell, you can sell for a premium.  Your business removes the major risks that a buyer perceives: the risk that your business isn't as you say it is, and the risk that it will all fall apart when you're gone.  As a result, your business will sell for a
+And when you do finally decide to sell, you can sell for a premium.  Your business removes the major risks that a buyer perceives: the risk that your business isn't as you say it is, and the risk that it will all fall apart when you're gone.  As a result, your business will sell for a higher multiple than it ever would have 
 
 ## Where We Go Next
 
