@@ -14,7 +14,7 @@ The fix is a connector. A connector is a piece of no-code software whose only jo
 
 The whole idea fits in one line. When something happens in one tool, do something in another. The first half is the trigger (something happens). The second half is the action (do something).
 
-Say a new enquiry lands through your website form. That is the trigger. From that single event, the connector can, in the space of a few seconds, add the person to your CRM, send them a warm confirmation so they know they have been heard, ping your team so someone can pick it up, and create a task so it cannot be forgotten. One thing happened, and four jobs got done, correctly, instantly, and without a human lifting a finger.
+Say a new enquiry lands through your website form. That is the trigger. From that single event, the connector can, in the space of a few seconds, add the person to your CRM, send them a warm confirmation so they know they have been heard, ping your team so someone can pick it up, and create a task assigned to your team so it cannot be forgotten. One thing happened, and four jobs got done, correctly, instantly, and without a human lifting a finger.
 
 That is the heart of it. One trigger, a chain of actions. Now multiply it by every enquiry, every booking, every invoice, and the hours begin to stack up.
 
