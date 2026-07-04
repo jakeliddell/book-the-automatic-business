@@ -24,7 +24,7 @@ It has to be useful. Every message should earn its place by helping: an answer, 
 
 And it has to be easy to reply to. Let people respond directly to the text or the email. The moment you make someone dig out a phone number or log into a portal just to answer you, you have added friction, and friction quietly kills trust.
 
-![The right message, at the right moment, that stops the instant they reply.](../images/ch12/fig-comms-timing.svg){#fig-comms-timing width=90%}
+![The right message, at the right moment, that stops the instant they reply.](../images/ch13/fig-comms-timing.svg){#fig-comms-timing width=90%}
 
 ## Reducing the Uncertainty
 

@@ -24,21 +24,22 @@ book:
         - manuscript/intermission.md
     - part: "Part Three: Building the Automatic Business"
       chapters:
-        - manuscript/07-second-brain-concept.md
-        - manuscript/08-second-brain-build.md
-        - manuscript/09-connecting-everything.md
-        - manuscript/10-client-operating-system.md
-        - manuscript/11-killing-errors.md
-        - manuscript/12-communications.md
-        - manuscript/13-digital-teammates.md
-        - manuscript/14-dashboards.md
+        - manuscript/07-the-map-of-your-business.md
+        - manuscript/08-second-brain-concept.md
+        - manuscript/09-second-brain-build.md
+        - manuscript/10-connecting-everything.md
+        - manuscript/11-client-operating-system.md
+        - manuscript/12-killing-errors.md
+        - manuscript/13-communications.md
+        - manuscript/14-digital-teammates.md
+        - manuscript/15-dashboards.md
     - part: "Part Four: The Business That Runs Without You"
       chapters:
-        - manuscript/15-systemising-delivery.md
-        - manuscript/16-marketing-growth.md
-        - manuscript/17-buying-back-time.md
-        - manuscript/18-everything-is-not-a-priority.md
-        - manuscript/19-maintaining.md
+        - manuscript/16-systemising-delivery.md
+        - manuscript/17-marketing-growth.md
+        - manuscript/18-buying-back-time.md
+        - manuscript/19-everything-is-not-a-priority.md
+        - manuscript/20-maintaining.md
     - manuscript/tools-pullout.md
     - manuscript/back-cover.md
 

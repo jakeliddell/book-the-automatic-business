@@ -20,7 +20,7 @@ At the top sits a short rulebook. A page or two that tells the AI how your Keyst
 
 That is all it is. Not a frightening enterprise system. At its simplest, a well-organised set of plain documents that an AI looks after. The specific tools you might use to hold it live in the directory at the back, because they will change. The shape will not.
 
-![A Keystone has three layers: raw sources at the bottom, the AI-maintained memory in the middle, and everyone who draws on it at the top.](../images/ch08/fig-keystone-layers.svg){#fig-keystone-layers width=80%}
+![A Keystone has three layers: raw sources at the bottom, the AI-maintained memory in the middle, and everyone who draws on it at the top.](../images/ch09/fig-keystone-layers.svg){#fig-keystone-layers width=80%}
 
 ## Getting It Out of Heads: Process Archaeology
 

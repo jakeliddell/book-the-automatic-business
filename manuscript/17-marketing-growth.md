@@ -30,7 +30,7 @@ This is where AI changes the game more than anywhere else in your marketing. You
 
 And because the AI draws on your Keystone, what it produces sounds like you, with your knowledge and your point of view, not like generic content churned out by a machine. That is the crucial difference. Automated marketing used to mean bland and forgettable. Now it can mean you, amplified across every channel, without you sitting at a keyboard for hours. One good idea, captured once, can quietly feed your flywheel for months.
 
-![A growth flywheel: create, capture, nurture and convert, delight, then referrals, spinning faster the longer it runs.](../images/ch16/fig-flywheel.svg){#fig-flywheel width=80%}
+![A growth flywheel: create, capture, nurture and convert, delight, then referrals, spinning faster the longer it runs.](../images/ch17/fig-flywheel.svg){#fig-flywheel width=80%}
 
 ## Make the Engine Run Itself
 

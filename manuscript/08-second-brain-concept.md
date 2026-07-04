@@ -34,7 +34,7 @@ Sit with what that does, because it is bigger than it looks. Today, when a good 
 
 Now picture your company's brain as it stands today. A bit of it is in your head. A bit in each of your team's heads. A bit in your inbox, some in the CRM, some in a folder, some in a chat thread from eight months ago. Nothing holds the whole picture, and the only thing joining it all together is you, walking around answering questions. A Keystone takes all of that and gives the business one shared mind to think with.
 
-![Today your business's knowledge is scattered across heads and apps, joined only by you. A Keystone gives it one shared memory that people and AI can both draw on.](../images/ch07/fig-second-brain.svg){#fig-second-brain width=90%}
+![Today your business's knowledge is scattered across heads and apps, joined only by you. A Keystone gives it one shared memory that people and AI can both draw on.](../images/ch08/fig-second-brain.svg){#fig-second-brain width=90%}
 
 ## Why This Isn't the Documentation You've Tried Before
 

@@ -34,7 +34,7 @@ Here is the payoff that breaks the cruel maths we started with.
 
 When delivery runs on systems, each new client costs you far less time and attention than the last. The tenth is easier than the fifth; the fiftieth barely touches you at all, because the system absorbs the work. That means you can grow without hiring in lockstep, and the margin that used to shrink with every hire starts to widen instead. And when you genuinely do need more people, the systems change what hiring even means. A new starter does not have to become the keeper of secret knowledge, because the knowledge lives in the Keystone and the process runs itself. They learn to operate the system, which takes days, rather than to be the system, which takes months. You have met this idea before: every part of your delivery should be operable by a capable, non-technical person following the system, not improvising from memory.
 
-![Systems break the link between growth and chaos.](../images/ch15/fig-scaling.svg){#fig-scaling width=85%}
+![Systems break the link between growth and chaos.](../images/ch16/fig-scaling.svg){#fig-scaling width=85%}
 
 ## Growth That No Longer Depends on You
 

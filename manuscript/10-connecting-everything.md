@@ -18,7 +18,7 @@ Say a new enquiry lands through your website form. That is the trigger. From tha
 
 That is the heart of it. One trigger, a chain of actions. Now multiply it by every enquiry, every booking, every invoice, and the hours begin to stack up.
 
-![One trigger fires a whole chain of actions, in seconds, with no one touching it.](../images/ch09/fig-connector.svg){#fig-connector width=90%}
+![One trigger fires a whole chain of actions, in seconds, with no one touching it.](../images/ch10/fig-connector.svg){#fig-connector width=90%}
 
 ## Making It Smart
 

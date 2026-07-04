@@ -48,7 +48,7 @@ It is about a blend. Your people and your digital teammates, each doing what the
 
 And your own job settles into its proper shape. You stop doing, and you start directing: managing a blended team of people and machines, doing what only you can do, and letting everyone and everything else do the rest.
 
-![A blended team: your people, plus tireless digital teammates, all reporting to you.](../images/ch13/fig-digital-team.svg){#fig-digital-team width=90%}
+![A blended team: your people, plus tireless digital teammates, all reporting to you.](../images/ch14/fig-digital-team.svg){#fig-digital-team width=90%}
 
 ## Where We Go Next
 

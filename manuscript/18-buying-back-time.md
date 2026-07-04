@@ -40,7 +40,7 @@ There is a trap here, and it is a sneaky one. You free up ten hours, and without
 
 This is the title on the cover made real. Do what only you can do. Everything in this book has been in service of clearing your plate of everything else, so that the only things left on it are the things that are truly yours.
 
-![Buying back your time means redesigning your week, not just emptying it.](../images/ch17/fig-your-week.svg){#fig-your-week width=90%}
+![Buying back your time means redesigning your week, not just emptying it.](../images/ch18/fig-your-week.svg){#fig-your-week width=90%}
 
 ## The Two Freedoms
 

@@ -16,7 +16,7 @@ Remember the position you reached at the end of the last chapter. You now have a
 
 A dashboard is the answer, and it changes the very nature of how you oversee things. Instead of checking up, interrupting people to ask "where are we with this?", you check in, by glancing at a screen. The information comes to you, without you having to extract it from anyone. This is how you manage without micromanaging, how you keep your finger on the pulse without your hand on everyone's shoulder. And it is, more than anything else, what finally lets you take a fortnight off. Not because nothing could go wrong, but because if it did, you would see it, from a beach, on your phone, in ten seconds.
 
-![One screen: the few numbers that tell you the health of your business.](../images/ch14/fig-dashboard.svg){#fig-dashboard width=90%}
+![One screen: the few numbers that tell you the health of your business.](../images/ch15/fig-dashboard.svg){#fig-dashboard width=90%}
 
 ## Measure the Few Things That Matter
 

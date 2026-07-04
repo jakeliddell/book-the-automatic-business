@@ -6,7 +6,7 @@ By the end of this chapter you will understand why every client relationship in 
 
 Look at how a single client currently moves through your business. The enquiry arrives in one tool, the form. The booking happens in another, the calendar. Their details get typed into a third, the CRM or the spreadsheet. The conversation lives in your inbox. The invoice sits in your accounts package. A note about them is on a sticky pad, or in your head. Maybe you also use a calendar booking tool to allow people to auto-book in.
 
-Seven places, none of them talking to each other, and a human, usually you, carrying the client between them by hand. Every one of those gaps is a crack a lead can slip through, and most do not slip because anyone stopped caring. They slip because no single place was ever responsible for catching them.
+Seven places, none of them talking to each other, and a human, usually you, carrying the client between them by hand. Every one of those gaps is a crack a lead can slip through, and most do not slip because anyone stopped caring. They slip because no single place was ever responsible for catching them. This is the SaaS Spaghetti you mapped in Chapter Seven, experienced one client at a time.
 
 There is also a quieter cost. Every extra tool is another login, another dashboard, another monthly subscription, another thing to hold in your head. The mental clutter of running your business across seven tabs is exhausting in a way that never shows up on any invoice. The answer is to give every client relationship one home: one place where every lead, every conversation, every booking, every deal, and every next step lives together. That home is your CRM, used properly. Think of it not as a database but as your client operating system, the hub the whole client side of your business runs on.
 
@@ -18,7 +18,7 @@ At its centre is a pipeline, a simple visual board of every live opportunity and
 
 That is the cure for one of the most stubborn frustrations you have lived with, the sense that you can never quite see what is going on or forecast what is coming. With a pipeline in front of you, you can. You can tell, in ten seconds, the health of your business, where the jam is this week, and which three deals deserve a nudge today. Nothing falls through the cracks, because the board is the crack-catcher.
 
-![A pipeline shows every live client on one board, and moves them along stage by stage.](../images/ch10/fig-pipeline.svg){#fig-pipeline width=90%}
+![A pipeline shows every live client on one board, and moves them along stage by stage.](../images/ch11/fig-pipeline.svg){#fig-pipeline width=90%}
 
 ## It Does the Chasing
 
@@ -52,7 +52,7 @@ They are partners, not rivals. The CRM moves the client along; the Keystone reme
 
 ## One Hub, Not Five
 
-A closing piece of advice, and it runs against the instinct of every owner who loves a shiny new tool. Resist the sprawl. The whole benefit here comes from consolidation, from one place being responsible for the client side of your business. Every extra disconnected tool you bolt on chips away at that. Pick one client operating system and route everything through it. Which one is a question for the tools directory at the back, because the names change. The principle does not: one home, not seventeen.
+A closing piece of advice, and it runs against the instinct of every owner who loves a shiny new tool. Resist the sprawl. The whole benefit here comes from consolidation, from one place being responsible for the client side of your business. Every extra disconnected tool you bolt on chips away at that. Pick one client operating system and route everything through it. This is the rule from Chapter Seven, one home per block, applied to the block where it pays back hardest. Which one is a question for the tools directory at the back, because the names change. The principle does not: one home, not seventeen.
 
 ## Where We Go Next
 

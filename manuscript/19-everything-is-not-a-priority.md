@@ -52,7 +52,7 @@ The obvious worry with putting everything on one list is that it becomes enormou
 
 You look at the list through lenses. In a client-work block, you see only the client work. During admin time, only the admin. And the most natural lens of all is simply where you happen to be. Attach your work to places, and the list quietly adapts: the office tasks vanish the moment you leave the office, so they stop nagging you at the dinner table; your training plan surfaces when you walk into the gym; the shopping list appears when you are standing in the supermarket, and not one second before. None of these are separate lists to maintain and let fall out of sync. They are all the one list, filtered down to the only slice that matters where you are standing, right now.
 
-![One list, ordered by importance. The lenses simply choose which slice of it you see right now.](../images/ch18/fig-one-list.svg){#fig-one-list width=90%}
+![One list, ordered by importance. The lenses simply choose which slice of it you see right now.](../images/ch19/fig-one-list.svg){#fig-one-list width=90%}
 
 ## Where All the Work Finally Lands
 
