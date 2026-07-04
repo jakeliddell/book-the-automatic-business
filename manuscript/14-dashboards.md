@@ -28,7 +28,7 @@ Work backwards from the decisions you actually make. To grow, you need to see yo
 
 ## Don't Rely on System Dashboards
 
-[Need something in here about how it's easy to skim over this chapter because your major systems (your finance system, your CRM, your delivery systems) all come with reporting and dashboards.  However these never show you the key numbers, as they are usually designed by the wrong people (Accountants for the finance dashboards, Marketers for CRM dashboards), and can't show you the complete picture (because they don't have all the data).  An example, Xero should have all the data to show you numbers like Lifetime Value, Churn, yet
+[Need something in here about how it's easy to skim over this chapter because your major systems (your finance system, your CRM, your delivery systems) all come with reporting and dashboards.  However these never show you the key numbers, as they are usually designed by the wrong people (Accountants for the finance dashboards, Marketers for CRM dashboards), and can't show you the complete picture (because they don't have all the data).  An example, Xero should have all the data to show you numbers like Lifetime Value, Churn, yet it doesn't have these business reports.
 
 ## Turn the Numbers Into Decisions
 
