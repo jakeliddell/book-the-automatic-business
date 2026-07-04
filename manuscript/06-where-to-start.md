@@ -72,7 +72,7 @@ A short story shows both the danger and the cure. A marketing agency owner set o
 
 The specific tools you might use for any of this are listed and compared in the directory at the back of the book, kept there because they change far faster than the principles do.
 
-
+## Be Selfish
 
 ## From Thinking to Building
 
