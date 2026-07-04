@@ -58,7 +58,7 @@ A bad process, automated, is just a bad process that runs faster.
 
 So, concretely. Look at your high-value, low-effort, low-risk corner and pick one. Or, if you are feeling bold, pick three, no more. The best first candidates share three traits, which are exactly the marks of the automation column from the triage: they are frequent, you do them at least weekly; they are repetitive, the steps barely change; and they are rules-based, if this happens, then that should happen.
 
-For most service businesses with a team, the low-hanging fruit lives in the same three places. Capturing and following up leads, so that none ever dies quietly in an inbox. Scheduling, so the calendar ping-pong simply stops. And onboarding new clients, so every one gets the same smooth start without you sending a single PDF. Any of these will hand you back hours in the first week.
+For most service businesses with a team, the low-hanging fruit lives in the same four places. Capturing and following up leads, so that none ever dies quietly in an inbox. Scheduling, so the calendar ping-pong simply stops. And onboarding new clients, so every one gets the same smooth start without you sending a single PDF. Any of these will hand you back hours in the first week.
 
 That is your beachhead. You are not trying to fix the whole business this month. You are trying to reclaim five to ten hours a week and prove, to yourself and to your team, that this works. Once you have that, everything after it is easier.
 
