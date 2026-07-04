@@ -4,7 +4,7 @@ By the end of this chapter you will understand the single most valuable thing yo
 
 ## The Asset in the Worst Possible Place
 
-Let me take you back to the thought that arrives at two in the morning, the one from the very first pages. If I stepped away, this would fall over. We can now say exactly why that thought is true, and it is not because you are disorganised or weak. It is because the most valuable asset in your business is stored in the worst possible place: inside human heads.
+Let me take you back to the thought that arrives at two in the morning, the one from the very first pages. If I stepped away, this would fall over. We can now say exactly why that thought is true, and it is not because you are disorganised. It is because the most valuable asset in your business is stored in the worst possible place: inside human heads.
 
 How a deal actually gets done. Why that one client always needs handling a certain way. The reason you quietly stopped using that supplier. The unwritten knack that keeps a fiddly process from falling over. Most of it lives in your head. Some of it lives in Susan's, and some in Dave's. Almost none of it is written down anywhere a new starter, a machine, or a buyer could ever find it.
 
