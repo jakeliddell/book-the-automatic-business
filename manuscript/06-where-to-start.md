@@ -74,7 +74,7 @@ The specific tools you might use for any of this are listed and compared in the 
 
 ## Be Selfish
 
-When choosing your first candidates to automate, it's tempting to dive into 
+When choosing your first candidates to automate, it's tempting to dive into things that 
 
 ## From Thinking to Building
 
