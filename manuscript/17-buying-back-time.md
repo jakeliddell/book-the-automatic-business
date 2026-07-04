@@ -48,7 +48,7 @@ When you started reading, you wanted one of two things, and probably both. You w
 
 Here is the quiet truth at the heart of it. They are the same thing, seen from two sides. The systemised business that no longer depends on you is exactly the business that gives you your time back, and it is exactly the business that is finally worth selling. You do not have to choose between the freedom and the asset. Building one builds the other.
 
-And now it matters less w
+And now it matters less whether you do sell the business or don't.  Becau
 
 ## Where We Go Next
 
