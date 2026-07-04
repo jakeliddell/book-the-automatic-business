@@ -16,6 +16,8 @@ Now put a price on an hour of your time, because until you do, you will keep tre
 
 Keep a simple tally as you go, three columns: the task, the hours it saves each week, and what those hours are worth. Be conservative with every figure. You do not need to inflate it. The honest number is startling enough, and watching it grow is oddly addictive, in the good way.
 
+You might want 
+
 ## The Wins You Can't Put in a Spreadsheet
 
 The hours and the pounds are the easy part to count. The bigger wins resist a spreadsheet.
