@@ -4,7 +4,7 @@ By the end of this chapter you will know how to build your Keystone, how to fill
 
 ## Start Small, Then Grow It
 
-First, a relief. You do not build a Keystone all at once. The thought of capturing everything your business knows in one go is paralysing, and paralysis is exactly what we are trying to escape. So we do not.  (Indeed, we _could_ not
+First, a relief. You do not build a Keystone all at once. The thought of capturing everything your business knows in one go is paralysing, and paralysis is exactly what we are trying to escape. So we do not.  (Indeed, we _could_ not.)
 
 You already know the rule from Chapter Six. Pick one painful thing, fix it permanently, repeat. The same applies here. You seed the Keystone with a little, then grow it one process at a time, as you go. The very first entries are the things you wrote down at the end of the last chapter, the handful of things that, if you vanished, only you would know. That is your starting point. Everything else accretes from there.
 
