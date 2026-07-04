@@ -50,7 +50,7 @@ Name your automations like you would name a job. Not "Automation 14," but "New e
 
 Test before you trust. Run it with a dummy enquiry and watch every step fire before you let it loose on real clients. You would not push an untested change to your live website. Treat the machinery running your business with the same respect.
 
-For each automation, consider having it log what it's doing so that a dashboard can agregate and display 
+For each automation, consider having it log what it's doing so that a dashboard can agregate and display daily or weekly summaries.  
 And build a failsafe. The simplest and most important one is this: if the automation ever fails, have it send you an alert. That single habit means you are never flying blind, and a broken automation becomes a two-minute fix rather than a silent month of lost leads.
 
 ## It Keeps Your Keystone Current
