@@ -8,7 +8,7 @@ Here is a quiet truth about your business. The problem is rarely the tools. You 
 
 So someone has to carry the information between them by hand. A lead fills in the form, and a person copies the details into the CRM. A client books a call, and someone types it onto the calendar and into the client record. An invoice is needed, so the same numbers get keyed in again. Every one of those handoffs is a person doing a machine's job, and more often than not, that person is you. You are the glue holding your tools together. You are the integration layer.
 
-The fix is a connector. A connector is a piece of no-code software whose only job is to pass information between your tools and tell them what to do. You set the rules once, in plain language, by clicking rather than coding, and from then on the connector does the carrying. It is, in effect, the first member of your digital back office, and it never sleeps, never forgets, and never fat-fingers an email address.
+The fix is a connector. A connector is a piece of no-code software whose only job is to pass information between your tools and tell them what to do. You set the rules once, by clicking rather than coding, and from then on the connector does the carrying. It is, in effect, the first member of your digital back office, and it never sleeps, never forgets, and never fat-fingers an email address.
 
 ## When This Happens, Do That
 
