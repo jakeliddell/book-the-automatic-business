@@ -12,7 +12,7 @@ You already know the rule from Chapter Six. Pick one painful thing, fix it perma
 
 Strip away the mystique and a Keystone has three simple layers.
 
-At the bottom are the raw sources. This is the evidence of how your business actually runs: recordings of calls, documents, decisions, messages, notes. You do not tidy these. They are the raw material.
+At the bottom are the raw sources. This is the evidence of how your business actually runs: emails, recordings of calls, documents, decisions, messages, notes. You do not tidy these. They are the raw material.
 
 In the middle is the Keystone itself. This is an organised, written memory, built and kept current by AI from those raw sources, in plain language. Think of it as a set of living pages: a page for each important client, each supplier, each member of the team, and a page for each process, how we onboard, how we quote, how we handle a complaint, plus a running record of the decisions you have made and why. Structured so that anyone, or any AI, can find an answer in seconds.
 
