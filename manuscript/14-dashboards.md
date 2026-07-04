@@ -4,7 +4,7 @@ By the end of this chapter you will know how to see your whole business at a gla
 
 ## The Oldest Rule in Management
 
-Peter Drucker is usually credited with the line that titles this chapter: what gets measured gets managed. It has lasted because it is true. You cannot improve what you cannot see. You cannot trust what you cannot see. And you certainly cannot step back from what you cannot see, because the moment you look away, you have no idea what is happening.  (Drucker stated that the converse is equally true - reveal the 
+Peter Drucker is usually credited with the line that titles this chapter: what gets measured gets managed. It has lasted because it is true. You cannot improve what you cannot see. You cannot trust what you cannot see. And you certainly cannot step back from what you cannot see, because the moment you look away, you have no idea what is happening.  (Drucker stated that the converse is equally true - Shine a light on a 
 
 Right now, like most owners, you probably run your business on a patchwork of spreadsheets, sticky notes, and a great deal held in your head. And it works, in the way that juggling works, right up until you add one more ball. The fifth hire. The thirtieth client. The second location. Suddenly you cannot hold it all in your head any more, and the cracks start to show. That is not a failure. It is the moment your business outgrows being run from memory and starts needing to be run from a screen.
 
