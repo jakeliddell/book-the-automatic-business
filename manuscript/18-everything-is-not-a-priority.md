@@ -58,7 +58,8 @@ You look at the list through lenses. In a client-work block, you see only the cl
 
 Step back and look at what this list is really for, in the context of everything you have built. Your Keystone surfaces things that need doing. Your digital teammates hand work back to you. The triage sends you the handful of jobs that genuinely need a human, and that human is you. All of that signal, from all of those sources, has to land somewhere and be put in order by the one person allowed to decide. That somewhere is your one list. It is the place where the whole automatic business finally meets your own two hands, and you choose.
 
-Your personal keystone can help you by reviewing your list and suggesting changes to the order as things change, but it's your list.  You call the shots.  You can accept the suggestions, or ignore them.  
+Your personal keystone can help you by reviewing your list and suggesting changes to the order as things change, but it's your list.  You call the shots.  You can accept the suggestions, or ignore them.
+
 I believe in this so completely that I went and built it, because nothing on the market did it the way this chapter describes. It is called One List, and it works exactly like this: one ranked list, the order in your hands and never the algorithm's, seen through whatever lens fits the moment. It is private and invite-only, and I am not going to pretend otherwise or dress this up. But if reading this chapter has made your fingers itch to try it, readers of this book can skip the queue. Go to theautomaticbusiness.co.uk/onelist and ask for a way in. That is the only sales pitch you will get from me in this entire book, and I have now made it, so we can move on.
 
 ## Where We Go Next
