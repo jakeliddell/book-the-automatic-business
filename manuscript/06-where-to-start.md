@@ -74,6 +74,8 @@ The specific tools you might use for any of this are listed and compared in the 
 
 ## Be Selfish
 
+When choosing your first candi
+
 ## From Thinking to Building
 
 Take a breath and look at how far you have come. You understand why you became the bottleneck, and the shift out of it. You have a way to sort every task into human, automation or AI. You know how to get real work out of AI. And now you know exactly where to start, and how to keep it lean.
