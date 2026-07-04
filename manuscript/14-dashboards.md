@@ -58,6 +58,6 @@ Stop for a moment and look at what you have. A Keystone, the living memory that 
 
 That is an automatic business. The building is done.
 
-What remains is the reward. In Part Four we turn this machine to the purpose you started for in the first place: scaling it without the chaos, winning back your time, and building something that runs, and could one day sell, without you. That begins now.
+What remains is the reward. In Part Four we turn this machine to the purpose you started for in the first place: scaling it without the chaos, winning back your time, and building something that runs, and could one day be sold, without you. That begins now.
 
 > **Try this.** If you could see only three numbers about your business, just three, which three would tell you whether it is healthy today? Write them down. That is the beginning of your dashboard, and the beginning of running your business on facts instead of feel.
