@@ -50,7 +50,7 @@ Your team asks it instead of asking you. Your brilliant new hire, the AI, reads 
 
 So what is actually left for a human to do? Less than you fear.
 
-The AI does the continuous upkeep: the writing, the filing, the cross-referencing, the flagging of things that now contradict each other. What remains is a light rhythm, not a burden. Once a week, or once a fortnight, you spend a short while looking at what the AI has flagged: a contradiction it spotted, a gap it noticed, a decision that needs your confirmation. You confirm or correct, and it carries on. That is the whole maintenance job. The heavy lifting that buried every previous attempt is now done by a machine that does not get bored, and the part left for you is small precisely because the machine does the rest.  You can do it from anywhere, the train, infront of the television
+The AI does the continuous upkeep: the writing, the filing, the cross-referencing, the flagging of things that now contradict each other. What remains is a light rhythm, not a burden. Once a week, or once a fortnight, you spend a short while looking at what the AI has flagged: a contradiction it spotted, a gap it noticed, a decision that needs your confirmation. You confirm or correct, and it carries on. That is the whole maintenance job. The heavy lifting that buried every previous attempt is now done by a machine that does not get bored, and the part left for you is small precisely because the machine does the rest.  You can do it from anywhere, the train, infront of the television, on the toilet.
 
 ## Getting Your Team on Board
 
