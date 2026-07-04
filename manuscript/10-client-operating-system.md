@@ -4,9 +4,9 @@ By the end of this chapter you will understand why every client relationship in 
 
 ## Death by a Thousand Logins
 
-Look at how a single client currently moves through your business. The enquiry arrives in one tool, the form. The booking happens in another, the calendar. Their details get typed into a third, the CRM or the spreadsheet. The conversation lives in your inbox. The invoice sits in your accounts package. A note about them is on a sticky pad, or in your head. Maybe you also use a calendar booking tool to allow people to auto-book in
+Look at how a single client currently moves through your business. The enquiry arrives in one tool, the form. The booking happens in another, the calendar. Their details get typed into a third, the CRM or the spreadsheet. The conversation lives in your inbox. The invoice sits in your accounts package. A note about them is on a sticky pad, or in your head. Maybe you also use a calendar booking tool to allow people to auto-book in.
 
-Six places, none of them talking to each other, and a human, usually you, carrying the client between them by hand. Every one of those gaps is a crack a lead can slip through, and most do not slip because anyone stopped caring. They slip because no single place was ever responsible for catching them.
+Seven places, none of them talking to each other, and a human, usually you, carrying the client between them by hand. Every one of those gaps is a crack a lead can slip through, and most do not slip because anyone stopped caring. They slip because no single place was ever responsible for catching them.
 
 There is also a quieter cost. Every extra tool is another login, another dashboard, another thing to hold in your head. The mental clutter of running your business across seven tabs is exhausting in a way that never shows up on any invoice. The answer is to give every client relationship one home: one place where every lead, every conversation, every booking, every deal, and every next step lives together. That home is your CRM, used properly. Think of it not as a database but as your client operating system, the hub the whole client side of your business runs on.
 
