@@ -10,7 +10,7 @@ How a deal actually gets done. Why that one client always needs handling a certa
 
 This is why people keep coming to you. Not because they are incapable, but because you are the only place the answer lives. The bottleneck you have been trying to escape is, underneath, an information bottleneck. The knowledge funnels through you because it is only stored in you.
 
-It is also why the business is hard to sell for what it should be worth. A buyer looks under the bonnet and sees that the engine is a person who would quite like to leave. And it is why losing a good member of staff feels like an amputation. They do not just take a role with them. They walk out with a piece of the company's memory that existed nowhere else.
+It is also why the business is hard to sell for what it should be worth. A buyer looks under the bonnet and sees that the engine is a person who would quite like to leave. And it is why losing a good member of staff feels like an amputation. They do not just take a role with them. They walk out with a piece of the company's knowledge that existed nowhere else.
 
 Everything else in this book helps with the bottleneck. This is the thing that fixes it at the root.
 
