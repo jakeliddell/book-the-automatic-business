@@ -44,8 +44,6 @@ That is it. Not a six-month transformation programme. Not automating five depart
 
 It also quietly answers the objection in the back of your mind right now, the one that says "I do not have time for a big project." Good. You do not need one. You need one painful thing and an afternoon.
 
-Be selfish a
-
 ## What to Protect
 
 Before you automate anything, a warning, because automation has a dark side when it is pointed at the wrong work.
