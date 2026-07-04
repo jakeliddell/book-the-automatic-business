@@ -1,0 +1,30 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 820 320' font-family='sans-serif'>
+  <rect width='820' height='320' fill='#F7F5F1'/>
+  <rect x='40' y='34' width='740' height='208' rx='12' fill='#FFFFFF' stroke='#2A2A28' stroke-width='2'/>
+  <rect x='40' y='34' width='740' height='34' rx='12' fill='#EFEAE1' stroke='#2A2A28' stroke-width='2'/>
+  <rect x='40' y='52' width='740' height='16' fill='#EFEAE1'/>
+  <text x='60' y='57' font-size='14' font-weight='bold' fill='#2A2A28'>Your business, at a glance</text>
+  <g>
+    <rect x='62' y='90' width='160' height='130' rx='8' fill='#F7F5F1' stroke='#D8D2C7' stroke-width='1.5'/>
+    <rect x='246' y='90' width='160' height='130' rx='8' fill='#F7F5F1' stroke='#D8D2C7' stroke-width='1.5'/>
+    <rect x='430' y='90' width='160' height='130' rx='8' fill='#F7F5F1' stroke='#D8D2C7' stroke-width='1.5'/>
+    <rect x='614' y='90' width='160' height='130' rx='8' fill='#F7F5F1' stroke='#D8D2C7' stroke-width='1.5'/>
+  </g>
+  <circle cx='200' cy='110' r='7' fill='#5B8C5A'/>
+  <circle cx='384' cy='110' r='7' fill='#5B8C5A'/>
+  <circle cx='568' cy='110' r='7' fill='#C9A227'/>
+  <circle cx='752' cy='110' r='7' fill='#5B8C5A'/>
+  <g text-anchor='middle' fill='#B5632F' font-weight='bold' font-size='34'>
+    <text x='142' y='162'>24</text>
+    <text x='326' y='162'>&#163;18k</text>
+    <text x='510' y='162'>3</text>
+    <text x='694' y='162'>92%</text>
+  </g>
+  <g text-anchor='middle' fill='#2A2A28' font-size='13'>
+    <text x='142' y='198'>leads this week</text>
+    <text x='326' y='198'>pipeline value</text>
+    <text x='510' y='198'>overdue invoices</text>
+    <text x='694' y='198'>on-time delivery</text>
+  </g>
+  <text x='410' y='284' text-anchor='middle' font-size='15' fill='#2A2A28'>one screen: the few numbers that make you act</text>
+</svg>
