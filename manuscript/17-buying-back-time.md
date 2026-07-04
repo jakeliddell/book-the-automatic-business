@@ -16,7 +16,7 @@ Now put a price on an hour of your time, because until you do, you will keep tre
 
 Keep a simple tally as you go, three columns: the task, the hours it saves each week, and what those hours are worth. Be conservative with every figure. You do not need to inflate it. The honest number is startling enough, and watching it grow is oddly addictive, in the good way.
 
-You might want to have a dashboard to track thist's fun seeing the amounts go up.  
+You might want to have a dashboard to track this. It's fun seeing the amounts go up. 
 
 ## The Wins You Can't Put in a Spreadsheet
 
