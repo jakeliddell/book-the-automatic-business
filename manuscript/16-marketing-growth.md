@@ -44,7 +44,7 @@ One last channel, and it is the strongest you have. In your world, the most powe
 
 You cannot automate the trust, nor would you want to. But you can systemise the unglamorous parts that owners almost always forget. Asking a delighted client for a review at the precise moment they are happiest. Making it effortless for them to refer a friend. Banking every kind word as proof you can show the next prospect. Done with a light, genuine touch, this turns your good work into a quiet, compounding engine of reputation, without you ever having to awkwardly ask, "so, do you know anyone who needs me?"
 
-Words
+## Words are Cheap
 
 ## Where We Go Next
 
