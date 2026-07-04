@@ -44,7 +44,7 @@ That is it. Not a six-month transformation programme. Not automating five depart
 
 It also quietly answers the objection in the back of your mind right now, the one that says "I do not have time for a big project." Good. You do not need one. You need one painful thing and an afternoon.
 
-Be 
+Be selfish a
 
 ## What to Protect
 
