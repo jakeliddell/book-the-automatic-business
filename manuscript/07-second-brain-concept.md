@@ -66,7 +66,7 @@ Second, it dissolves the information bottleneck. When the knowledge is shared, t
 
 Third, and this is what makes the rest of the book work, it is what finally makes your AI and your automations genuinely yours. Remember your brilliant new hire, who knew nothing about your business and had to be briefed from scratch every time? Your Keystone is the memory you give it, so it turns up already knowing how you work, in your tone, with your history. And every automation you build draws on the same single source of truth, instead of each one clutching its own little fragment. Without it, your AI is generic and your automations are scattered. With it, everything you build stands on the same solid ground.
 
-That is why we lay this foundation first. Everything in the chapters that follow gets better the moment it has a Keystone to draw on.
+That is why we lay this foundation first. Everything in the chapters that follow gets better the moment it has a Keystone to draw on.  And
 
 ## Where We Go Next
 
