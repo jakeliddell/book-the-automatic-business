@@ -36,6 +36,8 @@ A dashboard you glance at but never act on is just expensive wallpaper. The valu
 
 So build a small ritual around it. A five-minute look each morning. A slightly longer review on a Friday, where you pick the one thing the numbers are telling you and do something about it. Keep the signals simple: green, amber and red beats a twenty-page report every time, because your eye knows what matters before your brain has finished reading. When your average onboarding time quietly jumps from three days to seven, you see it that morning and ask "what changed?", rather than discovering it at the month-end review, three weeks too late. Your business becomes a feedback loop: something slips, you see it, you fix it fast. That speed, the seeing and the fixing, is most of what separates a calm business from a chaotic one.
 
+You can go a step further.  Imag
+
 ## It Has to Build Itself
 
 Here is the trap that kills most dashboards, and you have met it twice already in this book. If a human has to update it, it dies. A dashboard someone keys in every Friday is not real-time. It is a delay wrapped in a data-entry liability, and it will rot exactly the way your old CRM and your old process documents rotted, for exactly the same reason.
