@@ -8,7 +8,7 @@ Look at how a single client currently moves through your business. The enquiry a
 
 Seven places, none of them talking to each other, and a human, usually you, carrying the client between them by hand. Every one of those gaps is a crack a lead can slip through, and most do not slip because anyone stopped caring. They slip because no single place was ever responsible for catching them.
 
-There is also a quieter cost. Every extra tool is another login, another dashboard, another thing to hold in your head. The mental clutter of running your business across seven tabs is exhausting in a way that never shows up on any invoice. The answer is to give every client relationship one home: one place where every lead, every conversation, every booking, every deal, and every next step lives together. That home is your CRM, used properly. Think of it not as a database but as your client operating system, the hub the whole client side of your business runs on.
+There is also a quieter cost. Every extra tool is another login, another dashboard, another monthly subscription, another thing to hold in your head. The mental clutter of running your business across seven tabs is exhausting in a way that never shows up on any invoice. The answer is to give every client relationship one home: one place where every lead, every conversation, every booking, every deal, and every next step lives together. That home is your CRM, used properly. Think of it not as a database but as your client operating system, the hub the whole client side of your business runs on.
 
 ## See the Whole Business at a Glance
 
