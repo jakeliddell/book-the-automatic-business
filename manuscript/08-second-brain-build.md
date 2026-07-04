@@ -38,7 +38,7 @@ Picture Susan, who has run your client onboarding for years and holds the whole 
 
 Process Archaeology gets the big buried processes out. After that, most of the feeding happens almost on its own, from the ordinary exhaust of the business.
 
-Your days already produce a steady stream of raw material: meetings, client calls, decisions made in a thread, a change to how something is done. Point your AI at that stream and it writes the relevant parts into the Keystone as they happen, updating the right pages and noting what changed. A decision made on a Tuesday becomes, without anyone setting out to document it, a line on the right page that everyone can see. Your job shrinks to two things: feeding it the sources, and steering it when it files something in the wrong place. The Keystone grows richer as a byproduct of you simply running your business.
+Your days already produce a steady stream of raw material: meetings, emails, client calls, decisions made in a thread, a change to how something is done. Point your AI at that stream and it writes the relevant parts into the Keystone as they happen, updating the right pages and noting what changed. A decision made on a Tuesday becomes, without anyone setting out to document it, a line on the right page that everyone can see. Your job shrinks to two things: feeding it the sources, and steering it when it files something in the wrong place. The Keystone grows richer as a byproduct of you simply running your business.
 
 ## Using It Is What Keeps It Alive
 
