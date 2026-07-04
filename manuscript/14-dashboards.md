@@ -42,7 +42,7 @@ This is management by exception, and it's key to a peaceful life.
 
 ## It Has to Build Itself
 
-Here is the trap that kills most dashboards, and you have met it twice already in this book. If a human has to update it, it dies. A dashboard someone keys in every Friday is not real-time. It is a delay wrapped in a data-entry liability, and it will rot exactly the way your old CRM and your old process documents rotted, for exactly the same reason.
+Here is the trap that kills most dashboards, and you have met it twice already in this book. If a human has to update it, it dies. A dashboard someone keys in every Friday is not real-time. It is a delay wrapped in a data-entry liability, and it will rot exactly the way your old CRM and your old process documents rotted, for exactly the same reason.  Not only wil
 
 So the only dashboard worth building is one that updates itself. And by now you have everything it needs. It draws its numbers straight from your single source of truth, your client operating system and your Keystone, kept current by the connectors and the digital teammates you have already built. A booking, a payment, a completed task, each one updates the dashboard the instant it happens, with nobody touching a spreadsheet. The dashboard is not another thing to maintain. It is simply a window onto the machine you have spent this whole part building.
 
