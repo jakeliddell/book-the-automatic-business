@@ -9,6 +9,7 @@ book:
   chapters:
     - index.md
     - manuscript/copyright.md
+    - manuscript/come-to-the-edge.md
     - manuscript/foreword.md
     - manuscript/introduction.md
     - part: "Part One: Why You're the Bottleneck"

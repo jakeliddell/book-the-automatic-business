@@ -1,0 +1,39 @@
+name: Build book
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'manuscript/**'
+      - 'index.md'
+      - '_quarto.yml'
+      - 'images/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install rsvg (SVG conversion for PDF)
+        run: sudo apt-get update && sudo apt-get install -y librsvg2-bin
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Render PDF and EPUB
+        run: quarto render
+
+      - name: Upload built book
+        uses: actions/upload-artifact@v4
+        with:
+          name: the-automatic-business-build
+          path: |
+            _build/*.pdf
+            _build/*.epub
+          if-no-files-found: error
+          retention-days: 30
