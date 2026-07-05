@@ -47,15 +47,19 @@ book:
 
 # PDF is rendered with Typst (bundled in Quarto, no TeX install needed).
 # us-trade is the 6 x 9 inch trim. Margins approximate the KDP spec;
-# true mirrored inner/outer margins come with the final print template.
+# the proper interior design (fonts, headings, mirrored print margins)
+# comes via a dedicated Typst template - see the design issue.
 format:
   typst:
     papersize: us-trade
-    fontsize: 11pt
+    fontsize: 12pt
     margin:
       top: 0.75in
       bottom: 0.6in
       left: 0.875in
       right: 0.5in
+    include-before-body:
+      - text: |
+          #set par(spacing: 1.35em, first-line-indent: 0em)
   epub:
     toc: true
