@@ -44,7 +44,17 @@ The first is the missing-step alert. Mistakes usually come not from doing the wr
 
 The second is the audit trail. Have the system keep an automatic, timestamped record of what happened and when, across your important workflows. The value of this shows up on the bad day. A client complains, and instead of an afternoon of detective work and finger-pointing, you glance at the log and see exactly where the chain broke, in minutes. Not to assign blame, but to find the weak link, fix it, and notice when the same link keeps breaking. And if you happen to work in a regulated trade, those same logs are a quiet compliance lifesaver: your proof of what was done, and when.
 
-A business with guardrails like these does not just make fewer mistakes. It makes the conditions for mistakes harder to exist in the first place.
+The third is the gate, and it is the strictest of them. Some mistakes are not about forgetting a step, but about moving on before the last one was properly finished: the deal marked as won with no invoice details on it, the job booked with half an address. Your tools may not let you forbid that outright, and they do not need to. Instead, have the automation check that the record is complete before it acts on any stage change. If something is missing, the system quietly moves the card back to where it came from and tells the person exactly what needs fixing before it will move again. Nobody polices anybody. The process simply declines to move until it is safe to.
+
+A business with all three guardrails in place does not just make fewer mistakes. It makes the conditions for mistakes harder to exist in the first place.
+
+## Write the Guardrails First
+
+There is a discipline that makes all three guardrails dramatically easier, and it is borrowed from the best software teams in the world. They write the test before the code. The test defines what correct looks like, and the code is not finished until it passes. Do the same with your processes. Before you automate anything, write the guardrails first: where can this go wrong, what would tell me it has, and what should happen when it does? Answer those three questions for every step, and you have designed your safety net before the machine is even switched on, instead of discovering the gaps one dropped client at a time.
+
+This is also a job your AI is unreasonably good at, because pessimism at scale is exactly its kind of work. Describe your process to it, step by step, in plain English, and ask: list every way this process can fail, and for each failure, the check that would catch it before the process moves on. Ten minutes of manufactured pessimism, before you build, buys you the guardrails most businesses only design after the complaint.
+
+I liked this discipline so much that I built a free tool for it, and named it accordingly: The Pessimist. Give it your process, and it will tell you everywhere it is going to break, and the guardrails to build so that it does not. You will find it at theautomaticbusiness.co.uk/pessimist. It costs nothing, and it is useful whether or not you ever automate a single step.
 
 ## Where We Go Next
 
