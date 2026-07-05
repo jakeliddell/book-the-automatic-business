@@ -60,6 +60,7 @@ format:
       right: 0.5in
     include-before-body:
       - text: |
+          #set text(size: 12pt)
           #set par(spacing: 1.35em, first-line-indent: 0em)
   epub:
     toc: true
