@@ -52,7 +52,7 @@ book:
 format:
   typst:
     papersize: us-trade
-    fontsize: 12pt
+    fontsize: 13pt
     margin:
       top: 0.75in
       bottom: 0.6in
@@ -60,7 +60,7 @@ format:
       right: 0.5in
     include-before-body:
       - text: |
-          #set text(size: 12pt)
+          #set text(size: 13pt)
           #set par(spacing: 1.35em, first-line-indent: 0em)
   epub:
     toc: true
