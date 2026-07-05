@@ -10,7 +10,7 @@ Banned outright: em dashes (—), en dashes (–), curly/smart quotes (" " ' '),
 
 Why (in Jake's words): there is nothing an em dash cannot be replaced with - a full stop and capital letter, a semicolon, a colon, or a comma. No one has written em-dashes in normal writing for 20+ years. The only "people" that do are AI. Readers who spot one dismiss the work as AI-generated and mentally switch off. It is not about grammatical correctness; an em dash says "this is AI". So it cannot be used. Ever. This applies to ALL text a reader might see, including drafts shown in chat for review, marketing copy, and the website, not just committed manuscript files.
 
-Permitted exceptions: © in copyright.md only, and accented letters inside proper nouns (e.g. Schrödinger).
+Permitted exceptions: © in copyright.md only, and accented letters inside proper nouns (e.g. Schrödinger, Saint-Exupéry).
 
 Before any commit, run this and justify every hit:
 
@@ -21,7 +21,8 @@ Before any commit, run this and justify every hit:
 - No contractions in narration (verbatim quoted speech may keep them).
 - British English spellings.
 - Direct address ("you"), short declarative sentences, no bullet-point-heavy prose.
-- Chapters open with a "By the end of this chapter you will..." promise and close with a "Where We Go Next" section followed by a "> **Try this.**" box.
+- Every chapter opens with an epigraph: a blockquote directly under the chapter title, quote in italics with straight quote marks, attribution on its own line with no dash before it. One line per quote; verified attributions only, with "attributed to" where sourcing is informal (Jobs, Drucker). Quotes keep their original spelling and contractions verbatim.
+- After the epigraph, chapters open with a "By the end of this chapter you will..." promise and close with a "Where We Go Next" section followed by a "> **Try this.**" box.
 - Case studies are boxed call-outs titled "Case study: ...". Styling is handled globally at the template level; use Quarto callout syntax in the chapter.
 - Chapter cross-references are spelled out in words ("Chapter Seven"), never numerals.
 - Real tool names may appear only as evidence of sprawl or mess (e.g. the SaaS Spaghetti list in Chapter Seven). Recommendations stay generic in chapters and point to the tools directory at the back; named recommendations live only in manuscript/tools-pullout.md.
