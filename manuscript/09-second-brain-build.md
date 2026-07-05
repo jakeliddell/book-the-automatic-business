@@ -1,5 +1,9 @@
 # Building and Maintaining Your Keystone
 
+> *"The faintest ink is more powerful than the strongest memory."*
+>
+> Chinese proverb
+
 By the end of this chapter you will know how to build your Keystone, how to fill it, including the knowledge that currently lives only in people's heads, and how to keep it alive, all without it becoming yet another job you do not have time for. That last part matters most, because it is where every previous attempt died.
 
 ## Start Small, Then Grow It
