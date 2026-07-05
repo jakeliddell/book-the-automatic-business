@@ -24,7 +24,7 @@ The second reason is that it tells you what kind of book this is. I am not a gur
 
 So let me tell you what I think is going on with you.
 
-You are good at what you do. Very good. You built this business on the back of that talent, and for a while it worked beautifully. But somewhere along the way, everything started to depend on you. You are the one who knows how it all works. You are the one every decision runs through. Your team cannot move without checking first (And frankly, they should, because you _are_ better than them). And without ever choosing it, you have become the bottleneck in your own business.
+You are good at what you do. Very good. You built this business on the back of that talent, and for a while it worked beautifully. But somewhere along the way, everything started to depend on you. You are the one who knows how it all works. You are the one every decision runs through. Your team cannot move without checking first (And frankly, they shouldn't, because you _are_ better than them). And without ever choosing it, you have become the bottleneck in your own business.
 
 You have probably already tried to fix it. You bought the CRM and watched it turn into a database nobody fills in: a place leads go to die. You hired an assistant and ended up doing half their job, as well as your own. You started writing down how things are done, then got pulled away, and all that good work is still sitting in a folder somewhere, ninety percent finished. You sat through a webinar about AI and came away more confused than when you started. None of it stuck.
 
