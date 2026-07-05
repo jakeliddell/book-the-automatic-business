@@ -40,6 +40,18 @@ Then adoption, which is where most attempts truly die. Your last CRM did not get
 
 One rule keeps you honest. If an ordinary, non-technical member of your team cannot do the thing they need in one obvious action, it will not get used. Design for that person, not for the power user. Simplicity is not a nicety here. It is the difference between adoption and another graveyard.
 
+::: {.callout-note icon=false title="Case study: the Matt Test"}
+Matt is a salesman of the old school. Decades on the phone, for more companies than he can remember, and better in one call at judging whether a person is right for a job than most interview panels are in three. The company he does this for moves cars around the country: a dealership sending a sold car to its buyer, a fleet manager rebalancing stock, a one-off drive from the South coast to the North. A business like that runs on drivers, so it never stops recruiting them. Matt's job is the conversations.
+
+The problem was everything around the conversations. Matt had no system at all: a spreadsheet to track every call, and seven or eight stages of communication for every single candidate. Interview invitations, risk assessments, training assessments, rejections, each one sent by digging out the last similar email, copying it, changing the name, and hoping. He filled it all in diligently, but it was not his flow. And the owner, an accountant by trade, quite reasonably wanted numbers: how many calls, at which stage, at what time. Which meant more filling in, none of it helping Matt.
+
+So the business wired up a CRM the way this chapter describes. Every candidate became a card, and the only thing Matt has to do is move the card to the next stage. Unsuccessful: the kind rejection goes out. Through the interview: the risk assessment invitation goes out. No answer: the card waits, and the system politely chases. The dates log themselves, the owner's numbers appear without Matt typing a thing, and even the old spreadsheet stays current, updated by the system now, not by Matt.
+
+What is left for Matt is a clear picture of who to pick up the phone to, and the phone calls themselves: the one part of the job only he can do. His verdict, from a man who has had a lifetime of CRMs inflicted on him: "I don't usually like CRMs, but I like this one."
+
+That is the Matt test, and it is the only adoption measure that matters. Your system passes when the person who hates systems finds it easier to use than to avoid.
+:::
+
 ## The CRM and the Keystone
 
 A quick word to head off a confusion, because you now have two important homes for information and they are not the same thing.
