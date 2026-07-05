@@ -1,5 +1,9 @@
 # Systemising Delivery
 
+> *"You do not rise to the level of your goals. You fall to the level of your systems."*
+>
+> James Clear, Atomic Habits
+
 By the end of this chapter you will know how to make the way you deliver your service repeatable and reliable, so that taking on more clients makes you more money without making you more stressed, and without needing an army of new hires to cope.
 
 ## The Cruel Maths of Growth
