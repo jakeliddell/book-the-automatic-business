@@ -1,5 +1,9 @@
 # Communications That Build Trust
 
+> *"Information is giving out; communication is getting through."*
+>
+> Sydney J. Harris
+
 By the end of this chapter you will know how to make your client communication always prompt, always consistent, and genuinely personal, without you typing each message, and without any of it feeling like it came from a robot.
 
 ## Where Trust Is Won or Lost

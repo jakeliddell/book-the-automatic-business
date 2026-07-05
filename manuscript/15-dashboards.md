@@ -1,5 +1,9 @@
 # What Gets Measured Gets Managed
 
+> *"What gets measured gets managed."*
+>
+> attributed to Peter Drucker
+
 By the end of this chapter you will know how to see your whole business at a glance, on a single screen, so that you can lead it with facts instead of gut feel, and step away from it without the whole thing wobbling.
 
 ## The Oldest Rule in Management
