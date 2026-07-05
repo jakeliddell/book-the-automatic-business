@@ -22,7 +22,7 @@ These are two completely different jobs. The technician does the work. The archi
 
 The shift sounds simple, and it changes everything. You stop asking, "How do I do this better?" and you start asking, "How does this get done well without me?" The first question keeps you in the engine. The second one gets you onto the pit wall.
 
-![The shift from technician to architect: the same person, a very different job.](../images/ch01/fig-technician-architect.svg){#fig-tech-architect width=80%}
+![The shift from technician to architect: the same person, a very different job.](../images/ch02/fig-technician-architect.svg){#fig-tech-architect width=80%}
 
 ## Delegate to the Machine Before You Delegate to a Person
 
