@@ -15,7 +15,7 @@ You will learn:
 - How to connect your tools, systemise your delivery, and put a team of digital teammates to work, with no code, no developer, and no computer science degree.
 - How to win back your time, and end up with a business that could one day run, and even sell, without you.
 
-This is not theory. Jake Liddell has spent more than thirty-five years building systems that take work off people's plates, from the mainframes of the early days to the AI of today, half of it inside the largest companies in the world and half of it for businesses exactly like yours.
+This is not theory. Jake Liddell has spent more than thirty-five years building systems that take work off people's plates, from the  of the early days to the AI of today, half of it inside the largest companies in the world and half of it for businesses exactly like yours.
 
 Stop being the engine. Become the architect.
 
