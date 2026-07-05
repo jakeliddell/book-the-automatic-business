@@ -12,11 +12,11 @@ These are the chat-style assistants from Chapter Five, your brilliant new hire. 
 
 ## No-Code Automation: The Connectors
 
-The glue from Chapter Nine, the tools that pass work between your apps without code. The main options run from easiest to most powerful: Zapier (the simplest, with the most integrations), Make (more visual and more capable, often cheaper at volume, with a slightly steeper learning curve), and n8n (open and self-hostable, the most control and the most technical). Start with the easiest one that connects the tools you already use. You can always graduate later.
+The glue from Chapter Ten, the tools that pass work between your apps without code. The main options run from easiest to most powerful: Zapier (the simplest, with the most integrations), Make (more visual and more capable, often cheaper at volume, with a slightly steeper learning curve), and n8n (open and self-hostable, the most control and the most technical). Start with the easiest one that connects the tools you already use. You can always graduate later.
 
 ## The Client Operating System: Your CRM Hub
 
-The hub from Chapter Ten, where every client relationship lives. Options include HighLevel (built specifically for service businesses, and genuinely all-in-one: CRM, booking, email and SMS, follow-up and more in a single place), HubSpot (polished and scalable, though it can get expensive as you grow), Pipedrive (simple and sales-pipeline-led), ActiveCampaign (strong on email marketing), and Salesforce (powerful, but enterprise-grade and usually overkill for a business this size). For a service firm with a team, an all-in-one platform consolidates the most tools into one login, which is usually the bigger win.
+The hub from Chapter Eleven, where every client relationship lives. Options include HighLevel (built specifically for service businesses, and genuinely all-in-one: CRM, booking, email and SMS, follow-up and more in a single place), HubSpot (polished and scalable, though it can get expensive as you grow), Pipedrive (simple and sales-pipeline-led), ActiveCampaign (strong on email marketing), and Salesforce (powerful, but enterprise-grade and usually overkill for a business this size). For a service firm with a team, an all-in-one platform consolidates the most tools into one login, which is usually the bigger win.
 
 ## Scheduling
 
@@ -24,7 +24,7 @@ Tools to end the calendar ping-pong: Calendly, Acuity, and Cal.com (open-source)
 
 ## Your Keystone: The Company Knowledge Base
 
-This is the newest and least-settled category, so tread thoughtfully. At its simplest, a Keystone is a set of plain, well-organised documents in a shared, version-controlled place, maintained by an AI assistant. Approachable starting points are a structured workspace like Notion, or a markdown knowledge base like Obsidian, paired with one of the AI assistants above to read it, write to it, and keep it current. This area is moving quickly, and dedicated "company second brain" products are beginning to emerge, so expect better options to appear. The principle in Chapters Seven and Eight will not change even as the tools do.
+This is the newest and least-settled category, so tread thoughtfully. At its simplest, a Keystone is a set of plain, well-organised documents in a shared, version-controlled place, maintained by an AI assistant. Approachable starting points are a structured workspace like Notion, or a markdown knowledge base like Obsidian, paired with one of the AI assistants above to read it, write to it, and keep it current. This area is moving quickly, and dedicated "company second brain" products are beginning to emerge, so expect better options to appear. The principle in Chapters Eight and Nine will not change even as the tools do.
 
 ## The Rest of the Kit
 
