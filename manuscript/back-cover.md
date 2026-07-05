@@ -6,7 +6,7 @@ But somewhere along the way, it happened. Your team checks everything with you. 
 
 *The Automatic Business* is the way out.
 
-Written for the owner of a small service business with a team, it cuts through the noise, and the AI hype, to show you, plainly and without jargon, how to build a business that runs without you in the middle of it.
+Written for the owner of a small business with a team, it cuts through the noise, and the AI hype, to show you, plainly and without jargon, how to build a business that runs without you in the middle of it.
 
 You will learn:
 
