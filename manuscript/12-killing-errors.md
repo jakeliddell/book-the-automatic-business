@@ -56,6 +56,18 @@ This is also a job your AI is unreasonably good at, because pessimism at scale i
 
 I liked this discipline so much that I built a free tool for it, and named it accordingly: The Pessimist. Give it your process, and it will tell you everywhere it is going to break, and the guardrails to build so that it does not. You will find it at theautomaticbusiness.co.uk/pessimist. It costs nothing, and it is useful whether or not you ever automate a single step.
 
+## When Guardrails Become Compliance
+
+One more thing guardrails do, and for some readers it will be the thing that pays for this whole book.
+
+Imagine you run a small financial advice firm. The regulatory burden on that industry is heavy, and it does not scale down: the obligations designed for a firm of hundreds land just as hard on you, a planner and an administrator. One of those obligations is a yearly planning meeting with every client. And it goes further: you must be able to show that you genuinely tried to arrange it.
+
+Now automate the arranging, exactly the way this part of the book describes. Clients get an easy way to book themselves in. The ones who do not respond get chased, politely and persistently: an email, a text, a WhatsApp message, even a printed letter for the clients who ignore everything else, or a phone call. You do none of it by hand. And here is the point: every single attempt logs itself, automatically, timestamped, in the audit trail you built two sections ago.
+
+That log is your compliance evidence. Complete, effortless, and produced as a side effect of an automation that was already saving you time. Your compliance requirement has just been covered at zero cost in hours.
+
+But look at what else happened. More of those meetings actually take place, and in this industry that lands directly on the bottom line, because a client you have not met for a yearly review is a client you can no longer claim to be advising, and the recurring fees quietly stop. It is a churn the industry simply puts up with, and it is entirely avoidable. The same guardrail that satisfied the regulator kept the revenue. Swap in your own trade's version, the gas safety renewal, the annual audit, the insurance review, and the shape holds: done well, compliance stops being a tax on your time and becomes a by-product of a machine that also grows the business.
+
 ## Where We Go Next
 
 All of this accuracy and consistency lives mostly under the bonnet, invisible to your clients, right up until it surfaces in the one place they always see and feel: how you communicate with them. The reminders, the replies, the updates, the messages that land at the right moment or the wrong one. Getting those consistently, reliably right is where we go next.
