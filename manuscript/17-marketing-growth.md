@@ -1,5 +1,9 @@
 # Automating Marketing and Growth
 
+> *"Marketing is no longer about the stuff that you make, but about the stories you tell."*
+>
+> Seth Godin
+
 By the end of this chapter you will know how to build a marketing engine that brings in a steady stream of clients quietly in the background, so that finding new business stops being another exhausting job you never have time for.
 
 ## From Hamster Wheel to Flywheel

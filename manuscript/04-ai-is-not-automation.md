@@ -1,5 +1,9 @@
 # AI Is Not Automation
 
+> *"Any sufficiently advanced technology is indistinguishable from magic."*
+>
+> Arthur C. Clarke, Profiles of the Future
+
 By the end of this chapter you will be able to tell, in seconds, whether a problem in your business actually calls for AI or whether it is a plain automation job wearing a fashionable coat. That sounds like a small distinction. It is worth more money than almost anything else in this book, because getting it wrong is the most common and most expensive mistake owners are making right now.
 
 Let me start with the most useful thing I can tell you about AI, and it is not what the headlines say.

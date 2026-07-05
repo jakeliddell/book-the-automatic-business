@@ -1,5 +1,9 @@
 # The Triage: Human, Automation, or AI
 
+> *"The art of being wise is the art of knowing what to overlook."*
+>
+> William James, The Principles of Psychology
+
 By the end of this chapter you will have a single decision you can run on any task in your business, one that tells you whether it belongs to a human, to automation, or to AI. It is the most useful tool in this book, and once it is in your head you will start applying it to everything, often without noticing.
 
 In a hospital emergency department, the first person you meet is not a surgeon. It is a triage nurse. Their entire job is to look at everyone who comes through the door and sort them, quickly, by the kind of care they need. Not to treat. To sort. Because if you treat people in the order they arrive, some of them die in the waiting room. The sorting is the thing that makes the whole department work.

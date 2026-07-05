@@ -1,5 +1,9 @@
 # Everything Is Not a Priority
 
+> *"If you don't prioritize your life, someone else will."*
+>
+> Greg McKeown, Essentialism
+
 By the end of this chapter you will know where all your work should actually live, why the cleverest scheduling tools on the market quietly make the overwhelm worse, and how to decide, on any given morning, what genuinely deserves you.
 
 ## "Priorities" Is a Word We Broke

@@ -1,5 +1,9 @@
 # Keystone: Your Company's Second Brain
 
+> *"Your mind is for having ideas, not holding them."*
+>
+> David Allen, Getting Things Done
+
 By the end of this chapter you will understand the single most valuable thing you can build in your business, and why everything else in Part Three depends on it. I have been pointing at it since Part Two. Here it is.
 
 ## The Asset in the Worst Possible Place

@@ -1,5 +1,9 @@
 # Your Client Operating System
 
+> *"Don't make me think."*
+>
+> Steve Krug
+
 By the end of this chapter you will understand why every client relationship in your business needs one home rather than a dozen, and, just as importantly, how to make that home, your CRM, the thing your team actually uses this time, instead of the expensive graveyard it probably became last time.
 
 ## Death by a Thousand Logins

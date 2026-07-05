@@ -1,5 +1,9 @@
 # Maintaining, Not Micromanaging
 
+> *"When the best leader's work is done, the people say: we did it ourselves."*
+>
+> Lao Tzu, Tao Te Ching
+
 By the end of this chapter you will understand the final job you have, the one that keeps you free rather than dragging you back in, and you will see the whole of what you have built.
 
 ## The Danger at the Finish Line

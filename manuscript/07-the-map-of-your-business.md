@@ -1,5 +1,9 @@
 # The Map of Your Business
 
+> *"Perfection is attained, not when there is nothing more to add, but when there is nothing more to take away."*
+>
+> Antoine de Saint-Exupéry, Wind, Sand and Stars
+
 By the end of this chapter you will be able to draw your entire business on one sheet of paper, and you will understand why that single drawing will do more to cut your costs, your risk and your mental load than any tool you could buy.
 
 ## Four Blocks

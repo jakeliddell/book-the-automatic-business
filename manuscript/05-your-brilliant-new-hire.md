@@ -1,5 +1,9 @@
 # Your Brilliant New Hire
 
+> *"It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do."*
+>
+> attributed to Steve Jobs
+
 By the end of this chapter you will know how to get genuinely useful work out of AI, and the method will feel oddly familiar, because it is almost exactly how you would manage a new member of staff.
 
 That is the reframe that makes all of this click. The AI tools everyone is talking about, the ones you type into and they type back, are best thought of not as software but as a new hire. And not just any new hire. The keenest, fastest, most widely read recruit you have ever taken on. It has, in a sense, read more than any human could in a hundred lifetimes. It works in seconds. It never tires and never sulks. If you have ever onboarded a bright graduate, you already have most of the skills you need to manage it.

@@ -1,5 +1,9 @@
 # The 80/20 of Where to Start
 
+> *"The best is the enemy of the good."*
+>
+> Voltaire
+
 By the end of this chapter you will have chosen the single first thing to fix, and you will have a simple rule for choosing every one after it. No more standing in front of a mountain of possibilities, wondering where to dig.
 
 Because that is the real danger at this point. You can now see your business clearly, perhaps for the first time. You have a list of everything that bottlenecks through you, and you have sorted it into human, automation and AI. That clarity is powerful, and it is also where a lot of owners freeze. The list is long. It all looks important. Everything could be improved. So, overwhelmed by the size of it, they do nothing. Or worse, they try to fix everything at once and collapse under the weight.

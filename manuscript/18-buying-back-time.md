@@ -1,5 +1,9 @@
 # Buying Back Your Time
 
+> *"It is not that we have a short time to live, but that we waste a lot of it."*
+>
+> Seneca, On the Shortness of Life
+
 By the end of this chapter you will know how to measure what all of this has actually given you back, in hours and in pounds, and, far more importantly, how to make sure you spend it on the right things.
 
 ## It Was Never About the Tech

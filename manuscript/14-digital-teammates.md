@@ -1,5 +1,9 @@
 # Digital Teammates: Delegating to Bots and AI
 
+> *"You'll be paid in the future based on how well you work with robots."*
+>
+> Kevin Kelly
+
 By the end of this chapter you will stop thinking of your automations and your AI as software, and start thinking of them as what they really are: a team you employ, deploy, and manage.
 
 ## You Have Been Hiring Without Realising It
