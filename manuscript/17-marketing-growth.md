@@ -50,6 +50,11 @@ You cannot automate the trust, nor would you want to. But you can systemise the 
 
 ## Words are Cheap
 
+AI has made words nearly free. Articles, posts, emails: anyone can now produce a thousand competent words in seconds, and your prospects know it. The written word still matters, but it buys less trust than it used to, precisely because competence in text has become so easy to manufacture. What cuts through is the thing people still believe: a face and a voice. Video has always been the most persuasive format in marketing, and the most neglected by small businesses, for one entirely sensible reason. It was expensive and awkward. A properly produced piece of video used to mean a crew, a studio, lighting, an editing suite, and a bill somewhere around fifteen thousand pounds.
+
+That world has gone. The same production is now half a day's work. If you want proof, go and watch the video on this book's website at theautomaticbusiness.co.uk. It looks like me, the author, talking to you about the book. No camera was involved. It was generated entirely with AI, and most viewers never suspect a thing.
+
+The machinery has kept moving since. Today you can go from a one-sentence idea to finished videos, each tailored to the platform it will live on, without touching a camera or an editing tool: have the idea, push it into production, and review what comes back. Your part has shrunk to the two ends that only you can do, the idea and the yes. Which means the excuse has gone too. The warmest format in marketing is no longer the expensive one, and your flywheel can now run on fuel you could not have afforded five years ago.
 
 ## Where We Go Next
 
