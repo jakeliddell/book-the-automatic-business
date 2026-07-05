@@ -1,5 +1,9 @@
 # You Are the Bottleneck
 
+> *"If your business depends on you, you don't own a business, you have a job."*
+>
+> Michael Gerber, The E-Myth Revisited
+
 By the end of this chapter you will see, plainly and without flinching, the one thing that is capping your business. It is not the market. It is not your team. It is not the number of hours in the day. It is the way the business has been built, because it has been built around you.
 
 Start with a morning you have probably lived.

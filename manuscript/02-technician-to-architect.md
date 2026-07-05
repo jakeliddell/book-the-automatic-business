@@ -1,5 +1,9 @@
 # From Technician to Architect
 
+> *"We shape our buildings; thereafter they shape us."*
+>
+> Winston Churchill
+
 By the end of this chapter you will understand the single shift that separates owners who escape the bottleneck from owners who stay stuck in it for the rest of their working lives. It is not a tool or a tactic. It is a change in how you see your own role.
 
 Let me name the trap you are most likely caught in, because it is the one nobody warns you about. You are addicted to your own competence.
