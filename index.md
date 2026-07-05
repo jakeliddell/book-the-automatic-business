@@ -34,7 +34,7 @@ If that stings a little, good. It means you are in the right place. Because none
 
 Every owner of a service business with a team eventually stumbles into it. The Efficiency Trap. A vicious, repeating loop of effort, expense and exhaustion. You want to get more done, for less money, with fewer mistakes. You have tried. You have spent time, energy and cash on it. And yet instead of more freedom you get more fires. Instead of clarity, more chaos.
 
-There are five steps. If any of them feel painfully familiar, it is because you have been here before. Probably more times than you care to admit.
+There are five steps. If any of them feel painfully familiar, it is because you have been here before. Probably more times than you care to admit.  I know I have.
 
 **1. The Bottleneck Blow-Up.** It always starts the same way. You hit a wall. A deadline is missed, a good lead slips through the cracks, a client is let down. Not because anyone is lazy, but because everything runs through you, and you only have so many hours. You feel it in your gut: you are the constraint. So you decide to fix it.
 
