@@ -25,6 +25,7 @@ Before any commit, run this and justify every hit:
 - Case studies are boxed call-outs titled "Case study: ...". Styling is handled globally at the template level; use Quarto callout syntax in the chapter.
 - Chapter cross-references are spelled out in words ("Chapter Seven"), never numerals.
 - Real tool names may appear only as evidence of sprawl or mess (e.g. the SaaS Spaghetti list in Chapter Seven). Recommendations stay generic in chapters and point to the tools directory at the back; named recommendations live only in manuscript/tools-pullout.md.
+- Exception: Jake's own reader tools (One List in Chapter Nineteen, The Pessimist in Chapter Twelve, and future suite members) may be named and offered in their chapters. Frame them as free tools where true; the single explicit sales pitch in the book is the One List passage in Chapter Nineteen, and it must stay the only one.
 
 ## Structure
 
