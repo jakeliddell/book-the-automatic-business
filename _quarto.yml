@@ -45,16 +45,17 @@ book:
     - manuscript/tools-pullout.md
     - manuscript/back-cover.md
 
+# PDF is rendered with Typst (bundled in Quarto, no TeX install needed).
+# us-trade is the 6 x 9 inch trim. Margins approximate the KDP spec;
+# true mirrored inner/outer margins come with the final print template.
 format:
-  pdf:
-    documentclass: scrbook
+  typst:
+    papersize: us-trade
     fontsize: 11pt
-    geometry:
-      - paperwidth=6in
-      - paperheight=9in
-      - inner=0.875in
-      - outer=0.5in
-      - top=0.75in
-      - bottom=0.6in
+    margin:
+      top: 0.75in
+      bottom: 0.6in
+      left: 0.875in
+      right: 0.5in
   epub:
     toc: true
