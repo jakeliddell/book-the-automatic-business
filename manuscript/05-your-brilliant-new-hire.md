@@ -30,7 +30,7 @@ Point this new hire at anything shaped like language and it will amaze you. Turn
 
 Notice what these have in common. They are first drafts and transformations of language, the kind of work that used to eat hours and only ever needed a competent pair of hands, not your specific genius. That is the sweet spot.
 
-It's also remarkably good at design.  It didn't used to be.  But the modern itterations from the big players can do things with powerpoint that you wouldn't believe.  They can give you four varients of a logo, which almost always are on the money.  They can not only design, but build you a new, reimagined webste in the blink of an eye.  They can generate video that is indestinguishable from content shot professionally.  This is not good news for the design industry.  But it's good news for you.
+It's also remarkably good at design.  It didn't used to be.  But the modern iterations from the big players can do things with powerpoint that you wouldn't believe.  They can give you four variants of a logo, which almost always are on the money.  They can not only design, but build you a new, reimagined website in the blink of an eye.  They can generate video that is indistinguishable from content shot professionally.  This is not good news for the design industry.  But it's good news for you.
 
 ## What to Keep an Eye On
 

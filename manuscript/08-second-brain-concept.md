@@ -78,4 +78,4 @@ So that is what a Keystone is, and why it is the most valuable thing you will bu
 
 > **Try this.** Write down three things that, if you vanished tomorrow, only you would know. The real reason a major client stays. The workaround that keeps a fiddly process running. The supplier you would never use again, and why. Those three lines are the first entries in your Keystone, and proof of how much of this business currently exists in exactly one place: you.
 
-As usual, if you're enjoying this, add to the list.  Spend 20 minutes brainstorming things that only you know.  Once you get into it you'll probably find it's a worrying amout of stuff.
+As usual, if you're enjoying this, add to the list.  Spend 20 minutes brainstorming things that only you know.  Once you get into it you'll probably find it's a worrying amount of stuff.
