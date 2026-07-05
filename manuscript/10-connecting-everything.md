@@ -1,5 +1,9 @@
 # Connecting Everything: Automation Without Code
 
+> *"Civilization advances by extending the number of important operations which we can perform without thinking of them."*
+>
+> Alfred North Whitehead, An Introduction to Mathematics
+
 By the end of this chapter you will understand how to make the tools you already own work together automatically, with no code and no developer, so that work flows from one to the next while you sleep.
 
 ## The Glue You're Missing

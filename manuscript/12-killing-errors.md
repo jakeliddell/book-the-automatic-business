@@ -1,5 +1,9 @@
 # Killing Errors: Accuracy and Consistency
 
+> *"A bad system will beat a good person every time."*
+>
+> W. Edwards Deming
+
 By the end of this chapter you will see why the small mistakes you barely notice are quietly costing you more than you think, and how to build a business where it is hard to get things wrong. Not because everyone is trying harder, but because the system will not let them.
 
 ## The Silent Assassin
