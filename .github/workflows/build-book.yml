@@ -1,14 +1,14 @@
 name: Build book
 
+# Manual trigger only: Shockwave syncs commit every few seconds while editing,
+# which fired a build per commit. Run from the Actions tab (Run workflow button),
+# or ask Claude to trigger it.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'manuscript/**'
-      - 'index.md'
-      - '_quarto.yml'
-      - 'images/**'
+
+concurrency:
+  group: build-book
+  cancel-in-progress: true
 
 jobs:
   build:
