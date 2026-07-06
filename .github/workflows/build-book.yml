@@ -20,6 +20,12 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      # Fetch the freely-embeddable design fonts into ./fonts before rendering,
+      # so the interior uses Source Serif 4 / Archivo rather than Typst's
+      # bundled fallback faces. The fonts are not committed to the repo.
+      - name: Fetch design fonts
+        run: bash fonts/download.sh
+
       - name: Render PDF (Typst) and EPUB
         run: quarto render
 
