@@ -25,4 +25,4 @@ quarto render            # builds PDF + EPUB into _build/
 ```
 
 See `reference/CONTENT_ARCHITECTURE.md` for the full pipeline and
-`reference/RESTRUCTURE_BLUEPRINT.md` for the original chapter plan.
+`reference/RESTRUCTURE_BLUEPRINT.md` for the original chapter plan. 
