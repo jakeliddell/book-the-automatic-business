@@ -31,7 +31,7 @@ All conventions already exist in the manuscript.
 
 ## Print constraints (Amazon KDP paperback)
 
-Trim 6 x 9 in (Typst papersize us-trade). Mirrored margins with inner (gutter) at least 0.75 in for a 151 to 300 page book, outer 0.5 in, top 0.75 in, bottom 0.6 in; final gutter to be set once page count is known. All fonts embedded. No bleed unless an image runs to the page edge.
+Trim 5.5 x 8.5 in (a standard KDP trim, the "digest" trade format; black-and-white interior supported). Typst has no named paper size for this, so the template must set explicit page dimensions (width 5.5in, height 8.5in) rather than a papersize keyword. Mirrored margins with inner (gutter) at least 0.75 in for a 151 to 300 page book - KDP gutter minimums are set by page count, not trim, so this band still applies - outer 0.5 in, top 0.75 in, bottom 0.6 in; final gutter to be set once page count is known. Note the narrower page: these outer, top and bottom values sit comfortably above KDP minimums and will pull the text block in on a 5.5 in wide page, so confirm the resulting line length still reads well before finalising. All fonts embedded. No bleed unless an image runs to the page edge.
 
 ## Technical delivery (must-haves)
 
