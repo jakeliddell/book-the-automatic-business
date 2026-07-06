@@ -2,7 +2,7 @@
 // The Automatic Business — Quarto Typst show partial
 // -----------------------------------------------------------------------------
 // Invokes book(...) (defined in typst-template.typ) with the document metadata.
-// Quarto fills the $...$ fields from _quarto.yml / front matter before Typst runs.
+// Quarto fills these fields from _quarto.yml / front matter before Typst runs.
 // =============================================================================
 
 #show: doc => book(
