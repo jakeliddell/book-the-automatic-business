@@ -291,8 +291,8 @@
   show figure.caption: it => context {
     set text(font: font-serif, style: "italic", size: 9.5pt, fill: ink-soft)
     set par(justify: false, leading: 0.6em)
-    let c = chapters-before(it.element.location())
-    let f = counter(figure).at(it.element.location()).first()
+    let c = chapters-before(here())
+    let f = counter(figure).at(here()).first()
     let fig-label = str(c) + "." + str(f)
     [#text(font: font-display, style: "normal", weight: 600, fill: ink)[Figure #fig-label]#h(0.5em)#it.body]
   }
