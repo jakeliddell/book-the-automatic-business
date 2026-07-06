@@ -45,22 +45,34 @@ book:
     - manuscript/tools-pullout.md
     - manuscript/back-cover.md
 
-# PDF is rendered with Typst (bundled in Quarto, no TeX install needed).
-# us-trade is the 6 x 9 inch trim. Margins approximate the KDP spec;
-# the proper interior design (fonts, headings, mirrored print margins)
-# comes via a dedicated Typst template - see the design issue.
+# Numbered chapters give us "Chapter Three" openers and "Figure 3.1" figure
+# numbers. Front-matter files carry {.unnumbered} in their own H1 already.
+number-sections: true
+number-depth: 1
+
+crossref:
+  fig-title: "Figure"
+  fig-prefix: "Figure"
+
 format:
+  # ---------------------------------------------------------------------------
+  # PRINT — Typst. Interior design lives in the two partials below.
+  # Page size, mirrored margins, fonts and all styling are set inside the
+  # template (see typst-template.typ / brand.typ), NOT here — so this block
+  # stays intentionally small. Builds with a plain `quarto render`.
+  # ---------------------------------------------------------------------------
   typst:
-    papersize: us-trade
-    fontsize: 13pt
-    margin:
-      top: 0.75in
-      bottom: 0.6in
-      left: 0.875in
-      right: 0.5in
-    include-before-body:
-      - text: |
-          #set text(size: 13pt)
-          #set par(spacing: 1.35em, first-line-indent: 0em)
+    template-partials:
+      - typst-template.typ
+      - typst-show.typ
+    font-paths:
+      - fonts
+    toc: true
+
+  # ---------------------------------------------------------------------------
+  # SCREEN — EPUB. Echoes the print design; the ONLY place the terracotta
+  # accent is applied.
+  # ---------------------------------------------------------------------------
   epub:
     toc: true
+    css: styles/epub.css
