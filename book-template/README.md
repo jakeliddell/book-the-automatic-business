@@ -2,7 +2,7 @@
 
 The working interior for **The Automatic Business**. Drop these files into the
 book repo and `quarto render` produces the designed PDF (print) and EPUB (screen)
-with no manual steps. 
+with no manual steps.
 
 Design: 5.5 × 8.5″ KDP digest trim, black-and-white interior, warm book serif
 (Source Serif 4) with an Archivo display face, airy block paragraphs, hand-drawn
