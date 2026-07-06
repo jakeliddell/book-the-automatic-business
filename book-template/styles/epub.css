@@ -1,0 +1,143 @@
+/* ============================================================================
+   The Automatic Business — EPUB stylesheet
+   ----------------------------------------------------------------------------
+   Echoes the print interior for reflowable screens. This is the ONLY place the
+   terracotta accent is used — it is a screen-only enhancement and never carries
+   meaning on its own (the design still reads perfectly in greyscale).
+
+   Font embedding: to match print exactly, add the same TTFs (see fonts/) to the
+   EPUB and declare @font-face below. Without them, readers fall back to their
+   own serif/sans — the layout still holds.
+   ============================================================================ */
+
+:root {
+  --ink: #1b1a17;
+  --ink-soft: #5a584f;
+  --ink-faint: #8a887e;
+  --hairline: #c9c7c1;
+  --panel: #f0efea;
+  --panel-line: #d7d5ce;
+  --accent: #B5632F;   /* terracotta — screen only */
+}
+
+/* --- Optional: embed the design fonts (uncomment once files are in the EPUB) --
+@font-face { font-family: "Source Serif 4"; src: url("../fonts/SourceSerif4.ttf"); font-weight: 400 700; }
+@font-face { font-family: "Source Serif 4"; src: url("../fonts/SourceSerif4-Italic.ttf"); font-style: italic; font-weight: 400 700; }
+@font-face { font-family: "Archivo"; src: url("../fonts/Archivo.ttf"); font-weight: 400 800; }
+------------------------------------------------------------------------------ */
+
+/* --- Body: block paragraphs, space between, no first-line indent ----------- */
+body {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  color: var(--ink);
+  line-height: 1.6;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+p {
+  margin: 0 0 0.9em;
+  text-indent: 0;
+  text-align: justify;
+}
+
+/* first paragraph after a heading / box needn't lead with extra space */
+h1 + p, h2 + p, h3 + p { margin-top: 0; }
+
+/* --- Chapter openers (h1) ------------------------------------------------- */
+h1 {
+  font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 1.7em;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  margin: 1.4em 0 0.2em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid var(--accent);   /* screen accent */
+}
+
+/* --- Section headings (h2): one level, Title Case ------------------------- */
+h2 {
+  font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  font-size: 1.2em;
+  color: var(--ink);
+  margin: 1.6em 0 0.5em;
+}
+h3 {
+  font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  font-size: 1.02em;
+  color: var(--ink-soft);
+  margin: 1.3em 0 0.4em;
+}
+
+/* --- Epigraph: first blockquote under a chapter title --------------------- */
+h1 + blockquote {
+  border: 0;
+  margin: 0.6em 0 1.8em;
+  padding: 0;
+  font-style: italic;
+  color: var(--ink);
+  font-size: 1.05em;
+  line-height: 1.45;
+}
+h1 + blockquote p { text-align: left; margin: 0 0 0.2em; }
+h1 + blockquote p:last-child {           /* attribution line */
+  font-style: normal;
+  font-size: 0.82em;
+  color: var(--ink-soft);
+}
+
+/* --- "Try this" box: open, heavy top rule (blockquotes, non-epigraph) ----- */
+blockquote {
+  margin: 1.8em 0;
+  padding: 0.9em 0 1em;
+  border: 0;
+  border-top: 3px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+}
+blockquote p { text-align: justify; }
+/* the leading "Try this." run reads as the label */
+blockquote p:first-child strong:first-child { color: var(--accent); }
+
+/* --- Case study box: closed, filled, rounded ----------------------------- */
+/* Quarto emits callouts as <div class="callout-note callout"> ... */
+.callout, div.callout-note {
+  background: var(--panel);
+  border: 1px solid var(--hairline);
+  border-radius: 8px;
+  padding: 1em 1.1em;
+  margin: 1.4em 0;
+}
+.callout .callout-title, .callout-title {
+  font-family: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+  font-size: 0.8em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);            /* screen accent */
+  padding-bottom: 0.6em;
+  margin-bottom: 0.7em;
+  border-bottom: 1px solid var(--panel-line);
+}
+.callout .callout-body p:last-child { margin-bottom: 0; }
+
+/* --- Figures ------------------------------------------------------------- */
+figure { margin: 1.6em 0; text-align: center; }
+figure img { max-width: 100%; height: auto; }
+figcaption {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-style: italic;
+  font-size: 0.85em;
+  color: var(--ink-soft);
+  margin-top: 0.5em;
+  text-align: left;
+}
+
+/* --- Links --------------------------------------------------------------- */
+a, a:link, a:visited { color: var(--accent); text-decoration: none; }
+
+/* --- Footnotes ----------------------------------------------------------- */
+.footnote-ref { color: var(--accent); }
+.footnotes { font-size: 0.88em; color: var(--ink-soft); border-top: 1px solid var(--hairline); }
