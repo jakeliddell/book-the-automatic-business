@@ -57,6 +57,9 @@
     else { "" }
   } else { "" }
 }
+// Repair the space that extraction drops after a colon ("A: B" -> "A:B"), so
+// titles like "Part One: Why ..." and "The Tools: A ..." match reliably.
+#let norm-title(s) = s.trim().replace(": ", ":").replace(":", ": ")
 
 // =============================================================================
 // CALLOUT — the "Case study:" box (Quarto calls #callout for .callout-note).
@@ -166,7 +169,7 @@
 
   // ---- HEADINGS ------------------------------------------------------------
   show heading.where(level: 1): it => {
-    let ttl = to-plain(it.body).trim()
+    let ttl = norm-title(to-plain(it.body))
     set par(justify: false)                       // [D1] no justification on display
     set text(font: font-display, fill: ink, hyphenate: false)
 
@@ -337,7 +340,7 @@
     text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents]
     v(18pt)
     show outline.entry: it => {
-      let t = to-plain(it.element.body).trim()
+      let t = norm-title(to-plain(it.element.body))
       if toc-exclude.contains(t) { return }        // drop copyright / poem / back cover / intermission
       let is-part = t.starts-with("Part ") and t.contains(":")
       set text(font: if is-part { font-display } else { font-serif }, weight: if is-part { 700 } else { 400 }, fill: ink)
