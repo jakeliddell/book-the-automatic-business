@@ -126,6 +126,36 @@
 }
 
 // =============================================================================
+// PART DIVIDERS
+// -----------------------------------------------------------------------------
+// Quarto emits  #part[Part One: Title]  for each `part:` entry in _quarto.yml.
+// Define `part` so it resolves, and render a calm, centred divider on its own
+// right-hand page. Using page(...) with a body keeps these settings local, so
+// the running heads and folios on the following body pages are untouched.
+// The title arrives as "Part One: Heading"; we split it into label + heading.
+// =============================================================================
+#let part(title) = {
+  let t = to-plain(title)
+  let bits = t.split(": ")
+  let label = bits.at(0)
+  let ttl = if bits.len() > 1 { bits.slice(1).join(": ") } else { none }
+
+  pagebreak(to: "odd", weak: true)
+  page(header: none, footer: none)[
+    #set align(center + horizon)
+    #block[
+      #text(font: font-display, weight: 600, size: 13pt, tracking: 0.3em, fill: ink-faint, upper(label))
+      #v(22pt)
+      #line(length: 40pt, stroke: 1pt + ink)
+      #v(26pt)
+      #if ttl != none {
+        text(font: font-display, weight: 800, size: 26pt, fill: ink)[#ttl]
+      }
+    ]
+  ]
+}
+
+// =============================================================================
 // The book template function
 // =============================================================================
 #let book(
