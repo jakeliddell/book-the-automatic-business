@@ -1,7 +1,5 @@
 # Foreword {.unnumbered}
 
-Foreword
-
 Every so often I come across a book that makes me stop and think.
 
 Not because it contains revolutionary technology.
