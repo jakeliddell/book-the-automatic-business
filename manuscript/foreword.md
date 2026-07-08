@@ -1,22 +1,83 @@
 # Foreword {.unnumbered}
 
-I have spent the best part of forty years in the company of business owners. In 1998 my wife Penny and I founded Ecademy, a social network for business people that grew to more than 650,000 members across 52 countries. In the years since I have sat on more boards, spoken in more countries, and met more founders than I could sensibly count. If all of that taught me one thing, it is the thing I have said for most of my life: business is personal.
+Foreword
 
-Which is exactly why this book matters.
+Every so often I come across a book that makes me stop and think.
 
-Because somewhere along the way, a great many good owners stop running their business and start being run by it. You began as the best in the building at the thing you do, the craft, the service, the work itself. And precisely because you were so good at it, everything came to depend on you. Every decision, every exception, every client. You became the most capable person in the company and, without ever deciding to, the bottleneck inside it. I have watched this happen to people far cleverer than me.
+Not because it contains revolutionary technology.
 
-Here is the part most owners get wrong. They assume the answer is to work harder, hire another pair of hands, or buy another piece of software that promises the earth. It rarely is. The answer is to build systems that carry the load that was never meant to sit on your shoulders in the first place.
+Not because it predicts the future.
 
-Now, I am not a man who shrinks from technology. Quite the opposite. I have spent years telling anyone who will listen that the future belongs to those who lean into it. And the truth is that none of this is really new. Software has always been automation. What we now call AI is simply the next layer of a journey businesses have been on for decades. The owners who will thrive are the ones who learn to decide, calmly and deliberately, what belongs to a human, what belongs to automation, and what belongs to AI. The ones who never make that decision will be quietly overtaken by the ones who do. That is not scaremongering. It is simply what I have watched happen, again and again, to businesses that stood still while the world moved.
+But because it explains something complicated with remarkable clarity.
 
-What I admire about Jake, and about this book, is that he is not selling you a fantasy. He has done the work. He has built these systems, in his own business and in other people's, and he knows how to make them stick for ordinary people, not just engineers. He writes the way the best operators speak: plainly, honestly, and without the jargon that makes you feel foolish for asking. He will name the trap you are in, and then he will walk you out of it.
+This is one of those books.
 
-And here is where it comes back to where I began. Done badly, automation feels cold, and owners fear it will strip the soul out of what they have built. Done well, it does the precise opposite. It lifts the mechanical, repetitive, soul-sapping work off your plate so you can return to the part that actually matters. The relationships. The thinking. The people. Including the one who started all of this: you.
+Jake Liddell has achieved something surprisingly difficult. He has written a book about automation and artificial intelligence that isn't really about automation or artificial intelligence at all.
 
-So make a strong cup of tea, silence the notifications, and read on. Then do the thing most people never quite manage. Act on it.
+It's about people.
 
-Business is personal. Build the systems, and you get the personal back.
+It's about founders who have gradually become overwhelmed by the very businesses they created.
 
+It's about talented teams held back by unclear systems.
+
+It's about replacing unnecessary complexity with clarity.
+
+And ultimately, it's about giving people their time, attention and peace of mind back.
+
+That is why I believe this book matters.
+
+Like many people, I spend a great deal of time talking with business owners. Over the years I've watched technology transform almost every aspect of business, yet one problem has remained remarkably consistent. Successful founders eventually become the bottleneck. The business cannot move without them.
+
+Jake doesn't simply describe that problem.
+
+He explains why it happens, why so many attempted solutions fail, and most importantly, how to escape it.
+
+What impressed me most is that he refuses to treat AI as the answer to everything.
+
+Instead, he continually asks a better question.
+
+What should be done by a human? What should be automated? What should be entrusted to AI?
+
+That simple discipline runs through the entire book.
+
+One idea I found particularly compelling is Jake's concept of the Keystone.
+
+It's much more than documentation.
+
+It's a living memory for the business. A place where knowledge is captured, shared and improved instead of disappearing inside the heads of a few key people. Even more importantly, it allows individuals to stop carrying endless mental clutter and instead focus on the work that really matters.
+
+That isn't simply better technology.
+
+It's better leadership.
+
+This is also a timely book.
+
+The internet gave every business reach.
+
+Automation and artificial intelligence now give businesses speed.
+
+The organisations that combine both will create an enormous advantage over those that continue relying on heroic individuals working ever harder.
+
+Jake understands that this isn't primarily a technology challenge.
+
+It's a management challenge.
+
+A leadership challenge.
+
+A cultural challenge.
+
+Most of all, it's a human challenge.
+
+If you're expecting a technical manual filled with jargon, you'll be pleasantly surprised.
+
+If you're looking for a thoughtful guide that will help you build a calmer, stronger and more resilient business, you've found it.
+
+Jake has written an important book.
+
+Read it carefully.
+
+Then start asking yourself not how you can work harder, but how your business can work better.
+
+Thomas Power
 **Thomas Power**
 Co-founder of Ecademy and Business Is Personal
