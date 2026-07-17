@@ -20,7 +20,7 @@ Now put a price on an hour of your time, because until you do, you will keep tre
 
 ```{=typst}
 #v(0.3em)
-#align(center, image("images/marginalia/mark-ch18-scrawl-maths.png", width: 2.6in))
+#align(center, image("images/marginalia/mark-ch18-scrawl-maths.png", width: 2.2in))
 #v(0.3em)
 ```
 

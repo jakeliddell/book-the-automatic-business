@@ -59,7 +59,7 @@ There is one more thing to know, and we will build a whole chapter on it later. 
 
 Here is the whole chapter boiled down to a question you can ask out loud.
 
-Could I write this down as a clear set of steps that works every time? If yes, it is automation. Build the rule, trust it, and walk away. If you cannot write the rule, but a sensible person could do the job by reading, understanding and applying judgement, then it is a candidate for AI, with a human eye on it sized to what is at stake.
+`#box(place(dx: -6pt, dy: -16.5pt, image("images/marginalia/mark-ch04-circle-test-oval.png", width: 321pt, height: 22pt, fit: "stretch")))`{=typst}Could I write this down as a clear set of steps that works every time? If yes, it is automation. Build the rule, trust it, and walk away. If you cannot write the rule, but a sensible person could do the job by reading, understanding and applying judgement, then it is a candidate for AI, with a human eye on it sized to what is at stake.`#box(place(dx: 13pt, dy: -12.5pt, image("images/marginalia/mark-ch04-circle-test-aside.png", width: 140pt)))`{=typst}
 
 Get that line right and two good things happen at once. The boring, certain work becomes boringly certain, handled by automation that never wavers. And AI gets pointed only at the work it is uniquely good at, instead of being asked to do a calculator's job and occasionally getting it wrong.
 

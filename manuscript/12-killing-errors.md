@@ -77,7 +77,7 @@ A business with all three guardrails in place does not just make fewer mistakes.
 
 ```{=typst}
 #v(-0.3em)
-#align(left, image("images/marginalia/mark-ch12-underline-guardrails.png", width: 1.9in))
+#align(left, image("images/marginalia/mark-ch12-underline-guardrails.png", width: 1.5in))
 #v(0.1em)
 ```
 
