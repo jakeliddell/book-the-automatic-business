@@ -14,7 +14,7 @@ You tell yourself it is a busy patch. It is not a busy patch. It is the design.
 
 ```{=typst}
 #v(-0.5em)
-#align(left, image("../images/marginalia/mark-ch01-underline.png", width: 2.0in))
+#align(left, image("images/marginalia/mark-ch01-underline.png", width: 2.0in))
 #v(0.2em)
 ```
 

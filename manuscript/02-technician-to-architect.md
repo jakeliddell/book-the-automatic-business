@@ -47,7 +47,7 @@ This is not anti-people. It is the opposite. When you hand the mechanical work t
 
 ```{=typst}
 #v(0.3em)
-#align(right, image("../images/marginalia/mark-ch02-arrow-order.png", width: 2.1in))
+#align(right, image("images/marginalia/mark-ch02-arrow-order.png", width: 2.1in))
 #v(0.3em)
 ```
 

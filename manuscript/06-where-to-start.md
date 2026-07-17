@@ -65,7 +65,7 @@ A bad process, automated, is just a bad process that runs faster.
 
 ```{=typst}
 #v(0.3em)
-#align(right, image("../images/marginalia/mark-ch06-arrow-read-twice.png", width: 2.3in))
+#align(right, image("images/marginalia/mark-ch06-arrow-read-twice.png", width: 2.3in))
 #v(0.3em)
 ```
 

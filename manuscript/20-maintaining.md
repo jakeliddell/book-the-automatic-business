@@ -95,7 +95,7 @@ So go and do what only you can do. The business will be just fine without you in
 
 ```{=typst}
 #v(0.5em)
-#align(right, image("../images/marginalia/mark-ch20-arrow-off-page.png", width: 2.2in))
+#align(right, image("images/marginalia/mark-ch20-arrow-off-page.png", width: 2.2in))
 #v(0.1em)
 ```
 

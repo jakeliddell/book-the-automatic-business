@@ -40,7 +40,7 @@ def diagram(ch, slug, caption, label, width="85%"):
             ':::') % (caption, p, label, width, caption, p, label, width)
 
 def mark(slug, align="right", width="2.2in", pre="0.3em", post="0.3em"):
-    img = "../images/marginalia/%s.png" % slug
+    img = "images/marginalia/%s.png" % slug
     return ('\u0060\u0060\u0060{=typst}\n'
             '#v(%s)\n'
             '#align(%s, image("%s", width: %s))\n'
