@@ -6,6 +6,13 @@
 
 By the end of this chapter you will understand why every client relationship in your business needs one home rather than a dozen, and, just as importantly, how to make that home, your CRM, the thing your team actually uses this time, instead of the expensive graveyard it probably became last time.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch11/fig-crm-graveyard-print.png){fig-alt="A moonlit graveyard of dead CRMs with epitaph tombstones; the owner stands with a shovel and a new boxed CRM, hesitating." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch11/fig-crm-graveyard.jpg){fig-alt="A moonlit graveyard of dead CRMs with epitaph tombstones; the owner stands with a shovel and a new boxed CRM, hesitating." width=88%}
+:::
+
 ## Death by a Thousand Logins
 
 Look at how a single client currently moves through your business. The enquiry arrives in one tool, the form. The booking happens in another, the calendar. Their details get typed into a third, the CRM or the spreadsheet. The conversation lives in your inbox. The invoice sits in your accounts package. A note about them is on a sticky pad, or in your head. Maybe you also use a calendar booking tool to allow people to auto-book in.
@@ -22,7 +29,12 @@ At its centre is a pipeline, a simple visual board of every live opportunity and
 
 That is the cure for one of the most stubborn frustrations you have lived with, the sense that you can never quite see what is going on or forecast what is coming. With a pipeline in front of you, you can. You can tell, in ten seconds, the health of your business, where the jam is this week, and which three deals deserve a nudge today. Nothing falls through the cracks, because the board is the crack-catcher.
 
-![A pipeline shows every live client on one board, and moves them along stage by stage.](../images/ch11/fig-pipeline.svg){#fig-pipeline width=90%}
+::: {.content-visible when-format="typst"}
+![A pipeline shows every live client on one board, and moves them along stage by stage.](../images/ch11/fig-pipeline-print.png){#fig-pipeline width=90%}
+:::
+::: {.content-visible unless-format="typst"}
+![A pipeline shows every live client on one board, and moves them along stage by stage.](../images/ch11/fig-pipeline.jpg){#fig-pipeline-screen width=90%}
+:::
 
 ## It Does the Chasing
 
@@ -54,6 +66,13 @@ So the business wired up a CRM the way this chapter describes. Every candidate b
 What is left for Matt is a clear picture of who to pick up the phone to, and the phone calls themselves: the one part of the job only he can do. His verdict, from a man who has had a lifetime of CRMs inflicted on him: "I don't usually like CRMs, but I like this one."
 
 That is the Matt test, and it is the only adoption measure that matters. Your system passes when the person who hates systems finds it easier to use than to avoid.
+:::
+
+::: {.content-visible when-format="typst"}
+![](../images/ch11/fig-matt-test-print.png){fig-alt="An old-school salesman leans back happily on the phone while pipeline cards move themselves across a board behind him." width=60%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch11/fig-matt-test.jpg){fig-alt="An old-school salesman leans back happily on the phone while pipeline cards move themselves across a board behind him." width=60%}
 :::
 
 ## The CRM and the Keystone

@@ -16,21 +16,40 @@ Because the better you are at the work, the harder it is to let go of it. The ve
 
 Think about a Formula 1 team. There is the mechanic, head under the bonnet, hands covered in oil, fixing the car in front of him right now. And there is the person on the pit wall, watching the data across the whole race, deciding strategy, choosing when to pit, shaping the result without ever picking up a spanner.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch02/fig-pit-wall-print.png){fig-alt="Two panels: a mechanic buried under a car labelled THE BUSINESS; the same person calm on the pit wall with telemetry screens. Same person, different job." width=100%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch02/fig-pit-wall.jpg){fig-alt="Two panels: a mechanic buried under a car labelled THE BUSINESS; the same person calm on the pit wall with telemetry screens. Same person, different job." width=100%}
+:::
+
 Most owners run their business with their head permanently under the bonnet. You are the mechanic, the technician, the fixer-in-chief. And while you are down there, nobody is on the pit wall.
 
 These are two completely different jobs. The technician does the work. The architect designs the system that does the work. The technician builds himself a demanding job with no exit. The architect builds a business that has value whether he is in the room or not. You started as the technician because, in the early days, you had to be. The trap is that you never stopped.
 
 The shift sounds simple, and it changes everything. You stop asking, "How do I do this better?" and you start asking, "How does this get done well without me?" The first question keeps you in the engine. The second one gets you onto the pit wall.
 
-![The shift from technician to architect: the same person, a very different job.](../images/ch02/fig-technician-architect.svg){#fig-tech-architect width=80%}
 
 ## Delegate to the Machine Before You Delegate to a Person
 
 When most owners finally accept they cannot do it all, their first instinct is to hire. Get another pair of hands. And sometimes that is right. But hiring, on its own, is rarely the leverage people hope it is. People are expensive, they need managing, they have off days, and eventually some of them leave. Throw a person at a broken process and you now have a broken process with a salary attached, and one more person asking you questions. Cost have gone up. Average productivity per person? You've just lowered it.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch02/fig-salaried-process-print.png){fig-alt="A machine leaks paperwork from a hole while a cheerful new hire catches it in a bucket costing 28,000 pounds a year; nobody fixes the hole." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch02/fig-salaried-process.jpg){fig-alt="A machine leaks paperwork from a hole while a cheerful new hire catches it in a bucket costing 28,000 pounds a year; nobody fixes the hole." width=88%}
+:::
+
 So here is a rule worth holding onto. Before you delegate a repeating task to a person, ask whether it should be delegated to a machine. A well-built system does not sleep, does not forget, does not call in sick, and does not need a one-to-one. It does the same thing, correctly, the thousandth time and the first. For the repetitive, rule-based, soul-sapping work that currently clogs your week, that is exactly what you want.
 
 This is not anti-people. It is the opposite. When you hand the mechanical work to systems, the people you do employ get to do the work that actually needs a human: judgement, relationships, creativity, care. You stop hiring people to be the system, and you start hiring them to run it. The order matters. Automation first, people second. Decide what the machine should own, and only then decide what is left for a person.
+
+```{=typst}
+#v(0.3em)
+#align(right, image("../images/marginalia/mark-ch02-arrow-order.png", width: 2.1in))
+#v(0.3em)
+```
 
 ## Why This Compounds
 

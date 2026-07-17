@@ -18,6 +18,13 @@ The shift is to stop building every delivery from scratch and start assembling i
 
 This worries people, because it sounds as though it would make the service cold and identical. It does the opposite. There is an old line worth keeping: systemise the predictable, so that you can humanise the exceptional. When the routine ninety percent runs on rails, flawlessly and without your attention, you and your team are freed to pour real human care into the ten percent that actually needs it, the judgement call, the personal touch, the moment that matters. The client does not experience a rigid process. They experience a business that never drops the ball and still feels personal exactly where it counts.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch16/fig-lego-not-bespoke-print.png){fig-alt="A craftsman hand-carves one ornate chair as clients queue; beside it, the same service built from numbered parts, with one hand-carved flourish tagged THE 10 PERCENT." width=100%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch16/fig-lego-not-bespoke.jpg){fig-alt="A craftsman hand-carves one ornate chair as clients queue; beside it, the same service built from numbered parts, with one hand-carved flourish tagged THE 10 PERCENT." width=100%}
+:::
+
 ## Systemise the Journey: Onboarding and Fulfilment
 
 Two parts of delivery give you the most leverage, so start there.
@@ -38,7 +45,12 @@ Here is the payoff that breaks the cruel maths we started with.
 
 When delivery runs on systems, each new client costs you far less time and attention than the last. The tenth is easier than the fifth; the fiftieth barely touches you at all, because the system absorbs the work. That means you can grow without hiring in lockstep, and the margin that used to shrink with every hire starts to widen instead. And when you genuinely do need more people, the systems change what hiring even means. A new starter does not have to become the keeper of secret knowledge, because the knowledge lives in the Keystone and the process runs itself. They learn to operate the system, which takes days, rather than to be the system, which takes months. You have met this idea before: every part of your delivery should be operable by a capable, non-technical person following the system, not improvising from memory.
 
-![Systems break the link between growth and chaos.](../images/ch16/fig-scaling.svg){#fig-scaling width=85%}
+::: {.content-visible when-format="typst"}
+![Systems break the link between growth and chaos.](../images/ch16/fig-flat-line-print.png){#fig-scaling width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![Systems break the link between growth and chaos.](../images/ch16/fig-flat-line.jpg){#fig-scaling-screen width=85%}
+:::
 
 ## Growth That No Longer Depends on You
 

@@ -42,6 +42,13 @@ Give each one a clear job description. A name that says what it does, "new enqui
 
 Review their performance. On a regular rhythm, quarterly is plenty, take a short look at your digital team. Are they still doing their jobs? Are any failing silently? This is where digital teammates differ from human ones in one important way: they never call in sick, but they also never tell you when they are broken. A short, regular review catches the silent failures before a client does.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch14/fig-everything-is-fine-print.png){fig-alt="An office robot with a sparking arm and glitching screen gives a confident thumbs up; its mug reads WORLD'S OKAYEST AUTOMATION." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch14/fig-everything-is-fine.jpg){fig-alt="An office robot with a sparking arm and glitching screen gives a confident thumbs up; its mug reads WORLD'S OKAYEST AUTOMATION." width=88%}
+:::
+
 And prune. Businesses change. The automation that was perfect at ten clients a month may be wrong at a hundred. So in that same review, retire the ones that no longer earn their place, rebuild the ones that could do more, and resist falling in love with a tool just because you built it. Treat your digital teammates exactly as you would your best employees: reviewed, rewarded, and, when their job no longer exists, let go.
 
 ## A Blended Team
@@ -54,7 +61,12 @@ If the fear still lingers, the evidence now points the other way. In 2026, econo
 
 And your own job settles into its proper shape. You stop doing, and you start directing: managing a blended team of people and machines, doing what only you can do, and letting everyone and everything else do the rest.
 
-![A blended team: your people, plus tireless digital teammates, all reporting to you.](../images/ch14/fig-digital-team.svg){#fig-digital-team width=90%}
+::: {.content-visible when-format="typst"}
+![](../images/ch14/fig-team-photo-print.png){fig-alt="A staff photo wall interleaving humans and robots in identical frames; a robot holds EMPLOYEE OF THE MONTH and the owner's frame reads DIRECTOR." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch14/fig-team-photo.jpg){fig-alt="A staff photo wall interleaving humans and robots in identical frames; a robot holds EMPLOYEE OF THE MONTH and the owner's frame reads DIRECTOR." width=88%}
+:::
 
 ## Where We Go Next
 

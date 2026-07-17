@@ -28,7 +28,12 @@ It has to be useful. Every message should earn its place by helping: an answer, 
 
 And it has to be easy to reply to. Let people respond directly to the text or the email. The moment you make someone dig out a phone number or log into a portal just to answer you, you have added friction, and friction quietly kills trust.
 
-![The right message, at the right moment, that stops the instant they reply.](../images/ch13/fig-comms-timing.svg){#fig-comms-timing width=90%}
+::: {.content-visible when-format="typst"}
+![The right message, at the right moment, that stops the instant they reply.](../images/ch13/fig-stops-on-reply-print.png){#fig-comms-timing width=90%}
+:::
+::: {.content-visible unless-format="typst"}
+![The right message, at the right moment, that stops the instant they reply.](../images/ch13/fig-stops-on-reply.jpg){#fig-comms-timing-screen width=90%}
+:::
 
 ## Reducing the Uncertainty
 
@@ -43,6 +48,13 @@ None of that is nagging. It is the behaviour of a thoughtful assistant who keeps
 There is one thing that destroys trust faster than silence, and it is the wrong automated message. The "just checking you got our proposal" that arrives the day after they signed it. The reminder for an appointment they already rescheduled. Nothing makes a business look more like an unthinking machine.
 
 So the single most important rule of automated communication is this: it must stop, or change, the moment the situation changes. If they reply, pause the sequence. If they book, cancel the chasers. If they pay, stop the reminders. For that to work, your automations need to know the full story, which is precisely why all of this sits on top of the single source of truth we have been building. Because the communication runs through your client operating system and draws on your Keystone, it behaves with context, not blindly. It knows this person already booked, and holds its tongue.
+
+::: {.content-visible when-format="typst"}
+![](../images/ch13/fig-message-didnt-stop-print.png){fig-alt="A proud robot postman delivers a letter asking DID YOU GET OUR PROPOSAL? into a celebration where the contract is already signed." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch13/fig-message-didnt-stop.jpg){fig-alt="A proud robot postman delivers a letter asking DID YOU GET OUR PROPOSAL? into a celebration where the contract is already signed." width=88%}
+:::
 
 ## Let It Sound Like You
 

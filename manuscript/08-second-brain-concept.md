@@ -10,6 +10,13 @@ By the end of this chapter you will understand the single most valuable thing yo
 
 Let me take you back to the thought that arrives at two in the morning, the one from the very first pages. If I stepped away, this would fall over. We can now say exactly why that thought is true, and it is not because you are disorganised. It is because the most valuable asset in your business is stored in the worst possible place: inside human heads.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch08/fig-vault-print.png){fig-alt="Cutaway of the owner's head as a bank vault full of filing cabinets; staff queue at the ear holding deli tickets under a NOW SERVING sign." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch08/fig-vault.jpg){fig-alt="Cutaway of the owner's head as a bank vault full of filing cabinets; staff queue at the ear holding deli tickets under a NOW SERVING sign." width=88%}
+:::
+
 How a deal actually gets done. Why that one client always needs handling a certain way. The reason you quietly stopped using that supplier. The unwritten knack that keeps a fiddly process from falling over. Most of it lives in your head. Some of it lives in Susan's, and some in Dave's. Almost none of it is written down anywhere a new starter, a machine, or a buyer could ever find it.
 
 This is why people keep coming to you. Not because they are incapable, but because you are the only place the answer lives. The bottleneck you have been trying to escape is, underneath, an information bottleneck. The knowledge funnels through you because it is only stored in you.
@@ -26,6 +33,12 @@ Every word there is doing work. Single: one place, not seventeen. Living: it gro
 
 It is the piece that holds everything else up, the stone at the very top of an arch that stops the whole structure falling in. The keystone. Which is exactly why, ever since I first mentioned it, I have called it that. Your Keystone.
 
+```{=typst}
+#v(0.3em)
+#align(right, image("../images/marginalia/mark-ch08-arrow-keystone.png", width: 1.7in))
+#v(0.3em)
+```
+
 And here is the part that makes it powerful. There is not one Keystone. There are several, and they nest.
 
 You have your own personal Keystone. Your private thinking space: your half-formed ideas, your candid read on people and situations, the strategy you are not ready to share. That is yours, and it stays yours.
@@ -36,9 +49,15 @@ Then there is the company Keystone, the master. The shared memory the business r
 
 Sit with what that does, because it is bigger than it looks. Today, when a good member of staff leaves, their knowledge walks out of the door with them. If that same person has spent two years quietly building their Keystone, the knowledge stays, because the Keystone is the company's. You have just extended the cure for key-person dependency from yourself to every single person you employ.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch08/fig-leaver-print.png){fig-alt="An employee leaves carrying a box with a huge jigsaw piece in it; the office wall behind has a matching jigsaw-shaped hole." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch08/fig-leaver.jpg){fig-alt="An employee leaves carrying a box with a huge jigsaw piece in it; the office wall behind has a matching jigsaw-shaped hole." width=88%}
+:::
+
 Now picture your company's brain as it stands today. A bit of it is in your head. A bit in each of your team's heads. A bit in your inbox, some in the CRM, some in a folder, some in a chat thread from eight months ago. Nothing holds the whole picture, and the only thing joining it all together is you, walking around answering questions. A Keystone takes all of that and gives the business one shared mind to think with.
 
-![Today your business's knowledge is scattered across heads and apps, joined only by you. A Keystone gives it one shared memory that people and AI can both draw on.](../images/ch08/fig-second-brain.svg){#fig-second-brain width=90%}
 
 ## Why This Isn't the Documentation You've Tried Before
 

@@ -8,6 +8,13 @@ By the end of this chapter you will have a single decision you can run on any ta
 
 In a hospital emergency department, the first person you meet is not a surgeon. It is a triage nurse. Their entire job is to look at everyone who comes through the door and sort them, quickly, by the kind of care they need. Not to treat. To sort. Because if you treat people in the order they arrive, some of them die in the waiting room. The sorting is the thing that makes the whole department work.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch03/fig-triage-nurse-print.png){fig-alt="A triage nurse sorts a queue of walking tasks toward three doors: HUMAN, AUTOMATION and AI." width=100%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch03/fig-triage-nurse.jpg){fig-alt="A triage nurse sorts a queue of walking tasks toward three doors: HUMAN, AUTOMATION and AI." width=100%}
+:::
+
 Your business needs exactly the same discipline, and right now you are the only triage nurse it has, and you are sorting badly, because nobody ever gave you a method. Tasks arrive, and you deal with them in the order they shout loudest. The triage I am about to hand you fixes that. It is the heart of this book, and everything that follows is built on top of it.
 
 Here it is. Every task in your business has a natural owner. Not you, necessarily. One of three.
@@ -32,7 +39,6 @@ And if it is neither, if it needs some understanding or judgement but follows no
 
 That order matters, and most people get it exactly backwards. They get excited about AI and try to use it for everything, including jobs a plain rule would do more cheaply and more reliably. Or they cling to doing everything themselves and never stop to ask whether a person was needed at all. The triage forces the right order: keep the human work human, automate everything that is really just a rule, and use AI only for the genuinely fuzzy bit in between. The simplest sufficient owner, every time.
 
-![How the triage sorts any task: human, automation, or AI.](../images/ch03/fig-triage.svg){#fig-triage width=85%}
 
 ## Most Tasks Are Really a Chain
 
@@ -43,6 +49,13 @@ Take a new enquiry landing in your inbox. It feels like one job, "deal with the 
 Noticing the enquiry arrived, logging it, and tagging it: that is a rule. Automation. Reading the enquiry and drafting a tailored, sensible first reply: judgement on messy language, with no fixed rule. AI. The actual conversation that turns a promising lead into a client, the part where they decide they trust you: human, and quite possibly you. Then chasing for a reply when they go quiet, booking the call, sending the confirmation: rules again. Automation.
 
 One "task" you have been doing end to end, entirely by hand, turns out to be four links with three different owners, and only one of them ever genuinely needed a person. That is what the triage reveals, over and over, right across your business. You were never the owner of these tasks. You were the owner of one link in some of them, and you have been carrying all four.
+
+::: {.content-visible when-format="typst"}
+![One task is really a chain of links, each with its own natural owner.](../images/ch03/fig-task-chain-print.png){#fig-task-chain width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![One task is really a chain of links, each with its own natural owner.](../images/ch03/fig-task-chain.jpg){#fig-task-chain-screen width=88%}
+:::
 
 ## Where the Money Is Won or Lost
 

@@ -1,8 +1,19 @@
-# Figure prompt: fig-one-list
+# 19.3 One List, Many Lenses
 
-Concept: One List, seen through lenses. A single vertical ranked list on the left, numbered 1 to 6, with the top row highlighted as the most important. On the right, three "lens" cards labelled Now, At the office, and At the gym, each showing a filtered subset of the same list. Arrows lead from the one list out to the lenses. Caption: one list, ordered by importance; the lenses just choose what you see now.
+- Class: Diagram (numbered figure)
+- Priority: Core — redraw of old fig-one-list
+- Placement: Ch 19, at the lenses description
+- Aspect: Wide landscape (4:3)
+- Print: pure B&W
 
-Prompt for image tool:
-"A clean, minimal flat-vector diagram in a muted professional palette. On the left, a single vertical to-do list numbered one to six, the top item highlighted in a warm accent to show it is the most important. On the right, three small cards labelled 'Now', 'At the office' and 'At the gym', each showing two or three faint lines to suggest a filtered view of the same list. Arrows connect the one list to the three lens cards. Caption beneath: one list, ordered by importance; the lenses just choose what you see now. Calm and uncluttered, not cartoonish."
+## Alt text
+One long ranked scroll with three magnifying lenses over it — NOW, AT THE OFFICE, AT THE GYM — each showing only its slice; the top item circled in marker.
 
-Alt text: A single ranked to-do list on the left feeding three lens views (Now, At the office, At the gym) that each show a filtered slice of the same list.
+## Prompt
+Hand-drawn black-and-white editorial cartoon illustration. Fine ink pen linework with dense crosshatching and stipple shading, on a plain pure-white background. Bold hand-lettered labels in clean marker capitals sit INSIDE the drawing, on the objects themselves. One physical metaphor, played completely straight; wry, deadpan humour. No colour, no border, no title or caption text outside the artwork, no photorealism, no digital gradients. Keep the layout clear and instructional: the drawing must read as a diagram at a glance.
+
+Format: Landscape, 4:3.
+
+Scene: One long ranked to-do list drawn as an unrolled paper scroll, items written top to bottom with the top item circled boldly in marker. Hovering over the scroll, three hand-held magnifying lenses, each with a small banner tied to its handle: NOW, AT THE OFFICE, AT THE GYM. Through each lens, only a short filtered slice of the same list is visible, sharp inside the glass while the rest stays faint. The lenses clearly show different slices of the one scroll.
+
+Lettering (must appear exactly as written, hand-lettered inside the drawing): NOW, AT THE OFFICE, AT THE GYM on the lens banners

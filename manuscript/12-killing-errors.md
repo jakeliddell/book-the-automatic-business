@@ -14,6 +14,13 @@ A miskeyed invoice means a payment that does not arrive. A forgotten follow-up l
 
 But the real damage is the part you cannot see. Clients rarely tell you when they have lost a little confidence in you. They do not complain. They just, quietly, stop coming back, and recommend someone else instead. Every dropped ball spends a tiny bit of the trust you worked hard to earn, and you never get a receipt. Human error is the silent assassin of a service business, and most owners badly underestimate the bill.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch12/fig-silent-assassin-print.png){fig-alt="A tiny ninja formed from a currency typo perches on an invoice corner with a dagger while the office works on, oblivious." width=60%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch12/fig-silent-assassin.jpg){fig-alt="A tiny ninja formed from a currency typo perches on an invoice corner with a dagger while the office works on, oblivious." width=60%}
+:::
+
 ## Stop Trying to Fix People
 
 Here is the useful pattern. These errors are not random. They happen in the same handful of places, over and over: manual data entry, scheduling, follow-ups, the handoff from one person to the next, billing. Notice what they have in common. They are low-value, high-risk, and rule-based. They are, in other words, exactly the work you tagged as automation back in the triage.
@@ -46,15 +53,33 @@ There is one more level, and it is what separates a tidy business from a genuine
 
 The first is the missing-step alert. Mistakes usually come not from doing the wrong thing, but from forgetting to do something at all: the proposal that never got sent, the form half-filled and then abandoned. So you have the system watch its own processes. If a step that should have happened within a day has not, it quietly flags the right person. The half-finished onboarding gets caught and put right before the client ever senses anything was off. It is the failsafe you learned to build for a single automation, now watching over whole processes.
 
-![The step that never happened, caught and flagged before the client ever notices.](../images/ch12/fig-missing-step.svg){#fig-missing-step width=90%}
+::: {.content-visible when-format="typst"}
+![The step that never happened, caught and flagged before the client ever notices.](../images/ch12/fig-missing-step-print.png){#fig-missing-step width=90%}
+:::
+::: {.content-visible unless-format="typst"}
+![The step that never happened, caught and flagged before the client ever notices.](../images/ch12/fig-missing-step.jpg){#fig-missing-step-screen width=90%}
+:::
 
 The second is the audit trail. Have the system keep an automatic, timestamped record of what happened and when, across your important workflows. The value of this shows up on the bad day. A client complains, and instead of an afternoon of detective work and finger-pointing, you glance at the log and see exactly where the chain broke, in minutes. Not to assign blame, but to find the weak link, fix it, and notice when the same link keeps breaking. And if you happen to work in a regulated trade, those same logs are a quiet compliance lifesaver: your proof of what was done, and when.
 
 The third is the gate, and it is the strictest of them. Some mistakes are not about forgetting a step, but about moving on before the last one was properly finished: the deal marked as won with no invoice details on it, the job booked with half an address. Your tools may not let you forbid that outright, and they do not need to. Instead, have the automation check that the record is complete before it acts on any stage change. If something is missing, the system quietly moves the card back to where it came from and tells the person exactly what needs fixing before it will move again. Nobody polices anybody. The process simply declines to move until it is safe to.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch12/fig-gate-print.png){fig-alt="A bouncer labelled THE GATE turns away an incomplete deal card at a velvet rope while a complete card breezes past." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch12/fig-gate.jpg){fig-alt="A bouncer labelled THE GATE turns away an incomplete deal card at a velvet rope while a complete card breezes past." width=88%}
+:::
+
 A business with all three guardrails in place does not just make fewer mistakes. It makes the conditions for mistakes harder to exist in the first place.
 
 ## Write the Guardrails First
+
+```{=typst}
+#v(-0.3em)
+#align(left, image("../images/marginalia/mark-ch12-underline-guardrails.png", width: 1.9in))
+#v(0.1em)
+```
 
 There is a discipline that makes all three guardrails dramatically easier, and it is borrowed from the best software teams in the world. They write the test before the code. The test defines what correct looks like, and the code is not finished until it passes. Do the same with your processes. Before you automate anything, write the guardrails first: where can this go wrong, what would tell me it has, and what should happen when it does? Answer those three questions for every step, and you have designed your safety net before the machine is even switched on, instead of discovering the gaps one dropped client at a time.
 

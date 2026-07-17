@@ -5,3 +5,6 @@
 # Local render artifacts
 *.aux
 *.log
+
+# Claude Design image pack (source of images/, not itself committed)
+/Book Images/

@@ -18,6 +18,12 @@ The method is simple. Take each thing you have handed to a system, and estimate 
 
 Now put a price on an hour of your time, because until you do, you will keep treating it as free, which is precisely how you ended up doing admin at eleven at night. A rough internal hourly rate will do: your share of the annual profit (plus any gross salary you pay yourself) divided by the hours you actually work. If you make two hundred thousand pounds and work a sixty-hour week, your time is worth around sixty-four pounds an hour. Multiply your reclaimed hours by that, and the value of even a handful of automations runs into tens of thousands of pounds a year.
 
+```{=typst}
+#v(0.3em)
+#align(center, image("../images/marginalia/mark-ch18-scrawl-maths.png", width: 2.6in))
+#v(0.3em)
+```
+
 Keep a simple tally as you go, three columns: the task, the hours it saves each week, and what those hours are worth. Be conservative with every figure. You do not need to inflate it. The honest number is startling enough, and watching it grow is oddly addictive, in the good way.
 
 You might want to have a dashboard to track this. It's fun seeing the amounts go up. It will also correct the estimate you made of how often you do something - the automation will run a defined number of times.
@@ -34,6 +40,13 @@ I want to be honest about something that catches a lot of owners off guard, beca
 
 When the chaos finally clears, the space it leaves can feel oddly uncomfortable. For years, being needed every minute was not just your job, it was part of who you were. Being indispensable felt like being important. So when the business carries on perfectly well without you in the middle of it, you can feel strangely vacant, even a little guilty, as though you ought to be doing something, anything, to justify yourself. It is the feeling of a parent on the first morning of school, standing in a suddenly quiet house.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch18/fig-quiet-house-print.png){fig-alt="The owner stands in a suddenly calm office, coffee in hand, as a tumbleweed of old sticky notes rolls past and the machines hum on outside." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch18/fig-quiet-house.jpg){fig-alt="The owner stands in a suddenly calm office, coffee in hand, as a tumbleweed of old sticky notes rolls past and the machines hum on outside." width=88%}
+:::
+
 This is normal, and it passes. Do not fill the silence straight back up with busywork just to feel useful again. Sit with it for a moment, because on the other side of that strange, empty feeling is the freedom you have been working towards, and the room to grow that you have not had in years.
 
 ## Spend It on What Only You Can Do
@@ -44,7 +57,12 @@ There is a trap here, and it is a sneaky one. You free up ten hours, and without
 
 This is the title on the cover made real. Do what only you can do. Everything in this book has been in service of clearing your plate of everything else, so that the only things left on it are the things that are truly yours.
 
-![Buying back your time means redesigning your week, not just emptying it.](../images/ch18/fig-your-week.svg){#fig-your-week width=90%}
+::: {.content-visible when-format="typst"}
+![](../images/ch18/fig-receipt-print.png){fig-alt="A till receipt unrolls to the floor itemising reclaimed hours, totalling 700 plus hours a year; the change given is your evenings." width=55%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch18/fig-receipt.jpg){fig-alt="A till receipt unrolls to the floor itemising reclaimed hours, totalling 700 plus hours a year; the change given is your evenings." width=55%}
+:::
 
 ## The Two Freedoms
 

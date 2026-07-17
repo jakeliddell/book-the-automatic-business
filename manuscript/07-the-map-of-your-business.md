@@ -28,7 +28,12 @@ Laid across all four blocks is a layer: **Knowledge and Reporting**. What your b
 
 Every block produces knowledge, the how and the why of the way you work, and every block produces data, the numbers that say what is actually happening. But that knowledge and that data do not belong to any single block. The layer spans all of them, and that is precisely why we will build it first. Its memory is the Keystone, which is the very next chapter. Its eyes, the dashboards that tell you the truth about your business at a glance, come later in the book, once there is a running machine to watch.
 
-![Four building blocks, and the Knowledge and Reporting layer that spans them all.](../images/ch07/fig-four-blocks.svg){#fig-four-blocks width=90%}
+::: {.content-visible when-format="typst"}
+![Four building blocks, and the Knowledge and Reporting layer that spans them all.](../images/ch07/fig-four-blocks-print.png){#fig-four-blocks width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![Four building blocks, and the Knowledge and Reporting layer that spans them all.](../images/ch07/fig-four-blocks.jpg){#fig-four-blocks-screen width=85%}
+:::
 
 Hold this picture in your head from here on. The rest of this book is simply building it: the layer first, then each block in turn, until the whole machine runs without you standing in the middle of it.
 
@@ -47,6 +52,13 @@ Every one of them was bought, or begun, on a different day, by a person solving 
 ## SaaS Spaghetti
 
 I have a name for what you have just drawn: **SaaS Spaghetti**. A tangle of subscription software, bought one strand at a time, that nobody ever designed. A million subscription costs, a million points of failure, and nobody, including you, fully understands how it works, or how it is even supposed to work.
+
+::: {.content-visible when-format="typst"}
+![](../images/ch07/fig-saas-spaghetti-print.png){fig-alt="A plate of tangled spaghetti with app windows caught in the strands, each with a monthly price tag; the owner sits before it, horrified." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch07/fig-saas-spaghetti.jpg){fig-alt="A plate of tangled spaghetti with app windows caught in the strands, each with a monthly price tag; the owner sits before it, horrified." width=88%}
+:::
 
 Spaghetti is expensive in the obvious way, and the audit usually finds a few hundred pounds a month going to tools that overlap or that nobody has opened since spring. But the deeper costs are the ones that never show on a statement. Every strand is another login and another dashboard competing for space in your head. Every join between two tools is a place where a lead, a booking or an invoice can silently fall through. And every tool holds its own little fragment of the truth about your clients, which is exactly why nobody in your business can ever see all of it.
 

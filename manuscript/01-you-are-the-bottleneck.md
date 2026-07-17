@@ -12,7 +12,20 @@ The alarm goes, and before your feet hit the floor your hand is already on your 
 
 You tell yourself it is a busy patch. It is not a busy patch. It is the design.
 
+```{=typst}
+#v(-0.5em)
+#align(left, image("../images/marginalia/mark-ch01-underline.png", width: 2.0in))
+#v(0.2em)
+```
+
 Here is what is actually happening. Every important road in your business runs through one junction, and the junction is you. Every decision of any weight, every exception, every unhappy client, every new hire's first hard question. It all arrives at the same desk, because nothing was ever built to send it anywhere else. You are not simply working hard. You are the single point through which the whole business has to pass. That is what a bottleneck is. And right now, it is you.
+
+::: {.content-visible when-format="typst"}
+![](../images/ch01/fig-bottleneck-print.png){fig-alt="The whole business queues inside a bottle toward the neck, where the owner sits stamping items through one at a time." width=92%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch01/fig-bottleneck.jpg){fig-alt="The whole business queues inside a bottle toward the neck, where the owner sits stamping items through one at a time." width=92%}
+:::
 
 This is not a criticism of you. It is almost a compliment turned inside out. The reason everything comes to you is that, for years, you were the best person to bring it to. You knew the answer. You cared the most. You could be trusted to get it right. So people learned to bring you everything, and you learned to take it, and between you, without anyone ever deciding it on purpose, you built a business that cannot function without you standing in the middle of it.
 
@@ -34,6 +47,13 @@ Growth is the first casualty. Your business can only handle as much as you can p
 
 Then there is the human cost, which rarely makes it onto a spreadsheet. The slow burn toward burnout, because the pace has no off switch. The good people who eventually leave, not for more money, but because they got tired of a place where nothing ever quite gets fixed. The dropped ball, the missed email, the late delivery that, on the wrong day with the wrong client, undoes a relationship you spent years building. The brilliant referral that arrives in the worst possible week, when you are too far underwater to chase it, so it goes to someone else. The holiday that is not really a holiday, because the phone stays on and the just-in-case calls keep coming. And further out, the business you cannot sell for what it should be worth, because a buyer looks under the bonnet and sees that the most valuable asset in the company is a person who wants to leave.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch01/fig-holiday-that-isnt-print.png){fig-alt="A beach deckchair with an office desk phone half-buried in the sand beside it, its cord running back over the dunes." width=92%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch01/fig-holiday-that-isnt.jpg){fig-alt="A beach deckchair with an office desk phone half-buried in the sand beside it, its cord running back over the dunes." width=92%}
+:::
+
 Meanwhile, quietly, the competitor down the road who systemised two years ago is pulling away. Better margins. Steadier delivery. Room to think. The gap does not open in one dramatic moment. It opens slowly, contract by contract, while you are busy firefighting.
 
 None of this is meant to frighten you. It is meant to be honest about the price of the status quo, because that price is real, and you are already paying it.
@@ -50,4 +70,3 @@ So the way out is not a better to-do list or an earlier alarm. It is not doing m
 
 > **Try this.** For one ordinary working day, keep a simple note. Every time something stops and waits for you, a decision, an approval, an answer, a fix, write it down. Do not change anything, just notice. By the end of the day you will be holding a list, and that list is your bottleneck made visible. Soon we will know exactly what to dismantle.
 
-![Everything funnels through one person: the owner as the neck of the bottle.](../images/ch01/fig-bottleneck.svg){#fig-bottleneck width=80%}

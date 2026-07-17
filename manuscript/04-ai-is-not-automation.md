@@ -6,6 +6,13 @@
 
 By the end of this chapter you will be able to tell, in seconds, whether a problem in your business actually calls for AI or whether it is a plain automation job wearing a fashionable coat. That sounds like a small distinction. It is worth more money than almost anything else in this book, because getting it wrong is the most common and most expensive mistake owners are making right now.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch04/fig-fashionable-coat-print.png){fig-alt="Ordinary pipework on a sales plinth in a trench coat and sunglasses with an AI badge; a child points out that it is plumbing." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch04/fig-fashionable-coat.jpg){fig-alt="Ordinary pipework on a sales plinth in a trench coat and sunglasses with an AI badge; a child points out that it is plumbing." width=88%}
+:::
+
 Let me start with the most useful thing I can tell you about AI, and it is not what the headlines say.
 
 Most of the time, when someone tells me they need AI, they do not. They need automation, and they could have had it 10 years ago.
@@ -20,9 +27,15 @@ Automation is deterministic. That is a long word for a simple, rather beautiful 
 
 AI is different in kind, not merely in cleverness. AI is probabilistic. It does not follow a rule you wrote. It looks at what you have given it and produces the most plausible response. That is what makes it astonishing. Hand it a rambling email, a messy document, an hour of meeting notes, and it can read, understand and respond in a way no rule could ever have anticipated. But it is also what makes it dangerous if you misuse it, because "most plausible" is not the same as "correct." Ask it the same thing twice and you may get two slightly different answers. And every so often it will tell you something completely wrong with total, fluent confidence. AI is not a train on rails. It is a brilliant, fast, slightly overconfident new colleague who handles ambiguity beautifully and occasionally makes things up.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch04/fig-rails-vs-improviser-print.png){fig-alt="Two panels: a punctual train passing TRIGGER, ACTION, DONE stations at 3am; a dazzling juggler on a unicycle with one ball quietly on fire." width=100%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch04/fig-rails-vs-improviser.jpg){fig-alt="Two panels: a punctual train passing TRIGGER, ACTION, DONE stations at 3am; a dazzling juggler on a unicycle with one ball quietly on fire." width=100%}
+:::
+
 Hold those two pictures side by side, because the whole game is knowing which one a job needs.
 
-![Automation is deterministic; AI is probabilistic. Knowing which a job needs is the whole game.](../images/ch04/fig-automation-vs-ai.svg){#fig-automation-vs-ai width=85%}
 
 ## Why You Reach for the Wrong One
 

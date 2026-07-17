@@ -12,6 +12,13 @@ Here is a quiet truth about your business. The problem is rarely the tools. You 
 
 So someone has to carry the information between them by hand. A lead fills in the form, and a person copies the details into the CRM. A client books a call, and someone types it onto the calendar and into the client record. An invoice is needed, so the same numbers get keyed in again. Every one of those handoffs is a person doing a machine's job, and more often than not, that person is you. You are the glue holding your tools together. You are the integration layer.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch10/fig-integration-layer-print.png){fig-alt="Before: the owner hauls buckets of data between two tower machines. After: a pipe labelled THE CONNECTOR joins them while the owner rests in a distant deckchair." width=100%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch10/fig-integration-layer.jpg){fig-alt="Before: the owner hauls buckets of data between two tower machines. After: a pipe labelled THE CONNECTOR joins them while the owner rests in a distant deckchair." width=100%}
+:::
+
 The fix is a connector. A connector is a piece of no-code software whose only job is to pass information between your tools and tell them what to do. You set the rules once, by clicking rather than coding, and from then on the connector does the carrying. It is, in effect, the first member of your digital back office, and it never sleeps, never forgets, and never fat-fingers an email address.
 
 ## When This Happens, Do That
@@ -22,7 +29,6 @@ Say a new enquiry lands through your website form. That is the trigger. From tha
 
 That is the heart of it. One trigger, a chain of actions. Now multiply it by every enquiry, every booking, every invoice, and the hours begin to stack up.
 
-![One trigger fires a whole chain of actions, in seconds, with no one touching it.](../images/ch10/fig-connector.svg){#fig-connector width=90%}
 
 ## Making It Smart
 

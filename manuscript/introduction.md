@@ -4,6 +4,13 @@ You didn't start your business to become a glorified task machine.
 
 But if your days are spent buried in email, chasing leads, juggling calendars, fixing other people's mistakes and putting out fires, and your evenings are haunted by the to-do list you never finished, then somewhere along the way your business stopped being your route to freedom and started becoming your cage.
 
+::: {.content-visible when-format="typst"}
+![](../images/intro/fig-cage-print.png){fig-alt="A birdcage holding a complete tiny office; the owner works on inside it, and the cage door stands wide open." width=80%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/intro/fig-cage.jpg){fig-alt="A birdcage holding a complete tiny office; the owner works on inside it, and the cage door stands wide open." width=80%}
+:::
+
 I want to put something uncomfortable on the table before we go any further, because everything in this book depends on it.
 
 Your problem is not that you do not have enough time.

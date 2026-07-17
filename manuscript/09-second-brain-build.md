@@ -24,13 +24,25 @@ At the top sits a short rulebook. A page or two that tells the AI how your Keyst
 
 That is all it is. Not a frightening enterprise system. At its simplest, a well-organised set of plain documents that an AI looks after. The specific tools you might use to hold it live in the directory at the back, because they will change. The shape will not.
 
-![A Keystone has three layers: raw sources at the bottom, the AI-maintained memory in the middle, and everyone who draws on it at the top.](../images/ch09/fig-keystone-layers.svg){#fig-keystone-layers width=80%}
+::: {.content-visible when-format="typst"}
+![A Keystone has three layers: raw sources at the bottom, the tended memory in the middle, and everyone who draws on it above.](../images/ch09/fig-strata-print.png){#fig-keystone-layers width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![A Keystone has three layers: raw sources at the bottom, the tended memory in the middle, and everyone who draws on it above.](../images/ch09/fig-strata.jpg){#fig-keystone-layers-screen width=85%}
+:::
 
 ## Getting It Out of Heads: Process Archaeology
 
 Here is the hard part, and the part nobody else will tell you how to do. Most of what should go into your Keystone has never been written down, because it does not live as words. It lives as habit and instinct. Ask someone how they do their job and they will give you the official version, the tidy three steps. Then watch them actually do it and you will see fifteen, full of little judgements, exceptions and workarounds they no longer even notice. The gap between what people say they do and what they actually do is exactly where the valuable knowledge is buried.
 
 Digging it out is a craft. I call it Process Archaeology, and the single most important rule of it is this: do not write it up yourself. If capturing knowledge means sitting down to type documentation, it will never happen, because you are busy and it is dull. That is what killed every attempt before.
+
+::: {.content-visible when-format="typst"}
+![](../images/ch09/fig-process-archaeology-print.png){fig-alt="An archaeological dig where the excavation pit is the silhouette of a head; tagged artefacts sit on a finds table while a robot in a pith helmet takes notes." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch09/fig-process-archaeology.jpg){fig-alt="An archaeological dig where the excavation pit is the silhouette of a head; tagged artefacts sit on a finds table while a robot in a pith helmet takes notes." width=88%}
+:::
 
 Instead, you capture it raw and let the AI do the writing. The method is simple. Take one process and find the person who really does it. Ask them not to explain it, but to do it, out loud, while you record. A screen recording, a voice note, a transcript of them talking through it, any of these will do. As they work, they narrate: "right, first I open this, then I check whether the client is new, because if they are there is an extra bit, oh, and I always double-check that, because one time it caught us out." That aside, the one they almost skipped, is the gold. So you ask for it directly. What do you do when it goes wrong? What is the bit you would warn a new starter about? What does everyone get wrong?
 

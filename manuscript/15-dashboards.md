@@ -20,7 +20,12 @@ Remember the position you reached at the end of the last chapter. You now have a
 
 A dashboard is the answer, and it changes the very nature of how you oversee things. Instead of checking up, interrupting people to ask "where are we with this?", you check in, by glancing at a screen. The information comes to you, without you having to extract it from anyone. This is how you manage without micromanaging, how you keep your finger on the pulse without your hand on everyone's shoulder. And it is, more than anything else, what finally lets you take a fortnight off. Not because nothing could go wrong, but because if it did, you would see it, from a beach, on your phone, in ten seconds.
 
-![One screen: the few numbers that tell you the health of your business.](../images/ch15/fig-dashboard.svg){#fig-dashboard width=90%}
+::: {.content-visible when-format="typst"}
+![](../images/ch15/fig-beach-test-print.png){fig-alt="The Chapter One beach again, but the desk phone is gone: a smartphone shows seven green dots and ALL FINE, and the old cord lies unplugged in the sand." width=92%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch15/fig-beach-test.jpg){fig-alt="The Chapter One beach again, but the desk phone is gone: a smartphone shows seven green dots and ALL FINE, and the old cord lies unplugged in the sand." width=92%}
+:::
 
 ## Measure the Few Things That Matter
 
@@ -39,6 +44,13 @@ You are not, for two reasons. The first is that every one of those dashboards wa
 The second is that none of them can see the whole picture, because none of them holds all the data. Worse, they often fail to show you even what they could. Take your accounts package. Xero holds every invoice you have ever raised, by client, by date. It has everything it needs to tell you what a client is worth to you over a lifetime, or how many clients quietly stopped buying from you this year. Lifetime value and churn: two of the most decision-forcing numbers in any service business. It offers neither. And even if it did, it could not join them to the pipeline in your CRM or the job dates in your delivery system, because it cannot see them.
 
 So roll your own. This is not the technical mountain it sounds, and it has never been easier: the same connectors that keep your hub current can feed a simple dashboard of your own, and your AI can build the screen itself in an afternoon. Keep the built-in dashboards for what they are good at, the department-level detail. But the cockpit, the single screen with your three to seven numbers on it, should be yours: designed around your decisions, fed by all of your systems, answering the owner's question rather than the accountant's or the marketer's.
+
+::: {.content-visible when-format="typst"}
+![](../images/ch15/fig-cockpit-print.png){fig-alt="A light-aircraft cockpit with exactly seven friendly gauges in the green; behind the pilot, a forty-gauge panel sits under a dust sheet labelled EVERYTHING ELSE." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch15/fig-cockpit.jpg){fig-alt="A light-aircraft cockpit with exactly seven friendly gauges in the green; behind the pilot, a forty-gauge panel sits under a dust sheet labelled EVERYTHING ELSE." width=88%}
+:::
 
 ## Turn the Numbers Into Decisions
 

@@ -12,11 +12,25 @@ Most owners do marketing in a panic. When work is slow, you scramble: post a few
 
 There is a better shape, and it is the difference between a hamster wheel and a flywheel. A hamster wheel only moves while you are running in it; stop, and it stops. A flywheel is heavy to get going, but once it is spinning it keeps spinning, and it actually gets easier the longer it runs. A systemised marketing engine is a flywheel. It keeps bringing in leads whether or not you "did marketing" this week, because it does not depend on you remembering to.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch17/fig-hamster-flywheel-print.png){fig-alt="The owner sprints in a hamster wheel labelled PANIC MARKETING; beside it a massive flywheel with five labelled stages turns from one fingertip push." width=100%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch17/fig-hamster-flywheel.jpg){fig-alt="The owner sprints in a hamster wheel labelled PANIC MARKETING; beside it a massive flywheel with five labelled stages turns from one fingertip push." width=100%}
+:::
+
 This matters more than it first appears, because of a simple truth about your buyers. Most of the people who will eventually hire you are not ready today. They might be ready in six months, or in two years, when something in their world finally tips them into action. Bursty marketing only reaches the tiny few who happen to be ready in the week you bothered. An always-on engine keeps you quietly present for all the rest, so that when their moment comes, you are the one they think of.
 
 ## Capture the Attention You Already Earn
 
 Before any of that, a leak to plug. Most businesses earn attention and then let it drain away. Someone finds you, has a flicker of interest, and leaves, gone for good, because there was nothing to catch them. A website that just says "contact us" is a shop with no front door.
+
+::: {.content-visible when-format="typst"}
+![](../images/ch17/fig-no-front-door-print.png){fig-alt="A handsome shop with a big window and a CONTACT US sign, and no door anywhere; customers bounce off the glass." width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch17/fig-no-front-door.jpg){fig-alt="A handsome shop with a big window and a CONTACT US sign, and no door anywhere; customers bounce off the glass." width=85%}
+:::
 
 So you give people a reason to put their hand up, and a way to do it. Something genuinely useful enough that a stranger will trade their email address for it: a short guide, a checklist, a quick assessment that answers a real question they have. They get something of value, and you gain permission to keep talking to them. That is the front door. Attention becomes a lead, instead of a visitor you never hear from again.
 
@@ -32,9 +46,15 @@ A flywheel needs fuel, and the fuel is visibility: content that draws attention 
 
 This is where AI changes the game more than anywhere else in your marketing. You create the thinking once, and your brilliant new hire turns it into many things. One short video becomes a written article, a handful of social posts, a few quotable lines, and an email for your nurture sequence. You are not making more; you are squeezing far more juice from the same orange. The bottleneck on small-business marketing has always been the owner's time. AI relieves it.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch17/fig-orange-press-print.png){fig-alt="One orange labelled ONE GOOD IDEA in a Victorian screw-press; bottles fill with an article, five posts, an email sequence and a video." width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch17/fig-orange-press.jpg){fig-alt="One orange labelled ONE GOOD IDEA in a Victorian screw-press; bottles fill with an article, five posts, an email sequence and a video." width=85%}
+:::
+
 And because the AI draws on your Keystone, what it produces sounds like you, with your knowledge and your point of view, not like generic content churned out by a machine. That is the crucial difference. Automated marketing used to mean bland and forgettable. Now it can mean you, amplified across every channel, without you sitting at a keyboard for hours. One good idea, captured once, can quietly feed your flywheel for months.
 
-![A growth flywheel: create, capture, nurture and convert, delight, then referrals, spinning faster the longer it runs.](../images/ch17/fig-flywheel.svg){#fig-flywheel width=80%}
 
 ## Make the Engine Run Itself
 

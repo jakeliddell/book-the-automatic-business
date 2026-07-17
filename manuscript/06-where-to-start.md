@@ -36,7 +36,12 @@ That gives you four corners, and each corner tells you what to do.
 
 One more filter on top: risk. A high-value automation that can fail loudly, invoices sent to the wrong client, say, is worth approaching with care. Start in the high-value, low-effort, low-risk corner, build your confidence there, and level up from a position of strength.
 
-![Score each candidate on value and effort. Start in the top-left corner.](../images/ch06/fig-value-effort.svg){#fig-value-effort width=80%}
+::: {.content-visible when-format="typst"}
+![Score each candidate on value and effort. Start in the gold seam: high value, low effort.](../images/ch06/fig-prospectors-map-print.png){#fig-value-effort width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![Score each candidate on value and effort. Start in the gold seam: high value, low effort.](../images/ch06/fig-prospectors-map.jpg){#fig-value-effort-screen width=85%}
+:::
 
 ## Marginal Gains, Not a Big Bang
 
@@ -58,6 +63,12 @@ Two more rules save a great deal of pain. Do not automate a mess: if a process i
 
 A bad process, automated, is just a bad process that runs faster.
 
+```{=typst}
+#v(0.3em)
+#align(right, image("../images/marginalia/mark-ch06-arrow-read-twice.png", width: 2.3in))
+#v(0.3em)
+```
+
 ## Your First Win
 
 So, concretely. Look at your high-value, low-effort, low-risk corner and pick one. Or, if you are feeling bold, pick three, no more. The best first candidates share three traits, which are exactly the marks of the automation column from the triage: they are frequent, you do them at least weekly; they are repetitive, the steps barely change; and they are rules-based, if this happens, then that should happen.
@@ -73,6 +84,13 @@ The fastest way to kill your own momentum is to overbuild. So work to constraint
 Define done before you start, in a single sentence. "When someone fills in our contact form, they get a confirmation, a reminder, and their details land in our system." If it is not in that sentence, it does not get built, not yet. Give the build a time box: an afternoon, not a month. Set a small monthly ceiling on tool costs, and resist anything that needs a developer and custom code. Get the first step working flawlessly before you add a second, because you are building a ladder, not a spider's web. Then test it like a pessimist: it is not done when it is built, it is done when it runs ten times out of ten without you touching it. And write it down, a few lines noting what sets it off and what it does, so that when something breaks one day, and one day it will, you have a map.
 
 A short story shows both the danger and the cure. A marketing agency owner set out to automate his proposals. The plan was simple: when a lead enquires, generate a clean proposal and send it. Within a week the plan had bloated into a twelve-step monster with automatic pricing, conditional templates, AI-written copy and an alert for every proposal sent. Nothing launched. When he finally cut it back to what he actually needed, a clean proposal, sent fast, with no manual work, it was live in ninety minutes and saved six hours a week. That is the whole lesson. Do not let the perfect kill the profitable.  You can always improve it later.
+
+::: {.content-visible when-format="typst"}
+![](../images/ch06/fig-ninety-minute-machine-print.png){fig-alt="A dusty wall-sized blueprint tagged NEVER LAUNCHED beside a shoebox machine with one lever, tagged LIVE IN 90 MINUTES." width=100%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch06/fig-ninety-minute-machine.jpg){fig-alt="A dusty wall-sized blueprint tagged NEVER LAUNCHED beside a shoebox machine with one lever, tagged LIVE IN 90 MINUTES." width=100%}
+:::
 
 The specific tools you might use for any of this are listed and compared in the directory at the back of the book, kept there because they change far faster than the principles do.
 

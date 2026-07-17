@@ -14,6 +14,13 @@ But there is one last danger, and it is not that the systems will fail. It is th
 
 This is the trap that catches owners right at the finish line. After years of being the bottleneck, being needed is a hard habit to break. So you find yourself jumping on every tiny issue, tweaking automations that were working perfectly well, asking for updates the dashboard already gives you, inserting yourself into decisions that no longer need you, all out of an itch you cannot quite name. Bit by bit, you climb back into the gears you fought so hard to climb out of, and quietly make yourself the bottleneck all over again. The final discipline of this book is the hardest one, because it is a discipline of restraint. Maintain the machine. Do not micromanage it.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch20/fig-step-away-print.png){fig-alt="A gleaming machine with every dial in the green; the owner in brand-new overalls tiptoes toward it with an enormous spanner while the team watches." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch20/fig-step-away.jpg){fig-alt="A gleaming machine with every dial in the green; the owner in brand-new overalls tiptoes toward it with an enormous spanner while the team watches." width=88%}
+:::
+
 ## The Visionary's Itch
 
 That itch you cannot quite name has a name. In Rocket Fuel, Gino Wickman and Mark C. Winters describe the two kinds of leader every growing business needs. The Visionary is the ideas engine: sees around corners, spots the opportunity, wants to challenge, to innovate, to change things that were working perfectly well this morning. The Integrator is the one who turns vision into reality: order, cadence, follow-through, a deep satisfaction in keeping a stable ship stable.
@@ -48,6 +55,13 @@ When you do this, the machine improves without you being the one improving it. E
 
 One more hire completes the picture, and for many owners it is the one that finally sets them free. This journey has quietly created a gap. Someone should be running the stable ship day to day: watching the dashboards, holding the rhythms, chairing the quarterly service. That person should not be you. Not because you could not do it, but because you would do it badly, the way a racehorse pulls a plough badly. It is not your wiring, and the itch would win in the end.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch20/fig-racehorse-print.png){fig-alt="A thoroughbred in racing silks harnessed to a plough leaves a zigzag furrow, while a carthorse labelled THE INTEGRATOR ploughs straight lines." width=92%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch20/fig-racehorse.jpg){fig-alt="A thoroughbred in racing silks harnessed to a plough leaves a zigzag furrow, while a carthorse labelled THE INTEGRATOR ploughs straight lines." width=92%}
+:::
+
 This is the Integrator's job, and in a business your size it usually wears the title of general manager or managing director. The trusted lieutenant who genuinely enjoys overseeing a steady machine, who reads the same dashboard you glance at and sees a to-do list. Wickman and Winters estimate that Visionaries outnumber Integrators by roughly four to one,[^rocketfuel] so a good one is rare, hard to find, and worth holding onto when you do. Hand them the machine, and split the roles honestly: their job is to make sure you do not break the existing business on the way to the next one. Yours is the path you are actually built for, the next big evolution, the new offer, the door nobody else can see. That is not a demotion. It is the purest version of doing what only you can do.
 
 ## A Business That Runs Without You
@@ -56,7 +70,12 @@ Step right back now and look at the whole thing.
 
 The aim was never to remove yourself from your business entirely, off to a hammock, never to think about it again. The aim was to build a business that can run without needing you in the middle of it, so that your involvement becomes a choice rather than a life sentence. There is a simple exercise that makes this real. Draw up what I think of as your You Replacement Map: a list of everything that still, today, only happens because you are there to make it happen. Every decision only you make, every task only you do, every piece of knowledge only you hold. Then go down the list and, one at a time, design each one out, into a system, into a teammate, into the Keystone. You will never get the list to zero, and you should not want to. What is left at the end is only what you genuinely choose to keep, the work that is truly, only yours.
 
-![Your You Replacement Map: take everything that still runs only through you, and design it out, one row at a time.](../images/ch20/fig-replacement-map.svg){#fig-replacement-map width=90%}
+::: {.content-visible when-format="typst"}
+![Your You Replacement Map: re-route everything that still runs only through you, and keep only what you choose.](../images/ch20/fig-signal-box-print.png){#fig-replacement-map width=90%}
+:::
+::: {.content-visible unless-format="typst"}
+![Your You Replacement Map: re-route everything that still runs only through you, and keep only what you choose.](../images/ch20/fig-signal-box.jpg){#fig-replacement-map-screen width=90%}
+:::
 
 And here is the deepest reward of all, the one that ties the whole book together. A business that can run without you is the only kind that is truly an asset rather than a job. It survives your holiday, your illness, a month away. It can be handed to someone else. It can, when you choose, be sold, for what it is actually worth, because what a buyer is buying is a working machine and not a person who would quite like to leave. And the thing that makes all of this durable is the Keystone. Because your business's memory no longer lives only in your head, the business can genuinely outlast your daily involvement in it. You have done the rarest thing an owner can do. You have turned a job into an asset.
 
@@ -73,6 +92,12 @@ It turns out the answer was never to work harder, or to buy the cleverest new to
 The plate has been prised from your hands. What is left on it is only what was ever truly yours: the work that lights you up, the relationships that matter, the thinking, the leading, and the life you started all of this to have in the first place.
 
 So go and do what only you can do. The business will be just fine without you in every gear. That, after all, was always the whole point.
+
+```{=typst}
+#v(0.5em)
+#align(right, image("../images/marginalia/mark-ch20-arrow-off-page.png", width: 2.2in))
+#v(0.1em)
+```
 
 > **Try this.** Draw your You Replacement Map. One column for everything that still runs only through you. Beside each, write where it should go instead: a system, a person, or the Keystone. You do not have to act on it all today. But the moment it is on paper, you can see the road from here, and you can see, perhaps for the first time, a business that no longer needs you in order to run, and an owner who is finally free to choose how he spends his days.
 

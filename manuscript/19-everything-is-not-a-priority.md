@@ -12,6 +12,13 @@ Here is a small piece of history that turns out to matter. The word priority cam
 
 Read your own task list back with that in mind. Everything on it is flagged important. Everything is urgent. Everything is a priority. Which is exactly the same as saying nothing is, because if it is all first, then there is no first at all. You have not made a list of priorities. You have made a list of anxieties, and told yourself it was a plan.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch19/fig-everyone-gets-a-medal-print.png){fig-alt="An Olympic podium with fourteen first-place steps; every task wears a gold medal and an URGENT sash, while the judge holds a single trophy." width=92%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch19/fig-everyone-gets-a-medal.jpg){fig-alt="An Olympic podium with fourteen first-place steps; every task wears a gold medal and an URGENT sash, while the judge holds a single trophy." width=92%}
+:::
+
 ## The Overwhelm Is Not a Character Flaw
 
 Before we fix the list, I want to say something plainly, because I suspect a lot of owners quietly believe the opposite. If you feel permanently behind, scattered, unable to hold a thought for long before the next ping drags it away, that is not a personal failing. It is the water we are all swimming in now.
@@ -27,6 +34,13 @@ You would think the answer would come from software, and specifically from AI. I
 Take the current darling of the category, an AI scheduler that promises to plan your day for you. You feed it your tasks, each one tagged with a start date, a due date, whether the deadline is hard or soft, and a priority of urgent, high, medium or low. The AI then arranges the whole lot into your calendar around your fixed meetings. And, in fairness, the engine is genuinely impressive. A meeting appears out of nowhere and it reshuffles the day in an instant. You miss a task and it rolls it forward. It never drops anything.
 
 So why does almost everyone who tries it end up quietly abandoning it? Two reasons, and they are the same reason in different clothes. First, it optimises against a mountain of little settings that no normal, busy human ever keeps accurate. You forget to mark the hard deadlines, you never touch the priority field, and so the machine is scheduling your life against information you never really gave it. Second, and this is the fatal one, it never once asks you to confirm the order, and it gives you no proper way to overrule it. So you open your beautifully scheduled day, look at the task sitting in your ten o'clock slot, and think, that is not the most important thing right now. And you do something else. Then you spot the thing that genuinely matters most, and the algorithm has filed it away in the middle of next week, behind a bunch of old tasks you already did, but forgot to update the system, because you weren't working from the system.
+
+::: {.content-visible when-format="typst"}
+![](../images/ch19/fig-helpful-scheduler-print.png){fig-alt="An immaculate butler robot files a document stamped THE MOST IMPORTANT THING into a drawer labelled A WEEK ON THURSDAY." width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch19/fig-helpful-scheduler.jpg){fig-alt="An immaculate butler robot files a document stamped THE MOST IMPORTANT THING into a drawer labelled A WEEK ON THURSDAY." width=85%}
+:::
 
 This is the lesson of the triage, and of the whole book, arriving at the scale of a single day. The tool failed not because its AI was weak but because it let the AI do the deciding. It prioritised for you, silently, instead of helping you prioritise. Remember the rule from earlier in these pages: the machine proposes, the human disposes. A tool that quietly makes your most important decision for you, and then will not let you take it back, has not removed your overwhelm. It has automated it and amplified it.
 
@@ -56,7 +70,12 @@ The obvious worry with putting everything on one list is that it becomes enormou
 
 You look at the list through lenses. In a client-work block, you see only the client work. During admin time, only the admin. And the most natural lens of all is simply where you happen to be. Attach your work to places, and the list quietly adapts: the office tasks vanish the moment you leave the office, so they stop nagging you at the dinner table; your training plan surfaces when you walk into the gym; the shopping list appears when you are standing in the supermarket, and not one second before. None of these are separate lists to maintain and let fall out of sync. They are all the one list, filtered down to the only slice that matters where you are standing, right now.
 
-![One list, ordered by importance. The lenses simply choose which slice of it you see right now.](../images/ch19/fig-one-list.svg){#fig-one-list width=90%}
+::: {.content-visible when-format="typst"}
+![One list, ordered by importance. The lenses simply choose which slice of it you see right now.](../images/ch19/fig-one-list-print.png){#fig-one-list width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![One list, ordered by importance. The lenses simply choose which slice of it you see right now.](../images/ch19/fig-one-list.jpg){#fig-one-list-screen width=85%}
+:::
 
 ## Where All the Work Finally Lands
 

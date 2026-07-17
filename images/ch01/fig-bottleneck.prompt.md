@@ -1,10 +1,19 @@
-# Figure prompt: fig-bottleneck
+# 1.1 The Bottleneck, Properly Drawn
 
-Concept: the owner is the bottleneck. Every task and decision in the business funnels through one person, and only a trickle of output gets through.
+- Class: Cartoon (unnumbered)
+- Priority: Core — replaces old fig-bottleneck
+- Placement: Ch 1, at 'every important road runs through one junction'
+- Aspect: Wide landscape (3:2)
+- Print: pure B&W
 
-Prompt for image tool:
-"A clean, minimal business diagram, flat vector style, muted professional palette. Many small task icons across the bottom, with arrows all converging upward into the narrow neck of a bottle shape. A single human figure sits at the neck, the one point everything must pass through. Above the neck, a thin trickle of output escapes. Calm, confident, not cartoonish. Minimal labels."
+## Alt text
+The entire business queues inside a giant bottle toward the neck, where the owner's desk is wedged, stamping items through one at a time.
 
-Alt text: A diagram of a business where every task and decision funnels through the owner at the narrow neck of a bottle.
+## Prompt
+Hand-drawn black-and-white editorial cartoon illustration. Fine ink pen linework with dense crosshatching and stipple shading, on a plain pure-white background. Bold hand-lettered labels in clean marker capitals sit INSIDE the drawing, on the objects themselves. One physical metaphor, played completely straight; wry, deadpan humour. No colour, no border, no title or caption text outside the artwork, no photorealism, no digital gradients.
 
-Note: the committed SVG is a rough placeholder. Replace with the designed figure when ready.
+Format: Landscape, 4:3.
+
+Scene: A huge glass bottle lying on its side, drawn in cutaway. Inside the bottle, an entire small business queues toward the neck: staff holding documents, clients waving invoices, a small delivery van, telephones ringing. Wedged inside the narrow neck of the bottle is a single tiny desk where the owner sits, rubber-stamping items through the opening one at a time. Beyond the bottle mouth: an open, completely empty road.
+
+Lettering (must appear exactly as written, hand-lettered inside the drawing): a desk sign reading THE OWNER

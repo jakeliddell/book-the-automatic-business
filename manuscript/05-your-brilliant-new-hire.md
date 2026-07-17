@@ -12,6 +12,13 @@ But this new hire has two peculiar quirks, and almost everything that goes wrong
 
 The first quirk: on day one, it knows nothing about your business. Nothing about your clients, your prices, your way of doing things, your history. It arrives brilliant, and completely blank about you.
 
+::: {.content-visible when-format="typst"}
+![](../images/ch05/fig-day-one-print.png){fig-alt="A keen recruit whose huge head holds an endless library, sitting at a first-day desk; the filing cabinet labelled YOUR BUSINESS is open and empty." width=88%}
+:::
+::: {.content-visible unless-format="typst"}
+![](../images/ch05/fig-day-one.jpg){fig-alt="A keen recruit whose huge head holds an endless library, sitting at a first-day desk; the filing cabinet labelled YOUR BUSINESS is open and empty." width=88%}
+:::
+
 The second quirk: every so often it will say something that is plain wrong, and it will say it with exactly the same calm confidence as when it is right. It does not knock on your door looking sheepish. It hands you the wrong answer with a smile.
 
 Manage those two quirks and this is the most capable assistant you have ever had. Ignore them and it will embarrass you. So let me show you how to manage them.
@@ -58,7 +65,12 @@ And two rules that matter. Verify anything that carries risk before it leaves th
 
 There is a tidy way to remember the whole method: brief it like a new hire, and check it like a manager. Do that, and you will get more out of these tools than ninety percent of the people using them.
 
-![The method in one loop: brief it like a new hire, check it like a manager.](../images/ch05/fig-brief-check.svg){#fig-brief-check width=85%}
+::: {.content-visible when-format="typst"}
+![The method in one loop: brief it like a new hire, check it like a manager.](../images/ch05/fig-brief-check-print.png){#fig-brief-check width=85%}
+:::
+::: {.content-visible unless-format="typst"}
+![The method in one loop: brief it like a new hire, check it like a manager.](../images/ch05/fig-brief-check.jpg){#fig-brief-check-screen width=85%}
+:::
 
 ## The One Thing Holding It Back
 
