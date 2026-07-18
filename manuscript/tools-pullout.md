@@ -50,7 +50,7 @@ With the caveat that I don't think most to-do systems are fit for purpose (see b
 
 ## One Ranked List: Deciding What Matters
 
-Chapter Nineteen argues that your day runs on one ranked list, not a wall of boards and priority labels. One List (theautomaticbusiness.co.uk/onelist) is the tool I built to work exactly that way, for your work, your team's work, and work you share with clients. It is invite-only, and it is mine, so weigh this entry accordingly. If you would rather adapt a general-purpose task manager, there are litterally a thousand tools out there.  Most can't be used properly, but Infinity or Microsoft To Do can be bent to the discipline if you try: a single list, dragged into honest order, with everything else treated as a lens.  They may f
+Chapter Nineteen argues that your day runs on one ranked list, not a wall of boards and priority labels. One List (theautomaticbusiness.co.uk/onelist) is the tool I built to work exactly that way, for your work, your team's work, and work you share with clients. It is invite-only, and it is mine, so weigh this entry accordingly. If you would rather adapt a general-purpose task manager, there are litterally a thousand tools out there.  Most can't be used properly, but Infinity or Microsoft To Do can be bent to the discipline if you try: a single list, dragged into honest order, with everything else treated as a lens.  They may fall down if you try to apply it across y
 
 ## Your Keystone: The Company Knowledge Base
 
