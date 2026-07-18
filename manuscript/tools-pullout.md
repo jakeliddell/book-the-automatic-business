@@ -28,7 +28,7 @@ There is a huge difference between the cost of access to a "chat" model, and usi
 
 The glue from Chapter Ten, the tools that pass work between your apps without code. The main options run from easiest to most powerful: Zapier (the simplest, with the most integrations), Make (more visual and more capable, often cheaper at volume, with a slightly steeper learning curve), and n8n (open and self-hostable, the most control and the most technical). Start with the easiest one that connects the tools you already use. You can always graduate later.
 
-My opinionated choice?  It always used to be a choice of two - Zapier and Make.  Simple or Powerful.  But with n8n, Make almost feels redundant.  If it were me I'd pick Zapier if it's something simple for a non-technical team, or n8n if you're technically comfortable and excited in doing some amazing stuff.  But all of this 
+My opinionated choice?  It always used to be a choice of two - Zapier and Make.  Simple or Powerful.  But with n8n, Make almost feels redundant.  If it were me I'd pick Zapier if it's something simple for a non-technical team, or n8n if you're technically comfortable and excited in doing some amazing stuff.  But all of this is at risk of being obsole
 
 ## The Client Operating System: Your CRM Hub
 
