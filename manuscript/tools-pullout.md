@@ -28,6 +28,8 @@ There is a huge difference between the cost of access to a "chat" model, and usi
 
 The glue from Chapter Ten, the tools that pass work between your apps without code. The main options run from easiest to most powerful: Zapier (the simplest, with the most integrations), Make (more visual and more capable, often cheaper at volume, with a slightly steeper learning curve), and n8n (open and self-hostable, the most control and the most technical). Start with the easiest one that connects the tools you already use. You can always graduate later.
 
+My 
+
 ## The Client Operating System: Your CRM Hub
 
 The hub from Chapter Eleven, where every client relationship lives. Options include HighLevel (built specifically for service businesses, and genuinely all-in-one: CRM, booking, email and SMS, follow-up and more in a single place), HubSpot (polished and scalable, though it can get expensive as you grow), Pipedrive (simple and sales-pipeline-led), ActiveCampaign (strong on email marketing), and Salesforce (powerful, but enterprise-grade and usually overkill for a business this size). For a service firm with a team, an all-in-one platform consolidates the most tools into one login, which is usually the bigger win.
