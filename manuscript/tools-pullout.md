@@ -8,7 +8,7 @@ A word of advice before the list. Choose the category first, then the tool. Deci
 
 The names below are current at the time of writing; check for the latest before you commit, because most of them will have changed by the time you read this.
 
-But also ask yourself a different question.  "Where am I now?" If you've already implemented a tool properly, there's a lot more at stake in switching: technical work, risk of disruption, cultural impact.  But if you've seen the image of SaaS Spaghetti, and it resonated, you know you need to do some work; the only question is how you structure the change.
+But also ask yourself a different question.  "Where am I now?" If you've already invested time and money iimplemented a tool properly, there's a lot more at stake in switching: technical work, risk of disruption, cultural impact.  But if you've seen the image of SaaS Spaghetti, and it resonated, you know you need to do some work; the only question is how you structure the change.
 
 On the subject of generic software verses software tailored to your industry, I would throw out a word of caution.  There are so many pieces of software that specialise in helping with the specific requirements of your industry.  Examples include Phorest for the beauty and salon industry, and Clio for the legal industry.
 
