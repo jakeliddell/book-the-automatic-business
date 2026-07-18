@@ -68,7 +68,7 @@ The key here is not to just put up with the reporting already inside your hub an
 
 The Finance block mostly means three jobs.
 
-Accounting (Xero and QuickBooks lead for a business this size.; pick whichever your accountant prefers, because that relationship matters more than the software), payments and recurring billing (Stripe for cards and online payment, GoCardless for direct debit, both of which connect happily to everything else), and proposals with e-signatures (PandaDoc and its rivals). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
+Accounting is core.  Xero and QuickBooks lead for a business this size.; pick whichever your accountant prefers, because that relationship matters more than the software), payments and recurring billing (Stripe for cards and online payment, GoCardless for direct debit, both of which connect happily to everything else), and proposals with e-signatures (PandaDoc and its rivals). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
 
 ## One Last Word on Tools
 
