@@ -28,6 +28,24 @@ fetch "${RAW}/ofl/sourceserif4/SourceSerif4-Italic%5Bopsz%2Cwght%5D.ttf" "Source
 fetch "${RAW}/ofl/archivo/Archivo%5Bwdth%2Cwght%5D.ttf"        "Archivo.ttf"
 fetch "${RAW}/ofl/archivo/Archivo-Italic%5Bwdth%2Cwght%5D.ttf" "Archivo-Italic.ttf"
 
+# Body serif statics — Typst does not resolve the wght axis of this dual-axis
+# (opsz,wght) variable font, so bold text silently fell back to Regular.
+# Pull the static Bold/Semibold instances from Adobe's release to fix strong text.
+TMPZ="$(mktemp -d)"
+curl -fsSL "https://github.com/adobe-fonts/source-serif/releases/download/4.005R/source-serif-4.005_Desktop.zip" -o "${TMPZ}/ss.zip"
+unzip -q "${TMPZ}/ss.zip" -d "${TMPZ}"
+for face in Bold Semibold BoldIt; do
+  hit="$(find "${TMPZ}" -name "SourceSerif4-${face}.ttf" | head -1)"
+  if [ -z "${hit}" ]; then hit="$(find "${TMPZ}" -name "SourceSerif4-${face}.otf" | head -1)"; fi
+  if [ -n "${hit}" ]; then
+    cp "${hit}" "${DEST}/$(basename "${hit}")"
+    echo "  -> $(basename "${hit}")"
+  else
+    echo "  !! SourceSerif4-${face} not found in release zip" >&2
+  fi
+done
+rm -rf "${TMPZ}"
+
 # Mono — JetBrains Mono
 fetch "${RAW}/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf" "JetBrainsMono.ttf"
 

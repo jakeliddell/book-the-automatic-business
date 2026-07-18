@@ -35,7 +35,7 @@ It is the piece that holds everything else up, the stone at the very top of an a
 
 ```{=typst}
 #v(0.3em)
-#align(right, image("images/marginalia/mark-ch08-arrow-keystone.png", width: 1.1in))
+#align(left, pad(left: 62pt, image("images/marginalia/mark-ch08-arrow-keystone.png", width: 1.1in)))
 #v(0.3em)
 ```
 

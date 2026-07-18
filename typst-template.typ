@@ -153,6 +153,8 @@
   // ---- base text + airy block paragraphs -----------------------------------
   set text(font: font-serif, size: body-size, fill: ink, lang: "en", region: "gb", hyphenate: true)
   set par(justify: true, first-line-indent: 0pt, leading: body-leading, spacing: body-spacing)
+  set enum(indent: 14pt, body-indent: 9pt)
+  set list(indent: 14pt, body-indent: 9pt)
 
   // ---- [B] front/back-matter paragraph modes (copyright small, poem centred) 
   show par: it => context {
@@ -173,12 +175,51 @@
     set par(justify: false, leading: 0.34em)      // [D1] no justification; tight leading on multi-line display titles
     set text(font: font-display, fill: ink, hyphenate: false)
 
+    // ---- [C3] Contents page: emitted before "Read This First", which Quarto
+    // guarantees is the first body heading (index.md). The whole page is one
+    // flat run of sibling blocks inside a single context: any other structure
+    // (loose title text, nested outline, per-entry contexts) makes Typst
+    // orphan the title or bounce the entries to the next page.
+    if toc and ttl == "Important: Read This First" {
+      context {
+        pagebreak(to: "odd", weak: true)
+        set par(justify: false, leading: 0.55em)
+        block(spacing: 0pt, inset: (top: 0.9in, bottom: 26pt),
+          text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents])
+        for hd in query(heading.where(level: 1)) {
+          let t2 = norm-title(to-plain(hd.body))
+          if toc-exclude.contains(t2) { continue }
+          let loc = hd.location()
+          let ms = query(selector(<ab-h1-loc>).after(loc, inclusive: true))
+          let tloc = if ms.len() > 0 { ms.first().location() } else { loc }
+          // mirror the running-footer folio logic: roman front matter,
+          // arabic restarting at Chapter One
+          let tp = tloc.page()
+          let bs = query(<ab-chapter-start>)
+          let bstart = if bs.len() > 0 { bs.first().location().page() } else { 0 }
+          let pg = if bstart != 0 and tp >= bstart { numbering("1", tp - bstart + 1) } else { numbering("i", tp) }
+          let is-part = t2.starts-with("Part ") and t2.contains(":")
+          if is-part {
+            block(spacing: 0pt, inset: (top: 15pt, bottom: 3pt),
+              link(loc, text(font: font-display, weight: 700, size: 11pt, tracking: 0.03em, fill: ink, upper(hd.body))))
+          } else {
+            let fm = front-back-titles.contains(t2)
+            block(spacing: 0pt, inset: (top: 8.5pt, left: if fm { 0pt } else { 13pt }),
+              link(loc, text(font: font-serif, size: 10.5pt, weight: 400,
+                style: if fm { "italic" } else { "normal" }, fill: ink)[#hd.body #h(1fr) #pg]))
+          }
+        }
+        pagebreak(weak: true)
+      }
+    }
+
     if ttl.starts-with("Part ") and ttl.contains(":") {
       // ---- [D2] PART DIVIDER: "PART ONE" kicker over a large mixed-case title
       let bits = ttl.split(": ")
       let label = bits.at(0)
       let name = bits.slice(1).join(": ")
       pagebreak(to: "odd", weak: true)
+      [#metadata("h1") <ab-h1-loc>]
       page(header: none, footer: none)[
         #set align(center + horizon)
         #set par(justify: false)
@@ -204,6 +245,7 @@
       // ---- [B] AFTERWORD: personal letter ----
       fm-mode.update("letter")
       pagebreak(to: "odd", weak: true)
+      [#metadata("h1") <ab-h1-loc>]
       v(1.05in)
       text(font: font-serif, style: "italic", size: 20pt, fill: ink)[A Letter From Me to You]
       v(22pt)
@@ -211,6 +253,7 @@
       // ---- other front/back matter openers (Foreword, Intro, Tools, …) ----
       fm-mode.update("normal")
       pagebreak(to: "odd", weak: true)
+      [#metadata("h1") <ab-h1-loc>]
       v(1.05in)
       text(size: 22pt, weight: 700)[#it.body]
       v(16pt)
@@ -222,6 +265,7 @@
       counter(figure).update(0)                    // [C2] figures restart each chapter
       pagebreak(to: "odd", weak: true)
       [#metadata("chapter") <ab-chapter-start>]    // marker: chapter ordinal + body start
+      [#metadata("h1") <ab-h1-loc>]
       v(1.05in)
       context {
         let n = chapters-before(here())
@@ -236,12 +280,12 @@
   }
 
   // section headings (level 2): one level, Title Case, unnumbered
-  show heading.where(level: 2): it => block(above: 1.5em, below: 0.55em)[
+  show heading.where(level: 2): it => block(above: 1.7em, below: 0.95em)[
     #set par(justify: false)
     #set text(font: font-display, weight: 600, size: 13.5pt, fill: ink, hyphenate: false)
     #it.body
   ]
-  show heading.where(level: 3): it => block(above: 1.2em, below: 0.4em)[
+  show heading.where(level: 3): it => block(above: 1.4em, below: 0.75em)[
     #set par(justify: false)
     #set text(font: font-display, weight: 600, size: 11.5pt, fill: ink-soft, hyphenate: false)
     #it.body
@@ -252,7 +296,7 @@
     let plain = to-plain(it.body).trim()
     if plain.starts-with("Try this") {
       // [D4] Try this box — reversed TRY THIS tag, tightened, no duplicate label
-      block(width: 100%, breakable: true, above: 1.5em, below: 1.2em)[
+      block(width: 100%, breakable: true, above: 2.6em, below: 1.2em)[
         #line(length: 100%, stroke: 2.2pt + ink)
         #place(top + left, dy: -0.85em,
           box(fill: ink, inset: (x: 8pt, y: 4pt),
@@ -287,6 +331,11 @@
       ]
     }
   }
+
+  // ---- CARTOONS: any image sized in % (the unnumbered cartoons) is centred.
+  // Marginalia marks and overlays use absolute in/pt widths, so the rule
+  // leaves them untouched.
+  show image: it => if it.width != auto and it.width.ratio != 0% { align(center, it) } else { it }
 
   // ---- FIGURES [C2]: centred; caption "Figure 3.1" (per-chapter) -----------
   show figure: it => {
@@ -328,28 +377,33 @@
     #text(font: font-display, weight: 600, size: 13pt, tracking: 0.2em, fill: ink, upper(author))
     #v(9pt)
     #text(font: font-serif, style: "italic", size: 10pt, fill: ink-soft)[Foreword by Thomas Power]
-    #v(30pt)
-    #text(font: font-mono, size: 8pt, tracking: 0.18em, fill: ink-faint)[AUTOMATIC BUSINESS PRESS]
   ])
 
-  set page(header: running-header, footer: running-footer)
+  // ---- copyright, on the title verso (page iv). The manuscript source
+  // (manuscript/copyright.md) is EPUB-only; keep this in step with it.
+  pagebreak(weak: true)
+  block(width: 100%, {
+    set par(justify: false, leading: 0.62em, spacing: 0.9em)
+    set text(font: font-serif, size: 8.5pt, fill: ink-soft)
+    v(1.2in)
+    text(style: "italic")[The Automatic Business]
+    linebreak()
+    [Do What Only You Can Do]
+    v(0.9em)
+    [Copyright © 2026 Jake Liddell.]
+    v(0.9em)
+    [All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior written permission of the author, except for brief quotations used in a review.]
+    v(0.9em)
+    [The information in this book is provided for general guidance only. It is not, and should not be relied upon as, specific business, legal, financial or tax advice. Every business is different. Apply your own judgement, and seek professional advice where it is appropriate. The author accepts no liability for any action taken on the basis of this book.]
+    v(0.9em)
+    [Product and tool names mentioned in this book are the trademarks of their respective owners, are used for identification only, and were accurate at the time of writing. The author has no affiliation with them unless explicitly stated.]
+    v(0.9em)
+    [First edition, 2026.]
+    linebreak()
+    [ISBN: to be assigned.]
+  })
 
-  // ---- [C3] Contents: parts + chapters + kept front matter -----------------
-  if toc {
-    pagebreak(to: "odd", weak: true)
-    set par(justify: false)
-    v(0.9in)
-    text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents]
-    v(18pt)
-    show outline.entry: it => {
-      let t = norm-title(to-plain(it.element.body))
-      if toc-exclude.contains(t) { return }        // drop copyright / poem / back cover / intermission
-      let is-part = t.starts-with("Part ") and t.contains(":")
-      set text(font: if is-part { font-display } else { font-serif }, weight: if is-part { 700 } else { 400 }, fill: ink)
-      it
-    }
-    outline(title: none, depth: 1, indent: auto)
-  }
+  set page(header: running-header, footer: running-footer)
 
   // ===========================================================================
   body

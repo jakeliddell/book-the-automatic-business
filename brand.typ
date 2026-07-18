@@ -34,7 +34,7 @@
 // --- Type scale --------------------------------------------------------------
 #let body-size    = 11pt
 #let body-leading = 0.78em   // line spacing — generous, for easy reading
-#let body-spacing = 1.3em    // space BETWEEN paragraphs (no first-line indent) — a clear channel so the text breathes
+#let body-spacing = 1.5em    // space BETWEEN paragraphs (no first-line indent) — a clear channel so the text breathes
 
 // --- Print geometry (KDP 5.5 x 8.5" digest, B&W interior) --------------------
 // Typst has no named size for this trim, so we set explicit dimensions.
