@@ -22,7 +22,7 @@ These are the chat-style assistants from Chapter Five, your brilliant new hire. 
 
 My picks at time of writing?  Anthropic Claude, or OpenAI ChatGPT.
 
-There is a huge difference between the cost of access to a "chat" model, and using the same model through the API (for an automation, for example).  
+There is a huge difference between the cost of access to a "chat" model, and using the same model through the API (for an automation, for example).  Once you go deep into conf
 
 ## No-Code Automation: The Connectors
 
