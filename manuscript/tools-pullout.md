@@ -68,7 +68,7 @@ The key here is not to just put up with the reporting already inside your hub an
 
 The Finance block mostly means three jobs.
 
-Accounting is core.  Xero and QuickBooks lead for a business this size; Both have rich APIs.  Xero wins for richness of API and , payments and recurring billing (Stripe for cards and online payment, GoCardless for direct debit, both of which connect happily to everything else), and proposals with e-signatures (PandaDoc and its rivals). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
+Accounting is core.  Xero and QuickBooks lead for a business this size; Both have rich APIs.  Xero wins for richness of API and already-built integration with the wi, payments and recurring billing (Stripe for cards and online payment, GoCardless for direct debit, both of which connect happily to everything else), and proposals with e-signatures (PandaDoc and its rivals). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
 
 ## One Last Word on Tools
 
