@@ -44,7 +44,7 @@ Tools to end the calendar ping-pong: Calendly, Acuity, and Cal.com (open-source)
 
 The home for the Delivery block: who is doing what, for which client, by when. These will often include very specialist tools that are unique to your industry.  If you are choosing them, remember you're going to automate them, so you need to ensure that they already have an API that will allow you to do everything you do through the application automatically.
 
-You will also need a task / issue tracking tool, irrespective of whether that's already in your delivery tool.  There are always a hundred tasks open for a business that are not anything to do with client work.
+You will also need a task / issue tracking tool, irrespective of whether that's already in your delivery tool.  There are always a hundred tasks open for a business that are nothing to do with client work.
 
 With the caveat that I don't think most to-do systems are fit for purpose (see below), options include Asana (clean, widely used, easy for a team to adopt), Trello (the simplest: boards and cards, and sometimes that is all you need), monday.com (flexible and visual, at the cost of some clutter), and ClickUp (pretends to do everything, which is both the appeal and the risk).
 
