@@ -44,7 +44,7 @@ Tools to end the calendar ping-pong: Calendly, Acuity, and Cal.com (open-source)
 
 The home for the Delivery block: who is doing what, for which client, by when. These will often include very specialist tools that are unique to your industry.  If you are choosing them, remember you're going to automate them, so you need to ensure that they already have an API that will allow you to do everything you do through the application automatically.
 
-You will also need a task / issue trackiOptions include Asana (clean, widely used, easy for a team to adopt), Trello (the simplest: boards and cards, and sometimes that is all you need), monday.com (flexible and visual, at the cost of some clutter), and ClickUp (does everything, which is both the appeal and the risk).
+You will also need a task / issue tracking tool, irrespectiveOptions include Asana (clean, widely used, easy for a team to adopt), Trello (the simplest: boards and cards, and sometimes that is all you need), monday.com (flexible and visual, at the cost of some clutter), and ClickUp (does everything, which is both the appeal and the risk).
 
 ## One Ranked List: Deciding What Matters
 
