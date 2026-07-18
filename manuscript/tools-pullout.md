@@ -62,7 +62,7 @@ Guardrails are not usually a separate product. They are checks you build inside 
 
 ## Dashboards: Your Cockpit
 
-Start with the reporting already inside your hub and your accounts package; for most owners, that is the cockpit, and Chapter Fifteen's advice stands: seven numbers you trust beat forty you do not. If you want your handful of numbers from different systems on one screen, the connectors above can feed a simple dashboard tool such as Geckoboard or Databox, or a free report built in Google's Looker Studio. 
+Start with the reporting already inside your hub and your accounts package; for most owners, that is the cockpit, and Chapter Fifteen's advice stands: seven numbers you trust beat forty you do not. If you want your handful of numbers from different systems on one screen, the connectors above can feed a simple dashboard tool such as Geckoboard or Databox, or a free report built in Google's Looker Studio. In reality 
 
 ## The Money: Finance Block
 
