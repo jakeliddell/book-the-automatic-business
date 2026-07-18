@@ -8,7 +8,7 @@ A word of advice before the list. Choose the category first, then the tool. Deci
 
 But also ask yourself a different question.  "Where am I now?" If you've already implemented a tool properly, there's a lot more at stake in switching: technical work, risk of disruption, cultural impact.  But if you've seen the image of SaaS Spaghetti, and it resonated, you know you need to do some work; the only question is how you structure the change.
 
-On
+On the
 
 The categories follow the map from Chapter Seven: one home per block, and the knowledge and reporting layer over the top.
 
