@@ -6,7 +6,7 @@ Everything in the rest of the chapters is built to last, because it is about how
 
 A word of advice before the list. Choose the category first, then the tool. Decide what job needs doing, "I need a no-code connector," or "I need one place for client relationships," and only then pick a product to fill it. Pick one per job, learn it properly, and resist the urge to switch every time something shinier appears.  Switching is dead time - you need to be clear the new platform will deliver return on investment.
 
-The names below are current at the time of writing; check for the latest before you commit, because some of them will have changed by the time you read this.
+The names below are current at the time of writing; check for the latest before you commit, because most of them will have changed by the time you read this.
 
 But also ask yourself a different question.  "Where am I now?" If you've already implemented a tool properly, there's a lot more at stake in switching: technical work, risk of disruption, cultural impact.  But if you've seen the image of SaaS Spaghetti, and it resonated, you know you need to do some work; the only question is how you structure the change.
 
