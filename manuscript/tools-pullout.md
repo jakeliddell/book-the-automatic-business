@@ -20,7 +20,7 @@ The categories follow the map from Chapter Seven: one home per block, and the kn
 
 These are the chat-style assistants from Chapter Five, your brilliant new hire. The main general-purpose ones are ChatGPT (from OpenAI), Claude (from Anthropic), Gemini (from Google) and Copilot (from Microsoft). In practice they are all highly capable, and they trade places at the top constantly, so do not agonise, but do take your time. The differences that matter for a business are both about raw cleverness and fit: Just because your world is already Microsoft 365, don't assume that Copilot is the right choice.  At the time of writing Claude is better than Copilot inside Excel.  So try a few, pick one, pay for the proper paid tier (it is worth many times the cost), and learn to use it well, which matters far more than which one you chose. One thing to check for business use: choose a business or team plan that does not train on your data (usually as simple as a setting you make sure is chosen), so that what you paste in stays yours.
 
-My picks
+My picks at time of writing?  Anthrop
 
 ## No-Code Automation: The Connectors
 
