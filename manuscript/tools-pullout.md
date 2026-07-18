@@ -54,7 +54,7 @@ Chapter Nineteen argues that your day runs on one ranked list, not a wall of boa
 
 ## Your Keystone: The Company Knowledge Base
 
-This is the newest and least-settled category, so tread thoughtfully. At its simplest, a Keystone is a set of plain, well-organised documents in a shared, version-controlled place, maintained by an AI assistant. Approachable starting points are a markdown knowledge base like Obsidian, paired with one of the AI assistants above to read it, write to it, and keep it current. This area is moving quickly, and dedicated "company second brain" products are beginning to emerge, so expect better options to appear. The principle in Chapters Eight and Nine will not change even as the tools do.  However this can be a tricky thing to set up.  We are
+This is the newest and least-settled category, so tread thoughtfully. At its simplest, a Keystone is a set of plain, well-organised documents in a shared, version-controlled place, maintained by an AI assistant. Approachable starting points are a markdown knowledge base like Obsidian, paired with one of the AI assistants above to read it, write to it, and keep it current. This area is moving quickly, and dedicated "company second brain" products are beginning to emerge, so expect better options to appear. The principle in Chapters Eight and Nine will not change even as the tools do.  However this can be a tricky thing to set up.  We are in beta on a solution to make it 
 
 ## Guardrails and the Pre-Mortem
 
