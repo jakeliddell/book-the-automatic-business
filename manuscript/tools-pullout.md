@@ -2,7 +2,7 @@
 
 This is the one part of the book with a shelf life.
 
-Everything in the chapters is built to last, because it is about how to think, not which app to buy. The tools, though, change constantly. New ones launch, old ones get bought and rebranded, prices move, and every few months something leapfrogs whatever was best last year. So the tools live here, on their own, deliberately separated from the ideas. This is the only section you should expect to go out of date, and the only one worth revisiting.
+Everything in the rest ochapters is built to last, because it is about how to think, not which app to buy. The tools, though, change constantly. New ones launch, old ones get bought and rebranded, prices move, and every few months something leapfrogs whatever was best last year. So the tools live here, on their own, deliberately separated from the ideas. This is the only section you should expect to go out of date, and the only one worth revisiting.
 
 A word of advice before the list. Choose the category first, then the tool. Decide what job needs doing, "I need a no-code connector," or "I need one place for client relationships," and only then pick a product to fill it. Pick one per job, learn it properly, and resist the urge to switch every time something shinier appears. The names below are current at the time of writing; check for the latest before you commit, because some of them will have changed by the time you read this.
 
