@@ -6,9 +6,11 @@ Everything in the chapters is built to last, because it is about how to think, n
 
 A word of advice before the list. Choose the category first, then the tool. Decide what job needs doing, "I need a no-code connector," or "I need one place for client relationships," and only then pick a product to fill it. Pick one per job, learn it properly, and resist the urge to switch every time something shinier appears. The names below are current at the time of writing; check for the latest before you commit, because some of them will have changed by the time you read this.
 
+The categories follow the map from Chapter Seven: one home per block, and the knowledge and reporting layer over the top.
+
 ## AI Assistants: Your Reasoning Engine
 
-These are the chat-style assistants from Chapter Five, your brilliant new hire. The main general-purpose ones are ChatGPT (from OpenAI), Claude (from Anthropic), Gemini (from Google) and Copilot (from Microsoft). In practice they are all highly capable, and they trade places at the top constantly, so do not agonise. Pick one, pay for the proper paid tier (it is worth many times the cost), and learn to use it well, which matters far more than which one you chose. One thing to check for business use: choose a business or team plan that does not train on your data, so that what you paste in stays yours.
+These are the chat-style assistants from Chapter Five, your brilliant new hire. The main general-purpose ones are ChatGPT (from OpenAI), Claude (from Anthropic), Gemini (from Google) and Copilot (from Microsoft). In practice they are all highly capable, and they trade places at the top constantly, so do not agonise. The differences that matter for a business are less about raw cleverness and more about fit: Copilot if your world is already Microsoft 365, Gemini if it is Google Workspace, and ChatGPT or Claude if you want the assistant itself to be the main event. Pick one, pay for the proper paid tier (it is worth many times the cost), and learn to use it well, which matters far more than which one you chose. One thing to check for business use: choose a business or team plan that does not train on your data, so that what you paste in stays yours.
 
 ## No-Code Automation: The Connectors
 
@@ -22,13 +24,29 @@ The hub from Chapter Eleven, where every client relationship lives. Options incl
 
 Tools to end the calendar ping-pong: Calendly, Acuity, and Cal.com (open-source). Often this is built into the all-in-one CRM above, in which case use that and save yourself another subscription.
 
+## Delivering the Work
+
+The home for the Delivery block: who is doing what, for which client, by when. Options include Asana (clean, widely used, easy for a team to adopt), Trello (the simplest: boards and cards, and sometimes that is all you need), Basecamp (calm and opinionated, built for small teams that dislike busy software), monday.com (flexible and visual, at the cost of some clutter), and ClickUp (does everything, which is both the appeal and the risk). If your all-in-one hub includes projects or tasks, try that first: it is one fewer tool, and it already knows your clients.
+
+## One Ranked List: Deciding What Matters
+
+Chapter Nineteen argues that your day runs on one ranked list, not a wall of boards and priority labels. One List (theautomaticbusiness.co.uk/onelist) is the tool I built to work exactly that way, for your work, your team's work, and work you share with clients. It is invite-only, and it is mine, so weigh this entry accordingly. If you would rather adapt a general-purpose task manager, Todoist or Microsoft To Do can be bent to the discipline: a single list, dragged into honest order, with everything else treated as a lens.
+
 ## Your Keystone: The Company Knowledge Base
 
 This is the newest and least-settled category, so tread thoughtfully. At its simplest, a Keystone is a set of plain, well-organised documents in a shared, version-controlled place, maintained by an AI assistant. Approachable starting points are a structured workspace like Notion, or a markdown knowledge base like Obsidian, paired with one of the AI assistants above to read it, write to it, and keep it current. This area is moving quickly, and dedicated "company second brain" products are beginning to emerge, so expect better options to appear. The principle in Chapters Eight and Nine will not change even as the tools do.
 
-## The Rest of the Kit
+## Guardrails and the Pre-Mortem
 
-A few other jobs you will likely automate, with the usual suspects: proposals and e-signatures (tools such as PandaDoc and its rivals), payments and recurring billing (Stripe, GoCardless), and accounting (Xero, QuickBooks). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
+Guardrails are not usually a separate product. They are checks you build inside the connectors and the hub above, which is why they have no shopping list. The thinking step has a tool, though. The Pessimist (theautomaticbusiness.co.uk/pessimist) is the free tool from Chapter Twelve: give it a process, and it will tell you where it is going to break and which guardrails to build. It costs nothing, and it is useful whether or not you ever automate a single step.
+
+## Dashboards: Your Cockpit
+
+Start with the reporting already inside your hub and your accounts package; for most owners, that is the cockpit, and Chapter Fifteen's advice stands: seven numbers you trust beat forty you do not. If you want your handful of numbers from different systems on one screen, the connectors above can feed a simple dashboard tool such as Geckoboard or Databox, or a free report built in Google's Looker Studio.
+
+## The Money: Finance Block
+
+The Finance block mostly means three jobs. Accounting (Xero and QuickBooks lead for a business this size; pick whichever your accountant prefers, because that relationship matters more than the software), payments and recurring billing (Stripe for cards and online payment, GoCardless for direct debit, both of which connect happily to everything else), and proposals with e-signatures (PandaDoc and its rivals). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
 
 ## One Last Word on Tools
 
