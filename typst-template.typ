@@ -43,6 +43,7 @@
 // why "Chapter One" was missing in the first build.
 #let book-title = state("book-title", [])
 #let fm-mode    = state("fm-mode", "normal")  // normal | copyright | poem | letter
+#let toc-done   = state("ab-toc-done", false)  // Contents page emitted yet?
 #let chapters-before(loc) = query(selector(<ab-chapter-start>).before(loc, inclusive: true)).len()
 
 // --- best-effort plain-text extraction (classify blockquotes, split titles) --
@@ -153,6 +154,8 @@
   // ---- base text + airy block paragraphs -----------------------------------
   set text(font: font-serif, size: body-size, fill: ink, lang: "en", region: "gb", hyphenate: true)
   set par(justify: true, first-line-indent: 0pt, leading: body-leading, spacing: body-spacing)
+  set enum(indent: 14pt, body-indent: 9pt)
+  set list(indent: 14pt, body-indent: 9pt)
 
   // ---- [B] front/back-matter paragraph modes (copyright small, poem centred) 
   show par: it => context {
@@ -173,12 +176,55 @@
     set par(justify: false, leading: 0.34em)      // [D1] no justification; tight leading on multi-line display titles
     set text(font: font-display, fill: ink, hyphenate: false)
 
+    // ---- [C3] Contents page: emitted once, before the first non-Copyright
+    // heading, so it follows the copyright page (title verso). Parts are the
+    // emphasis; front and back matter entries are italic; no dot leaders.
+    if toc and ttl != "Copyright" {
+      context {
+        if not toc-done.get() {
+          pagebreak(to: "odd", weak: true)
+          set par(justify: false, leading: 0.55em)
+          set text(weight: 400)                    // undo heading bold inheritance
+          v(0.9in)
+          text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents]
+          v(26pt)
+          show outline.entry: en => {
+            let t2 = norm-title(to-plain(en.element.body))
+            if toc-exclude.contains(t2) { return }
+            let loc = en.element.location()
+            let ms = query(selector(<ab-h1-loc>).after(loc, inclusive: true))
+            let tloc = if ms.len() > 0 { ms.first().location() } else { loc }
+            // mirror the running-footer folio logic: roman front matter,
+            // arabic restarting at Chapter One
+            let tp = tloc.page()
+            let bs = query(<ab-chapter-start>)
+            let bstart = if bs.len() > 0 { bs.first().location().page() } else { 0 }
+            let pg = if bstart != 0 and tp >= bstart { numbering("1", tp - bstart + 1) } else { numbering("i", tp) }
+            let is-part = t2.starts-with("Part ") and t2.contains(":")
+            if is-part {
+              v(16pt, weak: true)
+              block(link(loc, text(font: font-display, weight: 700, size: 11pt, tracking: 0.03em, fill: ink, upper(t2))))
+              v(7pt, weak: true)
+            } else {
+              let fm = front-back-titles.contains(t2)
+              block(above: 0.85em, inset: (left: if fm { 0pt } else { 13pt }),
+                link(loc, text(font: font-serif, size: 10.5pt, weight: 400,
+                  style: if fm { "italic" } else { "normal" }, fill: ink)[#t2 #h(1fr) #pg]))
+            }
+          }
+          outline(title: none, depth: 1, indent: 0pt)
+        }
+      }
+      toc-done.update(true)
+    }
+
     if ttl.starts-with("Part ") and ttl.contains(":") {
       // ---- [D2] PART DIVIDER: "PART ONE" kicker over a large mixed-case title
       let bits = ttl.split(": ")
       let label = bits.at(0)
       let name = bits.slice(1).join(": ")
       pagebreak(to: "odd", weak: true)
+      [#metadata("h1") <ab-h1-loc>]
       page(header: none, footer: none)[
         #set align(center + horizon)
         #set par(justify: false)
@@ -204,6 +250,7 @@
       // ---- [B] AFTERWORD: personal letter ----
       fm-mode.update("letter")
       pagebreak(to: "odd", weak: true)
+      [#metadata("h1") <ab-h1-loc>]
       v(1.05in)
       text(font: font-serif, style: "italic", size: 20pt, fill: ink)[A Letter From Me to You]
       v(22pt)
@@ -211,6 +258,7 @@
       // ---- other front/back matter openers (Foreword, Intro, Tools, …) ----
       fm-mode.update("normal")
       pagebreak(to: "odd", weak: true)
+      [#metadata("h1") <ab-h1-loc>]
       v(1.05in)
       text(size: 22pt, weight: 700)[#it.body]
       v(16pt)
@@ -222,6 +270,7 @@
       counter(figure).update(0)                    // [C2] figures restart each chapter
       pagebreak(to: "odd", weak: true)
       [#metadata("chapter") <ab-chapter-start>]    // marker: chapter ordinal + body start
+      [#metadata("h1") <ab-h1-loc>]
       v(1.05in)
       context {
         let n = chapters-before(here())
@@ -236,12 +285,12 @@
   }
 
   // section headings (level 2): one level, Title Case, unnumbered
-  show heading.where(level: 2): it => block(above: 1.5em, below: 0.55em)[
+  show heading.where(level: 2): it => block(above: 1.7em, below: 0.95em)[
     #set par(justify: false)
     #set text(font: font-display, weight: 600, size: 13.5pt, fill: ink, hyphenate: false)
     #it.body
   ]
-  show heading.where(level: 3): it => block(above: 1.2em, below: 0.4em)[
+  show heading.where(level: 3): it => block(above: 1.4em, below: 0.75em)[
     #set par(justify: false)
     #set text(font: font-display, weight: 600, size: 11.5pt, fill: ink-soft, hyphenate: false)
     #it.body
@@ -252,7 +301,7 @@
     let plain = to-plain(it.body).trim()
     if plain.starts-with("Try this") {
       // [D4] Try this box — reversed TRY THIS tag, tightened, no duplicate label
-      block(width: 100%, breakable: true, above: 1.5em, below: 1.2em)[
+      block(width: 100%, breakable: true, above: 2.6em, below: 1.2em)[
         #line(length: 100%, stroke: 2.2pt + ink)
         #place(top + left, dy: -0.85em,
           box(fill: ink, inset: (x: 8pt, y: 4pt),
@@ -287,6 +336,11 @@
       ]
     }
   }
+
+  // ---- CARTOONS: any image sized in % (the unnumbered cartoons) is centred.
+  // Marginalia marks and overlays use absolute in/pt widths, so the rule
+  // leaves them untouched.
+  show image: it => if it.width != auto and it.width.ratio != 0% { align(center, it) } else { it }
 
   // ---- FIGURES [C2]: centred; caption "Figure 3.1" (per-chapter) -----------
   show figure: it => {
@@ -328,28 +382,13 @@
     #text(font: font-display, weight: 600, size: 13pt, tracking: 0.2em, fill: ink, upper(author))
     #v(9pt)
     #text(font: font-serif, style: "italic", size: 10pt, fill: ink-soft)[Foreword by Thomas Power]
-    #v(30pt)
-    #text(font: font-mono, size: 8pt, tracking: 0.18em, fill: ink-faint)[AUTOMATIC BUSINESS PRESS]
   ])
 
   set page(header: running-header, footer: running-footer)
 
-  // ---- [C3] Contents: parts + chapters + kept front matter -----------------
-  if toc {
-    pagebreak(to: "odd", weak: true)
-    set par(justify: false)
-    v(0.9in)
-    text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents]
-    v(18pt)
-    show outline.entry: it => {
-      let t = norm-title(to-plain(it.element.body))
-      if toc-exclude.contains(t) { return }        // drop copyright / poem / back cover / intermission
-      let is-part = t.starts-with("Part ") and t.contains(":")
-      set text(font: if is-part { font-display } else { font-serif }, weight: if is-part { 700 } else { 400 }, fill: ink)
-      it
-    }
-    outline(title: none, depth: 1, indent: auto)
-  }
+  // [C3] The Contents page is emitted lazily by the first non-Copyright
+  // level-1 heading (see the heading show rule), so Copyright can sit on the
+  // title verso ahead of it.
 
   // ===========================================================================
   body

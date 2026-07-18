@@ -7,8 +7,8 @@ book:
   subtitle: "Do What Only You Can Do"
   author: "Jake Liddell"
   chapters:
-    - index.md
     - manuscript/copyright.md
+    - index.md
     - manuscript/come-to-the-edge.md
     - manuscript/foreword.md
     - manuscript/introduction.md
