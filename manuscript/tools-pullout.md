@@ -12,7 +12,7 @@ But also ask yourself a different question.  "Where am I now?" If you've already
 
 On the subject of generic software verses software tailored to your industry, I would throw out a word of caution.  There are so many pieces of software that specialise in helping with the specific requirements of your industry.  Examples include Phorest for the beauty and salon industry, and Clio for the legal industry.  Both claim they are CRMs, despite their history of being a delivery platform, not a CRM.  I have personally investigated both of them, and they don't get close (at the time of writing) to being a best-practice CRM.
 
-They are playing outside their lane, in order to 
+They are playing outside their lane, in order to capture more revenue from busines
 
 The categories follow the map from Chapter Seven: one home per block, and the knowledge and reporting layer over the top.
 
