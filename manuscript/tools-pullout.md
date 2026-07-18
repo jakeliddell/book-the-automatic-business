@@ -46,7 +46,7 @@ The home for the Delivery block: who is doing what, for which client, by when. T
 
 You will also need a task / issue tracking tool, irrespective of whether that's already in your delivery tool.  There are always a hundred tasks open for a business that are not anything to do with client work.
 
-Options include Asana (clean, widely used, easy for a team to adopt), Trello (the simplest: boards and cards, and sometimes that is all you need), monday.com (flexible and visual, at the cost of some clutter), and ClickUp (pretends to do everything, which is both the appeal and the risk).
+With the caeOptions include Asana (clean, widely used, easy for a team to adopt), Trello (the simplest: boards and cards, and sometimes that is all you need), monday.com (flexible and visual, at the cost of some clutter), and ClickUp (pretends to do everything, which is both the appeal and the risk).
 
 ## One Ranked List: Deciding What Matters
 
