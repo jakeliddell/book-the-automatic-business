@@ -76,6 +76,10 @@ Read it carefully.
 
 Then start asking yourself not how you can work harder, but how your business can work better.
 
-Thomas Power
-**Thomas Power**
-Co-founder of Ecademy and Business Is Personal
+```{=typst}
+#v(1.4em)
+```
+
+**Thomas Power**\
+*Co-founder of Ecademy and Business Is Personal*\
+[bip100.club](https://bip100.club/)

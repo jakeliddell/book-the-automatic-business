@@ -12,4 +12,4 @@ Because here is what I believe, and it is the real reason this book exists. Peop
 
 Fortune favours the brave. Go and do what only you can do.
 
-Jake
+Jake Liddell.

@@ -1,3 +1,5 @@
+::: {.content-visible unless-format="typst"}
+
 # Back Cover {.unnumbered}
 
 **You didn't start your business to end up trapped inside it.**
@@ -20,3 +22,5 @@ This is not theory. Jake Liddell has spent more than thirty-five years building 
 Stop being the engine. Become the architect.
 
 **Do what only you can do.**
+
+:::
