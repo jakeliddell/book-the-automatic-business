@@ -176,46 +176,41 @@
     set text(font: font-display, fill: ink, hyphenate: false)
 
     // ---- [C3] Contents page: emitted before "Read This First", which Quarto
-    // guarantees is the first body heading (index.md). The title sits outside
-    // any context; each entry renders in its own small context slot, because
-    // one large context block refuses to start mid-page.
+    // guarantees is the first body heading (index.md). The whole page is one
+    // flat run of sibling blocks inside a single context: any other structure
+    // (loose title text, nested outline, per-entry contexts) makes Typst
+    // orphan the title or bounce the entries to the next page.
     if toc and ttl == "Important: Read This First" {
-      pagebreak(to: "odd", weak: true)
-      set par(justify: false, leading: 0.55em)
-      v(0.9in)
-      text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents]
-      v(26pt)
-      for slot in range(48) {
-        context {
-          let items = query(heading.where(level: 1)).filter(h =>
-            not toc-exclude.contains(norm-title(to-plain(h.body))))
-          if slot < items.len() {
-            let hd = items.at(slot)
-            let t2 = norm-title(to-plain(hd.body))
-            let loc = hd.location()
-            let ms = query(selector(<ab-h1-loc>).after(loc, inclusive: true))
-            let tloc = if ms.len() > 0 { ms.first().location() } else { loc }
-            // mirror the running-footer folio logic: roman front matter,
-            // arabic restarting at Chapter One
-            let tp = tloc.page()
-            let bs = query(<ab-chapter-start>)
-            let bstart = if bs.len() > 0 { bs.first().location().page() } else { 0 }
-            let pg = if bstart != 0 and tp >= bstart { numbering("1", tp - bstart + 1) } else { numbering("i", tp) }
-            let is-part = t2.starts-with("Part ") and t2.contains(":")
-            if is-part {
-              v(16pt, weak: true)
-              block(link(loc, text(font: font-display, weight: 700, size: 11pt, tracking: 0.03em, fill: ink, upper(hd.body))))
-              v(7pt, weak: true)
-            } else {
-              let fm = front-back-titles.contains(t2)
-              block(above: 0.85em, inset: (left: if fm { 0pt } else { 13pt }),
-                link(loc, text(font: font-serif, size: 10.5pt, weight: 400,
-                  style: if fm { "italic" } else { "normal" }, fill: ink)[#hd.body #h(1fr) #pg]))
-            }
+      context {
+        pagebreak(to: "odd", weak: true)
+        set par(justify: false, leading: 0.55em)
+        block(spacing: 0pt, inset: (top: 0.9in, bottom: 26pt),
+          text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents])
+        for hd in query(heading.where(level: 1)) {
+          let t2 = norm-title(to-plain(hd.body))
+          if toc-exclude.contains(t2) { continue }
+          let loc = hd.location()
+          let ms = query(selector(<ab-h1-loc>).after(loc, inclusive: true))
+          let tloc = if ms.len() > 0 { ms.first().location() } else { loc }
+          // mirror the running-footer folio logic: roman front matter,
+          // arabic restarting at Chapter One
+          let tp = tloc.page()
+          let bs = query(<ab-chapter-start>)
+          let bstart = if bs.len() > 0 { bs.first().location().page() } else { 0 }
+          let pg = if bstart != 0 and tp >= bstart { numbering("1", tp - bstart + 1) } else { numbering("i", tp) }
+          let is-part = t2.starts-with("Part ") and t2.contains(":")
+          if is-part {
+            block(spacing: 0pt, inset: (top: 15pt, bottom: 3pt),
+              link(loc, text(font: font-display, weight: 700, size: 11pt, tracking: 0.03em, fill: ink, upper(hd.body))))
+          } else {
+            let fm = front-back-titles.contains(t2)
+            block(spacing: 0pt, inset: (top: 8.5pt, left: if fm { 0pt } else { 13pt }),
+              link(loc, text(font: font-serif, size: 10.5pt, weight: 400,
+                style: if fm { "italic" } else { "normal" }, fill: ink)[#hd.body #h(1fr) #pg]))
           }
         }
+        pagebreak(weak: true)
       }
-      pagebreak(weak: true)
     }
 
     if ttl.starts-with("Part ") and ttl.contains(":") {
