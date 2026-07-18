@@ -22,7 +22,7 @@ These are the chat-style assistants from Chapter Five, your brilliant new hire. 
 
 My picks at time of writing?  Anthropic Claude, or OpenAI ChatGPT.
 
-There is a huge difference between the cost of access to a "chat" model, and using the same model through the API (for an automation, for example).  Once you go deep into configuring a Keystone, you will find that AI is more expensive, and you many not be able to justify just running on the current "best" model.  You'll go deeper into picking which model is right for which kind of task.  (Doing this will result in 10x savings.) I would give an honourable mention to OpenRouter.ai, which gives you access to almost all models, 
+There is a huge difference between the cost of access to a "chat" model, and using the same model through the API (for an automation, for example).  Once you go deep into configuring a Keystone, you will find that AI is more expensive, and you many not be able to justify just running on the current "best" model.  You'll go deeper into picking which model is right for which kind of task.  (Doing this will result in 10x savings.) I would give an honourable mention to OpenRouter.ai, which gives you access to almost all models via API, for a small premium
 
 ## No-Code Automation: The Connectors
 
