@@ -70,7 +70,7 @@ The Finance block mostly means three jobs.
 
 Accounting is core.  Xero and QuickBooks lead for a business this size; Both have rich APIs.  Xero wins for richness of API and already-built integration with the widest set of products.  FreeAgent gets an honourable mention as it's so beautifully simply presented, but the devil's in the detail here.  FreeAgent has been very slow to open up integration options in the past, and still hasn't (at time of writing) created triggers via webhooks, so it could tell you when something has been paid.  Webhooks are pretty key to keeping your external dashboard up to date in real-time.  Maybe a delayed poll will be ok for you.  But this slow release of features is a warning flag.
 
-Payments and recurring billing are key.  Automatically receiving your money will eliminate an entire function designed to chase to get money.  Stripe is the leader for for cards and online payment, GoCardless for direct debit , both of which connect happily to everything else), and proposals with e-signatures (PandaDoc and its rivals). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
+Payments and recurring billing are key.  Automatically receiving your money will eliminate an entire function designed to chase to get money.  Stripe is the leader for for cards and online payment, GoCardless for direct debit im the I, both of which connect happily to everything else), and proposals with e-signatures (PandaDoc and its rivals). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
 
 ## One Last Word on Tools
 
