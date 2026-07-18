@@ -62,7 +62,7 @@ Guardrails are not usually a separate product. They are checks you build inside 
 
 ## Dashboards: Your Cockpit
 
-The key here is not to just put up with the reporting already inside your hub and your accounts package; for most owners, the standard defaults is as far as it gets, but Chapter Fifteen's advice stands: seven numbers you trust beat forty you do not. If you want your handful of numbers from different systems on one screen, the connectors above can feed a simple dashboard tool such as Geckoboard or Databox, or a free report built in Google's Looker Studio. In reality what you need is your own personalised dashboard.  These days this doesn't have to be a SaaS-Spaghetti in it's own right.  There are tools like Noloco or AirTable that can hold the data, or you can create something more bespoke and cheaper in the long-run yourself.  Check out theautomaticbusiness.co.uk/dashboards for more information.
+The key here is not to just put up with the reporting already inside your hub and your accounts package; for most owners, the standard defaults is as far as it gets, but Chapter Fifteen's advice stands: seven numbers you trust beat forty you do not. If you want your handful of numbers from different systems on one screen, the connectors above can feed a simple dashboard tool such as Geckoboard or Databox, or a free report built in Google's Looker Studio. In reality what you need is your own personalised, o dashboard.  These days this doesn't have to be a SaaS-Spaghetti in it's own right.  There are tools like Noloco or AirTable that can hold the data, or you can create something more bespoke and cheaper in the long-run yourself.  Check out theautomaticbusiness.co.uk/dashboards for more information.
 
 ## The Money: Finance Block
 
