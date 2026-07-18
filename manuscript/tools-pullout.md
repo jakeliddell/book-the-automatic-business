@@ -58,7 +58,7 @@ This is the newest and least-settled category, so tread thoughtfully. At its sim
 
 ## Guardrails and the Pre-Mortem
 
-Guardrails are not usually a separate product. They are checks you build inside the connectors and the hub above, which is why they have no shopping list. The thinking step has a tool, though. The Pessimist (theautomaticbusiness.co.uk/pessimist) is the free tool from Chapter Twelve: give it a process, and it will tell you where it is going to break and which guardrails to build. It costs nothing, and it is useful whether or not you ever automate a single step (although I'll be sad .
+Guardrails are not usually a separate product. They are checks you build inside the connectors and the hub above, which is why they have no shopping list. The thinking step has a tool, though. The Pessimist (theautomaticbusiness.co.uk/pessimist) is the free tool from Chapter Twelve: give it a process, and it will tell you where it is going to break and which guardrails to build. It costs nothing, and it is useful whether or not you ever automate a single step (although I'll be sad if you don't! .
 
 ## Dashboards: Your Cockpit
 
