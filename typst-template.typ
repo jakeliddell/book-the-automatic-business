@@ -170,7 +170,7 @@
   // ---- HEADINGS ------------------------------------------------------------
   show heading.where(level: 1): it => {
     let ttl = norm-title(to-plain(it.body))
-    set par(justify: false)                       // [D1] no justification on display
+    set par(justify: false, leading: 0.34em)      // [D1] no justification; tight leading on multi-line display titles
     set text(font: font-display, fill: ink, hyphenate: false)
 
     if ttl.starts-with("Part ") and ttl.contains(":") {
@@ -266,9 +266,11 @@
         #line(length: 100%, stroke: 0.6pt + ink)
       ]
     } else {
-      // [D3] Epigraph — italic quote; attribution smaller, upright, soft grey
-      block(width: 100%, above: 0.3em, below: 1.7em)[
-        #set par(justify: false, leading: 0.7em, spacing: 0.55em)
+      // [D3] Epigraph — italic quote in soft ink; attribution smaller, upright,
+      // grey, with a clear gap above it; generous sink before the body starts.
+      block(width: 100%, above: 0.3em, below: 3.2em)[
+        #set par(justify: false, leading: 0.7em, spacing: 0.9em)
+        #show emph: e => e.body // manuscript sets the quote in *emphasis*; unwrap it so it cannot toggle our italic back to upright
         #let epi = counter("ab-epi")
         #epi.update(0)
         #show par: p => {
@@ -277,7 +279,7 @@
             if epi.get().first() >= 2 {
               text(size: 9.5pt, style: "normal", fill: ink-soft, p)
             } else {
-              text(style: "italic", size: 12pt, fill: ink, p)
+              text(style: "italic", size: 12pt, fill: ink-soft, p)
             }
           }
         }
