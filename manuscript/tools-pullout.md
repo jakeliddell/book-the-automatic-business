@@ -22,7 +22,7 @@ These are the chat-style assistants from Chapter Five, your brilliant new hire. 
 
 My picks at time of writing?  Anthropic Claude, or OpenAI ChatGPT.
 
-Note that t
+There is a hu
 
 ## No-Code Automation: The Connectors
 
