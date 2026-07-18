@@ -38,7 +38,7 @@ As a previous reseller of ActiveCampaign, an implementor of Salesforce, someone 
 
 ## Scheduling
 
-Tools to end the calendar ping-pong: Calendly, Acuity, and Cal.com (open-source). Often this is built into the all-in-one CRM above, in which case use that and save yourself another subscription.  (When I say "often"
+Tools to end the calendar ping-pong: Calendly, Acuity, and Cal.com (open-source). Often this is built into the all-in-one CRM above, in which case use that and save yourself another subscription.  (When I say "often", it actuall
 
 ## Delivering the Work
 
