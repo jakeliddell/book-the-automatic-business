@@ -43,7 +43,6 @@
 // why "Chapter One" was missing in the first build.
 #let book-title = state("book-title", [])
 #let fm-mode    = state("fm-mode", "normal")  // normal | copyright | poem | letter
-#let toc-done   = state("ab-toc-done", false)  // Contents page emitted yet?
 #let chapters-before(loc) = query(selector(<ab-chapter-start>).before(loc, inclusive: true)).len()
 
 // --- best-effort plain-text extraction (classify blockquotes, split titles) --
@@ -176,22 +175,24 @@
     set par(justify: false, leading: 0.34em)      // [D1] no justification; tight leading on multi-line display titles
     set text(font: font-display, fill: ink, hyphenate: false)
 
-    // ---- [C3] Contents page: emitted once, before the first non-Copyright
-    // heading, so it follows the copyright page (title verso). Parts are the
-    // emphasis; front and back matter entries are italic; no dot leaders.
-    if toc and ttl != "Copyright" {
-      context {
-        if not toc-done.get() {
-          pagebreak(to: "odd", weak: true)
-          set par(justify: false, leading: 0.55em)
-          set text(weight: 400)                    // undo heading bold inheritance
-          v(0.9in)
-          text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents]
-          v(26pt)
-          show outline.entry: en => {
-            let t2 = norm-title(to-plain(en.element.body))
-            if toc-exclude.contains(t2) { return }
-            let loc = en.element.location()
+    // ---- [C3] Contents page: emitted before "Read This First", which Quarto
+    // guarantees is the first body heading (index.md). The title sits outside
+    // any context; each entry renders in its own small context slot, because
+    // one large context block refuses to start mid-page.
+    if toc and ttl == "Important: Read This First" {
+      pagebreak(to: "odd", weak: true)
+      set par(justify: false, leading: 0.55em)
+      v(0.9in)
+      text(font: font-display, weight: 700, size: 20pt, fill: ink)[Contents]
+      v(26pt)
+      for slot in range(48) {
+        context {
+          let items = query(heading.where(level: 1)).filter(h =>
+            not toc-exclude.contains(norm-title(to-plain(h.body))))
+          if slot < items.len() {
+            let hd = items.at(slot)
+            let t2 = norm-title(to-plain(hd.body))
+            let loc = hd.location()
             let ms = query(selector(<ab-h1-loc>).after(loc, inclusive: true))
             let tloc = if ms.len() > 0 { ms.first().location() } else { loc }
             // mirror the running-footer folio logic: roman front matter,
@@ -203,19 +204,18 @@
             let is-part = t2.starts-with("Part ") and t2.contains(":")
             if is-part {
               v(16pt, weak: true)
-              block(link(loc, text(font: font-display, weight: 700, size: 11pt, tracking: 0.03em, fill: ink, upper(t2))))
+              block(link(loc, text(font: font-display, weight: 700, size: 11pt, tracking: 0.03em, fill: ink, upper(hd.body))))
               v(7pt, weak: true)
             } else {
               let fm = front-back-titles.contains(t2)
               block(above: 0.85em, inset: (left: if fm { 0pt } else { 13pt }),
                 link(loc, text(font: font-serif, size: 10.5pt, weight: 400,
-                  style: if fm { "italic" } else { "normal" }, fill: ink)[#t2 #h(1fr) #pg]))
+                  style: if fm { "italic" } else { "normal" }, fill: ink)[#hd.body #h(1fr) #pg]))
             }
           }
-          outline(title: none, depth: 1, indent: 0pt)
         }
       }
-      toc-done.update(true)
+      pagebreak(weak: true)
     }
 
     if ttl.starts-with("Part ") and ttl.contains(":") {
@@ -384,11 +384,31 @@
     #text(font: font-serif, style: "italic", size: 10pt, fill: ink-soft)[Foreword by Thomas Power]
   ])
 
-  set page(header: running-header, footer: running-footer)
+  // ---- copyright, on the title verso (page iv). The manuscript source
+  // (manuscript/copyright.md) is EPUB-only; keep this in step with it.
+  pagebreak(weak: true)
+  block(width: 100%, {
+    set par(justify: false, leading: 0.62em, spacing: 0.9em)
+    set text(font: font-serif, size: 8.5pt, fill: ink-soft)
+    v(1.2in)
+    text(style: "italic")[The Automatic Business]
+    linebreak()
+    [Do What Only You Can Do]
+    v(0.9em)
+    [Copyright © 2026 Jake Liddell.]
+    v(0.9em)
+    [All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior written permission of the author, except for brief quotations used in a review.]
+    v(0.9em)
+    [The information in this book is provided for general guidance only. It is not, and should not be relied upon as, specific business, legal, financial or tax advice. Every business is different. Apply your own judgement, and seek professional advice where it is appropriate. The author accepts no liability for any action taken on the basis of this book.]
+    v(0.9em)
+    [Product and tool names mentioned in this book are the trademarks of their respective owners, are used for identification only, and were accurate at the time of writing. The author has no affiliation with them unless explicitly stated.]
+    v(0.9em)
+    [First edition, 2026.]
+    linebreak()
+    [ISBN: to be assigned.]
+  })
 
-  // [C3] The Contents page is emitted lazily by the first non-Copyright
-  // level-1 heading (see the heading show rule), so Copyright can sit on the
-  // title verso ahead of it.
+  set page(header: running-header, footer: running-footer)
 
   // ===========================================================================
   body
