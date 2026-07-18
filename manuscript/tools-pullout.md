@@ -72,7 +72,7 @@ Accounting is core.  Xero and QuickBooks lead for a business this size; Both hav
 
 Payments and recurring billing are key.  Automatically receiving your money will eliminate an entire function designed to chase to get money.  Stripe is the leader for for cards and online payment, GoCardless for direct debit in the UK, both of which connect happily to everything else.
 
-Proposals with e-signatures (PandaDoc and its rivals). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
+Proposals with e-signatures (PandaDoc and its rivals,m). In each case the same rule applies: pick one, connect it to your hub, and let it talk to everything else.
 
 ## One Last Word on Tools
 
