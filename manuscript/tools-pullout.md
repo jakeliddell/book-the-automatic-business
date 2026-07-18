@@ -76,4 +76,6 @@ Proposals with e-signatures (PandaDoc, Docusign and their rivals, or build it in
 
 ## One Last Word on Tools
 
-There will always be a newer tool, and there will always be someone insisting you must switch to it. You almost never should. If you're tempted, come back to here, take a deep breath, and think carefully about what the ROI of switchiThe businesses that win are not the ones with the trendiest stack. They are the ones who picked sensible tools, learned them, connected them, and then got on with the work. The strategy is in the chapters. This page is just the current set of spanners.
+There will always be a newer tool, and there will always be someone insisting you must switch to it. You almost never should. If you're tempted, come back to here, take a deep breath, and think carefully about what the ROI of switching will be.
+
+The businesses that win are not the ones with the trendiest stack. They are the ones who picked sensible tools, learned them, connected them, and then got on with the work. The strategy is in the chapters. This page is just the current set of spanners.
