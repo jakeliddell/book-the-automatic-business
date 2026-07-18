@@ -306,6 +306,8 @@
         // hide the leading "Try this." run — the reversed tag is the label now
         #show strong: s => if to-plain(s.body).trim().starts-with("Try this") { none } else { s }
         #it.body
+        #v(10pt)
+        #text(font: font-display, size: 8pt, tracking: 0.04em, fill: ink-soft)[This exercise lives as a free worksheet at theautomaticbusiness.co.uk/try]
         #v(7pt)
         #line(length: 100%, stroke: 0.6pt + ink)
       ]
