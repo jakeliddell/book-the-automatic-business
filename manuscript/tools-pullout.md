@@ -34,7 +34,7 @@ My opinionated choice?  It always used to be a choice of two - Zapier and Make. 
 
 The hub from Chapter Eleven, where every client relationship lives. Options include HighLevel (built specifically for service businesses, and genuinely all-in-one: CRM, booking, email and SMS, follow-up and more in a single place), HubSpot (polished and scalable, though it does get expensive as you grow), Pipedrive (simple and sales-pipeline-led), ActiveCampaign (strong on email marketing), and Salesforce (powerful, but enterprise-grade and usually overkill for a business this size). For a service firm with a team, an all-in-one platform consolidates the most tools into one login, which is usually the bigger win.
 
-As a previous reseller of ActiveCampaign, an implementor of Salesfor
+As a previous reseller of ActiveCampaign, an implementor of Salesforce, and someone who tried to
 
 ## Scheduling
 
