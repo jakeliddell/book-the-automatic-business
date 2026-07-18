@@ -43,7 +43,14 @@ When most owners finally accept they cannot do it all, their first instinct is t
 
 So here is a rule worth holding onto. Before you delegate a repeating task to a person, ask whether it should be delegated to a machine. A well-built system does not sleep, does not forget, does not call in sick, and does not need a one-to-one. It does the same thing, correctly, the thousandth time and the first. For the repetitive, rule-based, soul-sapping work that currently clogs your week, that is exactly what you want.
 
-`#box(place(dx: 24pt, dy: 123pt, rotate(-12deg, origin: left + horizon, image("images/marginalia/mark-ch02-arrow-order.png", width: 1.1in))))`{=typst}This is not anti-people. It is the opposite. When you hand the mechanical work to systems, the people you do employ get to do the work that actually needs a human: judgement, relationships, creativity, care. You stop hiring people to be the system, and you start hiring them to run it. The order matters. Automation first, people second. Decide what the machine should own, and only then decide what is left for a person.
+This is not anti-people. It is the opposite. When you hand the mechanical work to systems, the people you do employ get to do the work that actually needs a human: judgement, relationships, creativity, care. You stop hiring people to be the system, and you start hiring them to run it. The order matters. Automation first, people second. Decide what the machine should own, and only then decide what is left for a person.
+
+```{=typst}
+#v(-0.3em)
+#align(left, pad(left: 18pt, rotate(-8deg, origin: left + horizon, image("images/marginalia/mark-ch02-arrow-order.png", width: 1.5in))))
+#v(0.2em)
+```
+
 
 
 ## Why This Compounds

@@ -1,3 +1,5 @@
+::: {.content-visible unless-format="typst"}
+
 # Copyright {.unnumbered}
 
 *The Automatic Business*
@@ -15,3 +17,5 @@ Product and tool names mentioned in this book are the trademarks of their respec
 First edition, 2026.
 
 ISBN: to be assigned.
+
+:::
